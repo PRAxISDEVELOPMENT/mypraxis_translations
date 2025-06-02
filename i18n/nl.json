@@ -1669,6 +1669,7 @@
   "Order": "Volgorde",
   "Movable": "Verplaatsbaar",
   "You are about to register a new account using the following e-mail address: {{value}}": "U staat op het punt een nieuw account te registreren met het volgende e-mailadres: {{value}}",
+  "As soon as the registration is completed, you will receive a verification email. After successful verification, the user will be added.": "Zodra de registratie is voltooid, ontvang je een verificatie-e-mail. Na succesvolle verificatie wordt de gebruiker toegevoegd.",
   "Import contacts": "Contact(en) importeren",
   "Notifications sorted from old to new": "Meldingen gerangschikt van oud naar nieuw",
   "With call commentary, operator commentary, and handling text": "Met belcommentaar, commentaar operator en afhandeltekst",
