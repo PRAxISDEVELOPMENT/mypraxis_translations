@@ -2075,5 +2075,13 @@
   "Can the work be resumed?": "Le travail peut-il reprendre?",
   "Medical help needed?": "Besoin d'aide médicale?",
   "Feedback": "Retour",
+  "Further notice": "Avis ultérieur",
+  "Try again": "Réessayer",
+  "No worries. Just enter your email and we’ll help you reset your password securely": "Pas d'inquiétude. Entrez simplement votre adresse e-mail et nous vous aiderons à réinitialiser votre mot de passe en toute sécurité",
+  "This platform requires authentication. Please sign in to access your personalized services, account information, and tools tailored to your needs": "Cette plateforme nécessite une authentification. Veuillez vous connecter pour accéder à vos services personnalisés, à vos informations de compte et aux outils adaptés à vos besoins",
+  "An unknown error occurred.": "Une erreur inconnue s'est produite.",
+  "An unknown error occurred. Please try again. (client side firebase)": "Une erreur inconnue s'est produite. Veuillez réessayer. (côté client Firebase)",
+  "Authenticate": "Authentifier",
+  "Enter password": "Entrez le mot de passe",
   "Response times to personal alarms – Prio 1": "Délais de réponse aux alarmes personnelles – Prio 1"
 }
