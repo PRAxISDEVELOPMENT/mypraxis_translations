@@ -2083,5 +2083,6 @@
   "An unknown error occurred. Please try again. (client side firebase)": "Er is een onbekende fout opgetreden. Probeer het opnieuw. (client-side Firebase)",
   "Authenticate": "Authenticeren",
   "Enter password": "Voer wachtwoord in",
-  "Response times to personal alarms – Prio 1": "Reactietijden op personen alarmen – Prio 1"
+  "Response times to personal alarms – Prio 1": "Reactietijden op personen alarmen – Prio 1",
+  "Response times to goods alarms – Prio 2": "Reactietijden op goederenalarmen – Prio 2"
 }
