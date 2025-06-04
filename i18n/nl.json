@@ -2102,6 +2102,13 @@
   "Handling count report polling errors": "Rapport aantal afhandelingen pollingfouten",
   "Handling count report active on/off": "Rapport aantal afhandelingen actieve on/off",
   "Handling count report track & trace": "Rapport aantal afhandelingen track & trace",
-  "Handling count report alarms": "Rapport aantal afhandelingen alarmmeldingen"
+  "Handling count report alarms": "Rapport aantal afhandelingen alarmmeldingen",
+  "Quotation": "Offerte",
+  "Total": "Totaal",
+  "Date quotation": "Offertedatum",
+  "Quotation valid until": "Offerte geldig tot",
+  "Remark": "Opmerking",
+  "Sub total": "Subtotaal",
+"VAT": "BTW"
   
 }
