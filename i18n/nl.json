@@ -2097,6 +2097,10 @@
   "Additional handling (client)": "Extra afhandelingen (eindklant)",
   "Period report: {{period_1}} until {{period_2}}": "Periode rapport: {{period_1}} t.e.m. {{period_2}}",
   "Zone type": "Zonetype",
-  "All alarm types except for": "Alle alarmtypes, behalve"
+  "All alarm types except for": "Alle alarmtypes, behalve",
+  "Handling count report polling errors": "Rapport aantal afhandelingen pollingfouten",
+  "Handling count report active on/off": "Rapport aantal afhandelingen actieve on/off",
+  "Handling count report track & trace": "Rapport aantal afhandelingen track & trace",
+  "Handling count report alarms": "Rapport aantal afhandelingen alarmmeldingen"
   
 }
