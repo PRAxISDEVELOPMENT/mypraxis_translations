@@ -334,6 +334,7 @@
   "Generate report": "Générer un rapport",
   "Overview of reports": "Aperçu des rapports",
   "With identification data": "Avec les données d'identification",
+  "Without identification data": "Sans les données d'identification",
   "Detailed": "Détaillé",
   "Reporting": "Rapport",
   "No contacts found": "Aucun contact trouvé",
@@ -1348,7 +1349,8 @@
   "End date & time cannot be before start date & time": "La date et l'heure de fin ne peuvent pas précéder la date et l'heure de début",
   "Show detail": "Afficher le détail",
   "Searchable fields": "Champs recherchables",
-  "Client number (primary / back-up)": "Numéro de client (principal / de secours)",
+  "Client number (primary / back-up)": "Numéro de client (principal / de secours)",  
+  "Client number (primary | back-up)": "Numéro de client (principal | de secours)",  
   "Search all general data": "Rechercher dans toutes les données générales",
   "Threshold value": "Valeur seuil",
   "Previous year": "Année précédente",
@@ -1672,7 +1674,9 @@
   "As soon as the registration is completed, you will receive a verification email. After successful verification, the user will be added.": "Dès que l'inscription est  terminée, vous recevez un e-mail de vérification. Après une vérification réussie, l'utilisateur sera ajouté.",
   "Import contacts": "Importer des contact(s)",
   "Notifications sorted from old to new": "Notifications triées de vieille à la plus récentes",
+  "Notifications sorted from new to old": "Notifications triées de la plus récente à la plus vieille",
   "With call commentary, operator commentary, and handling text": "Avec commentaire d'appel, commentaire de l'opérateur et texte concernant le traitement",
+  "Without call commentary, operator commentary, and handling text": "Sans commentaire d'appel, commentaire de l'opérateur et texte concernant le traitement",
   "Standard call list": "Liste d'appels standard",
   "Temporary call list": "Liste d'appels temporaire",
   "Link automatically maintenance installers to customers": "Lier automatiquement les techniciens de maintenance aux clients",
@@ -2091,6 +2095,13 @@
   "Components in test": "Composants en test",
   "At the time of creating the customer file report, there were no components in test":"Au moment de la création du rapport client, aucun composant n’était en test",
   "Additional handling (installer)": "Traitement supplémentaire (installateur)",
-  "Additional handling (client)": "Traitement supplémentaire (client)"   
-  
+  "Additional handling (client)": "Traitement supplémentaire (client)",
+  "Period report: {{period_1}} until {{period_2}}": "Rapport périodique: {{period_1}} à {{period_2}}",
+  "Zone type": "Type de zone",
+  "All alarm types except for": "Tous les types d'alarme, sauf",
+  "Handling count report polling errors": "Rapport aantal afhandelingen pollingfouten",
+  "Handling count report active on/off": "Rapport aantal afhandelingen actieve on/off",
+  "Handling count report track & trace": "Rapport aantal afhandelingen track & trace",
+  "Handling count report alarms": "Rapport aantal afhandelingen alarmmeldingen"
+   
 }
