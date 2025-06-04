@@ -334,6 +334,7 @@
   "Generate report": "Rapport genereren",
   "Overview of reports": "Overzicht van rapporten",
   "With identification data": "Met identificatiegegevens",
+  "Without identification data": "Zonder identificatiegegevens",
   "Detailed": "Gedetailleerd",
   "Reporting": "Rapportage",
   "No contacts found": "Geen contacten gevonden",
@@ -1672,7 +1673,9 @@
   "As soon as the registration is completed, you will receive a verification email. After successful verification, the user will be added.": "Zodra de registratie is voltooid, ontvang je een verificatie-e-mail. Na succesvolle verificatie wordt de gebruiker toegevoegd.",
   "Import contacts": "Contact(en) importeren",
   "Notifications sorted from old to new": "Meldingen gerangschikt van oud naar nieuw",
+  "Notifications sorted from new to old": "Meldingen gerangschikt van nieuw naar oud",
   "With call commentary, operator commentary, and handling text": "Met belcommentaar, commentaar operator en afhandeltekst",
+  "Without call commentary, operator commentary, and handling text": "Zonder belcommentaar, commentaar operator en afhandeltekst",
   "Standard call list": "Standaard bellijst",
   "Temporary call list": "Tijdelijke bellijst",
   "Link automatically maintenance installers to customers": "Automatisch onderhoudsinstallateurs koppelen aan klanten",
@@ -2091,5 +2094,9 @@
   "Components in test": "Onderdelen in test",
   "At the time of creating the customer file report, there were no components in test": "Op het moment van het aanmaken van het klantenrapport waren er geen componenten in test",
   "Additional handling (installer)": "Extra afhandelingen (installateur)",
-  "Additional handling (client)": "Extra afhandelingen (eindklant)"  
+  "Additional handling (client)": "Extra afhandelingen (eindklant)",
+  "Period report: {{period_1}} until {{period_2}}": "Periode rapport: {{period_1}} t.e.m. {{period_2}}",
+  "Zone type": "Zonetype",
+  "All alarm types except for": "Alle alarmtypes, behalve"
+  
 }
