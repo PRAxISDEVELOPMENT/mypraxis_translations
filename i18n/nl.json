@@ -2084,5 +2084,12 @@
   "Authenticate": "Authenticeren",
   "Enter password": "Voer wachtwoord in",
   "Response times to personal alarms – Prio 1": "Reactietijden op personen alarmen – Prio 1",
-  "Response times to goods alarms – Prio 2": "Reactietijden op goederenalarmen – Prio 2"
+  "Response times to goods alarms – Prio 2": "Reactietijden op goederenalarmen – Prio 2",
+  "Client report": "Rapport klantenfiche",
+  "Your security, our passion 24 hours a day and 7 days a week": "Uw veiligheid, onze passie 24 uur op 24 en 7 dagen op 7",
+  "Can be notified for": "Kan verwittigd worden voor",
+  "Components in test": "Onderdelen in test",
+  "At the time of creating the customer file report, there were no components in test": "Op het moment van het aanmaken van het klantenrapport waren er geen componenten in test",
+  "Additional handling (installer)": "Extra afhandelingen (installateur)",
+  "Additional handling (client)": "Extra afhandelingen (eindklant)"  
 }
