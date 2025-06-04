@@ -2102,6 +2102,12 @@
 "Handling count report polling errors": "Rapport du nombre de traitements des erreurs de polling",
 "Handling count report active on/off": "Rapport du nombre de traitements actifs on/off",
 "Handling count report track & trace": "Rapport du nombre de traitements track & trace",
-"Handling count report alarms": "Rapport du nombre de traitements des alarmes"
-   
+"Handling count report alarms": "Rapport du nombre de traitements des alarmes",
+"Quotation": "Devis",
+  "Total": "Total",
+  "Date quotation": "Date du devis",
+  "Quotation valid until": "Devis valable jusqu'au",
+  "Remark": "Remarque",
+  "Sub total": "Sous-total",
+  "VAT": "TAV"
 }
