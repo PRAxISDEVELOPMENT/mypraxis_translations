@@ -2099,9 +2099,9 @@
   "Period report: {{period_1}} until {{period_2}}": "Rapport périodique: {{period_1}} à {{period_2}}",
   "Zone type": "Type de zone",
   "All alarm types except for": "Tous les types d'alarme, sauf",
-  "Handling count report polling errors": "Rapport aantal afhandelingen pollingfouten",
-  "Handling count report active on/off": "Rapport aantal afhandelingen actieve on/off",
-  "Handling count report track & trace": "Rapport aantal afhandelingen track & trace",
-  "Handling count report alarms": "Rapport aantal afhandelingen alarmmeldingen"
+"Handling count report polling errors": "Rapport du nombre de traitements des erreurs de polling",
+"Handling count report active on/off": "Rapport du nombre de traitements actifs on/off",
+"Handling count report track & trace": "Rapport du nombre de traitements track & trace",
+"Handling count report alarms": "Rapport du nombre de traitements des alarmes"
    
 }
