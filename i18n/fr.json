@@ -2084,5 +2084,13 @@
   "Authenticate": "Authentifier",
   "Enter password": "Entrez le mot de passe",
   "Response times to personal alarms – Prio 1": "Délais de réponse aux alarmes personnelles – Prio 1",
-  "Response times to goods alarms – Prio 2": "Temps de réponse aux alarmes de marchandises – Prio 2"
+  "Response times to goods alarms – Prio 2": "Temps de réponse aux alarmes de marchandises – Prio 2",
+  "Client report": "Rapport du client",
+  "Your security, our passion 24 hours a day and 7 days a week": "Votre securité, notre passion 24 heures sur 24 et 7 jours sur 7",
+  "Can be notified for": "Peut être notifié pour",
+  "Components in test": "Composants en test",
+  "At the time of creating the customer file report, there were no components in test":"Au moment de la création du rapport client, aucun composant n’était en test",
+  "Additional handling (installer)": "Traitement supplémentaire (installateur)",
+  "Additional handling (client)": "Traitement supplémentaire (client)"   
+  
 }
