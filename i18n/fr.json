@@ -1577,7 +1577,7 @@
   "Enable POD": "Activer le POD",
   "Enable polling": "Activer Polling",
   "Enable vocal": "Activer l'écoute à distance",
-"Enable line test check": "Activer le contrôle de test de ligne",
+  "Enable line test check": "Activer le contrôle de test de ligne",
   "Communicator added": "Communicateur ajouté",
   "Document": "Document",
   "Chooser (SCS)": "Sélecteur (SCS)",
@@ -2110,5 +2110,18 @@
   "Remark": "Remarque",
   "Sub total": "Sous-total",
   "VAT": "TAV",
-  "How long?": "Combien de temps?"
+  "How long?": "Combien de temps?",
+  "An administrative fee will be charged if no email address is provided for invoicing": "Des frais administratifs seront facturés si aucune adresse e-mail n'est fournie pour la facturation",
+  "The application is temporarily unavailable due to scheduled maintenance. Please try again later.": "L'application est temporairement indisponible en raison d'une maintenance planifiée. Veuillez réessayer plus tard.",
+  "Confirm Logout": "Confirmer la déconnexion",
+  "Are you sure you want to log out?": "Êtes-vous sûr de vouloir vous déconnecter ?",
+  "Cancel": "Annuler",
+  "Biometric authentication is not available on this device": "L'authentification biométrique n'est pas disponible sur cet appareil",
+  "Authentication was cancelled": "L'authentification a été annulée",
+  "Authentication was cancelled. Please try again": "L'authentification a été annulée. Veuillez réessayer.",
+  "Please use your password instead": "Veuillez utiliser votre mot de passe à la place",
+  "Authentication failed. Please try again": "Échec de l'authentification. Veuillez réessayer.",
+  "Too many failed attempts. Biometric is now locked": "Trop de tentatives échouées. La biométrie est maintenant verrouillée",
+  "An unexpected biometric error occurred": "Une erreur biométrique inattendue s'est produite",
+  "Biometric authentication failed": "Échec de l'authentification biométrique"
 }

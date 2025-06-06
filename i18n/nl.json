@@ -2110,5 +2110,18 @@
   "Remark": "Opmerking",
   "Sub total": "Subtotaal",
   "VAT": "BTW",
-  "How long?": "Hoelang?"
+  "How long?": "Hoelang?",
+  "An administrative fee will be charged if no email address is provided for invoicing": "Een administratieve kost zal aangerekend worden als er geen e-mailadres is voor facturatie",
+  "The application is temporarily unavailable due to scheduled maintenance. Please try again later.": "De applicatie is tijdelijk niet beschikbaar wegens gepland onderhoud. Probeer het later opnieuw.",
+  "Confirm Logout": "Afmelden bevestigen",
+  "Are you sure you want to log out?": "Weet je zeker dat je wilt afmelden?",
+  "Cancel": "Annuleren",
+  "Biometric authentication is not available on this device": "Biometrische authenticatie is niet beschikbaar op dit apparaat",
+  "Authentication was cancelled": "Authenticatie is geannuleerd",
+  "Authentication was cancelled. Please try again": "Authenticatie is geannuleerd. Probeer het opnieuw.",
+  "Please use your password instead": "Gebruik in plaats daarvan je wachtwoord",
+  "Authentication failed. Please try again": "Authenticatie mislukt. Probeer het opnieuw.",
+  "Too many failed attempts. Biometric is now locked": "Te veel mislukte pogingen. Biometrie is nu vergrendeld",
+  "An unexpected biometric error occurred": "Er is een onverwachte biometrische fout opgetreden",
+  "Biometric authentication failed": "Biometrische authenticatie mislukt"
 }
