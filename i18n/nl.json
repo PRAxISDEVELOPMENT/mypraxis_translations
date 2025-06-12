@@ -2123,5 +2123,6 @@
   "Authentication failed. Please try again": "Authenticatie mislukt. Probeer het opnieuw.",
   "Too many failed attempts. Biometric is now locked": "Te veel mislukte pogingen. Biometrie is nu vergrendeld",
   "An unexpected biometric error occurred": "Er is een onverwachte biometrische fout opgetreden",
-  "Biometric authentication failed": "Biometrische authenticatie mislukt"
+  "Biometric authentication failed": "Biometrische authenticatie mislukt",
+  "All": "Alles"
 }

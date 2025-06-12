@@ -2123,5 +2123,6 @@
   "Authentication failed. Please try again": "Échec de l'authentification. Veuillez réessayer.",
   "Too many failed attempts. Biometric is now locked": "Trop de tentatives échouées. La biométrie est maintenant verrouillée",
   "An unexpected biometric error occurred": "Une erreur biométrique inattendue s'est produite",
-  "Biometric authentication failed": "Échec de l'authentification biométrique"
+  "Biometric authentication failed": "Échec de l'authentification biométrique",
+  "All": "Tous"
 }
