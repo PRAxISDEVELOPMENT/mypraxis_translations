@@ -2052,7 +2052,7 @@
   "No pricing information is available. Please contact the administrator of the administrative block for further details.": "Geen verkoopprijzen beschikbaar. Neem contact op met uw beheerder van het blok administratie voor meer informatie.",
   "Show": "Tonen",
   "Manage": "Beheren",
-  "You do not have the necessary permissions to access this section. Please contact your administrator for more information.": "Je hebt niet de juiste rechten om dit onderdeel te bekijken. Neem contact op met je beheerder voor meer informatie.",
+  "You do not have the correct permissions to view this section. Please contact your administrator of the installer block for more information.": "U heeft niet de juiste rechten om dit onderdeel te bekijken. Neem contact op met uw beheerder van het blok installateur voor meer informatie.",
   "Follow us": "Volg ons",
   "Reason": "Reden",
   "Passed on to": "Doorgegeven aan",
@@ -2123,5 +2123,6 @@
   "Authentication failed. Please try again": "Authenticatie mislukt. Probeer het opnieuw.",
   "Too many failed attempts. Biometric is now locked": "Te veel mislukte pogingen. Biometrie is nu vergrendeld",
   "An unexpected biometric error occurred": "Er is een onverwachte biometrische fout opgetreden",
-  "Biometric authentication failed": "Biometrische authenticatie mislukt"
+  "Biometric authentication failed": "Biometrische authenticatie mislukt",
+  "You don’t have the necessary permissions to view this page. Please contact your system administrator for more information.": "U hebt niet de benodigde rechten om deze pagina te bekijken. Neem contact op met je systeembeheerder voor meer informatie."
 }

@@ -2052,7 +2052,7 @@
   "No pricing information is available. Please contact the administrator of the administrative block for further details.": "Aucune information sur les prix n'est disponible. Veuillez contacter l'administrateur du bloc administratif pour plus d'informations.",
   "Show": "Afficher",
   "Manage": "Gérer",
-  "You do not have the necessary permissions to access this section. Please contact your administrator for more information.": "Vous n'avez pas les autorisations nécessaires pour accéder à cette section. Veuillez contacter votre administrateur pour plus d'informations.",
+  "You do not have the correct permissions to view this section. Please contact your administrator of the installer block for more information.": "Vous n’avez pas les autorisations nécessaires pour consulter cette section. Veuillez contacter l’administrateur du bloc installateur pour plus d’informations.",
   "Follow us": "Suivez-nous",
   "Reason": "Raison",
   "Passed on to": "Transmis à",
@@ -2123,5 +2123,7 @@
   "Authentication failed. Please try again": "Échec de l'authentification. Veuillez réessayer.",
   "Too many failed attempts. Biometric is now locked": "Trop de tentatives échouées. La biométrie est maintenant verrouillée",
   "An unexpected biometric error occurred": "Une erreur biométrique inattendue s'est produite",
-  "Biometric authentication failed": "Échec de l'authentification biométrique"
+  "Biometric authentication failed": "Échec de l'authentification biométrique",
+  "All": "Tous",
+  "You don’t have the necessary permissions to view this page. Please contact your system administrator for more information.": "Vous n’avez pas les autorisations nécessaires pour accéder à cette page. Veuillez contacter votre administrateur système pour plus d’informations."
 }
