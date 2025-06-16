@@ -2125,5 +2125,16 @@
   "An unexpected biometric error occurred": "Er is een onverwachte biometrische fout opgetreden",
   "Biometric authentication failed": "Biometrische authenticatie mislukt",
   "All": "Alles",
-  "You don’t have the necessary permissions to view this page. Please contact your system administrator for more information.": "U hebt niet de benodigde rechten om deze pagina te bekijken. Neem contact op met je systeembeheerder voor meer informatie."
+  "You don’t have the necessary permissions to view this page. Please contact your system administrator for more information.": "U hebt niet de benodigde rechten om deze pagina te bekijken. Neem contact op met je systeembeheerder voor meer informatie.",
+  "Push notification permission not granted": "Toestemming voor pushmeldingen niet verleend",
+  "Error registering push notifications": "Fout bij het registreren van pushmeldingen",
+  "Error checking for updates": "Fout bij het controleren op updates",
+  "Failed to reload app": "App opnieuw laden mislukt",
+  "Verification ID": "Verificatie ID",
+  "Update available": "Update beschikbaar",
+  "A new version has been downloaded. Restart now?": "Een nieuwe versie is gedownload. Nu opnieuw opstarten?",
+  "Restart": "Opnieuw opstarten",
+  "Later": "Later",
+  "Failed to open URL": "URL openen mislukt",
+  "URL not supported": "URL niet ondersteund"
 }

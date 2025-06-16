@@ -2125,5 +2125,16 @@
   "An unexpected biometric error occurred": "Une erreur biométrique inattendue s'est produite",
   "Biometric authentication failed": "Échec de l'authentification biométrique",
   "All": "Tous",
-  "You don’t have the necessary permissions to view this page. Please contact your system administrator for more information.": "Vous n’avez pas les autorisations nécessaires pour accéder à cette page. Veuillez contacter votre administrateur système pour plus d’informations."
+  "You don’t have the necessary permissions to view this page. Please contact your system administrator for more information.": "Vous n’avez pas les autorisations nécessaires pour accéder à cette page. Veuillez contacter votre administrateur système pour plus d’informations.",
+  "Push notification permission not granted": "Autorisation de notification push non accordée",
+  "Error registering push notifications": "Erreur lors de l'enregistrement des notifications push",
+  "Error checking for updates": "Erreur lors de la vérification des mises à jour",
+  "Failed to reload app": "Échec du rechargement de l'application",
+  "Verification ID": "ID de vérification",
+  "Update available": "Mise à jour disponible",
+  "A new version has been downloaded. Restart now?": "Une nouvelle version a été téléchargée. Redémarrer maintenant ?",
+  "Restart": "Redémarrer",
+  "Later": "Plus tard",
+  "Failed to open URL": "Échec de l'ouverture de l'URL",
+  "URL not supported": "URL non prise en charge"
 }
