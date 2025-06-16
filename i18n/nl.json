@@ -2124,5 +2124,6 @@
   "Too many failed attempts. Biometric is now locked": "Te veel mislukte pogingen. Biometrie is nu vergrendeld",
   "An unexpected biometric error occurred": "Er is een onverwachte biometrische fout opgetreden",
   "Biometric authentication failed": "Biometrische authenticatie mislukt",
+  "All": "Alles",
   "You don’t have the necessary permissions to view this page. Please contact your system administrator for more information.": "U hebt niet de benodigde rechten om deze pagina te bekijken. Neem contact op met je systeembeheerder voor meer informatie."
 }
