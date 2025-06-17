@@ -2138,5 +2138,6 @@
   "Failed to open URL": "Échec de l'ouverture de l'URL",
   "URL not supported": "URL non prise en charge",
   "Call mobile number(s) first": "Appeler les numéros mobiles en premier",
-  "Create dummy account": "Créer un compte factice"
+  "Create dummy account": "Créer un compte factice",
+  "Dummy account for {{value}} successfully created": "Compte factice pour {{value}} créé avec succès"
 }
