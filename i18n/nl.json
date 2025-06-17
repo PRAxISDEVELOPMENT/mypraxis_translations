@@ -2136,5 +2136,6 @@
   "Restart": "Opnieuw opstarten",
   "Later": "Later",
   "Failed to open URL": "URL openen mislukt",
-  "URL not supported": "URL niet ondersteund"
+  "URL not supported": "URL niet ondersteund",
+  "Create Dummy": "Maak dummyaccount"
 }
