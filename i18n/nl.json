@@ -2139,5 +2139,6 @@
   "URL not supported": "URL niet ondersteund",
   "Call mobile number(s) first": "Eerst mobiele nummers(s) bellen",
   "Create dummy account": "Maak dummyaccount",
-  "Dummy account for {{value}} successfully created": "Dummyaccount voor {{value}} succesvol aangemaakt"
+  "Dummy account for {{value}} successfully created": "Dummyaccount voor {{value}} succesvol aangemaakt",
+  "You are about to create a dummy account this user.": "You staat op het punt een dummyaccount aan te maken voor deze gebruiker."
 }
