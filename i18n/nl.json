@@ -2140,5 +2140,6 @@
   "Call mobile number(s) first": "Eerst mobiele nummers(s) bellen",
   "Create dummy account": "Maak een dummyaccount",
   "Dummy account for {{value}} successfully created": "Dummyaccount voor {{value}} succesvol aangemaakt",
-  "You are about to create a dummy account this user.": "U staat op het punt een dummyaccount aan te maken voor deze gebruiker."
+  "You are about to create a dummy account this user.": "U staat op het punt een dummyaccount aan te maken voor deze gebruiker.",
+  "Copy content": "Inhoud kopiëren"
 }
