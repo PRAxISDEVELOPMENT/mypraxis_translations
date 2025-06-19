@@ -2141,5 +2141,6 @@
   "Create dummy account": "Créer un compte factice",
   "Dummy account for {{value}} successfully created": "Compte factice pour {{value}} créé avec succès",
   "You are about to create a dummy account this user.": "Vous êtes sur le point de créer un compte factice pour cet utilisateur.",
-  "Copy content": "Copier le contenu"
+  "Copy content": "Copier le contenu",
+  "Do not show when receiving zones": "Ne pas afficher lors de la réception des zones"
 }
