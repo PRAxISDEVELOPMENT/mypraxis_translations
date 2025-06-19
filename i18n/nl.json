@@ -2141,5 +2141,6 @@
   "Create dummy account": "Maak een dummyaccount",
   "Dummy account for {{value}} successfully created": "Dummyaccount voor {{value}} succesvol aangemaakt",
   "You are about to create a dummy account this user.": "U staat op het punt een dummyaccount aan te maken voor deze gebruiker.",
-  "Copy content": "Inhoud kopiëren"
+  "Copy content": "Inhoud kopiëren",
+  "Do not show when receiving zones": "Niet weergeven bij ontvangen zones"
 }
