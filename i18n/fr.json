@@ -2140,5 +2140,6 @@
   "Call mobile number(s) first": "Appeler les numéros mobiles en premier",
   "Create dummy account": "Créer un compte factice",
   "Dummy account for {{value}} successfully created": "Compte factice pour {{value}} créé avec succès",
-  "You are about to create a dummy account this user.": "Vous êtes sur le point de créer un compte factice pour cet utilisateur."
+  "You are about to create a dummy account this user.": "Vous êtes sur le point de créer un compte factice pour cet utilisateur.",
+  "Copy content": "Copier le contenu"
 }
