@@ -2154,5 +2154,8 @@
 	"Change document": "Wijzig document",
 	"{{value}} document(s) deleted": "{{value}} document(en) verwijderd",
 	"You are about to delete {{value}} document(s).": "U staat op het punt om {{value}} document(en) te verwijderen.",
-	"Delete document": "Document verwijderen"
+	"Delete document": "Document verwijderen",
+	"Available for": "Beschikbaar voor",
+	"Selected installers": "Geselecteerde installateurs",
+	"Selected callcenters": "Geselecteerde wachtdiensten"
 }
