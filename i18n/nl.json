@@ -2153,5 +2153,6 @@
 	"At least one option must be selected": "Er moet minimaal één optie geselecteerd zijn",
 	"Change document": "Wijzig document",
 	"{{value}} document(s) deleted": "{{value}} document(en) verwijderd",
-	"You are about to delete {{value}} document(s).": "U staat op het punt om {{value}} document(en) te verwijderen."
+	"You are about to delete {{value}} document(s).": "U staat op het punt om {{value}} document(en) te verwijderen.",
+	"Delete document": "Document verwijderen"
 }
