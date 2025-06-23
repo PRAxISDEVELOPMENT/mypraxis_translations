@@ -2150,5 +2150,8 @@
 	"Only selected installers": "seules les installateurs sélectionnés",
 	"All callcenters": "Tous les services les services de permanence",
 	"Only selected callcenters": "seules les services de permanence sélectionnés",
-	"At least one option must be selected": "Au moins une option doit être sélectionnée"
+	"At least one option must be selected": "Au moins une option doit être sélectionnée",
+	"Change document": "Modifier le document",
+	"{{value}} document(s) deleted": "{{value}} document(s) supprimé(s)",
+	"You are about to delete {{value}} document(s).": "Vous êtes sur le point de supprimer {{value}} document(s)."
 }
