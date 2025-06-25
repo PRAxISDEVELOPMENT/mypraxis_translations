@@ -2170,6 +2170,6 @@
 	"All created administration role templates": "Tous les modèles de rôles d’administration créés",
 	"All default installer role templates": "Tous les modèles de rôles d’installateur par défaut",
 	"All created installer role templates": "Tous les modèles de rôles d’installateur créés",
-	"All default guard duty role templates": "Tous les modèles de rôles de garde par défaut",
-	"All created guard duty role templates": "Tous les modèles de rôles de garde créés"
+	"All default guard duty role templates": "Tous les modèles de rôles du service de permanence par défaut",
+	"All created guard duty role templates": "Tous les modèles de rôles du service de permanence créés"
 }
