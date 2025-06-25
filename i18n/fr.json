@@ -2159,5 +2159,11 @@
   "Selected installers": "Installateurs sélectionnés",
   "Selected callcenters": "Services de permanence sélectionnés",
   "Please check your inbox for a message with a link to verify your email address.": "Veuillez vérifier votre boîte de réception pour un message contenant un lien pour vérifier votre adresse e-mail.",
-  "Requested": "Demandé"
+  "Requested": "Demandé",
+  "Authenticate with Face ID": "Authentifiez-vous avec Face ID",
+  "Authenticate with Touch ID": "Authentifiez-vous avec Touch ID",
+  "Authenticate with Iris ID": "Authentifiez-vous avec Iris ID",
+  "Unlock the app": "Déverrouiller l'application",
+  "Use device passcode": "Utiliser le code de l'appareil",
+  "Biometric failed or cancelled": "L’authentification biométrique a échoué ou a été annulée"
 }

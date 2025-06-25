@@ -2159,5 +2159,11 @@
   "Selected installers": "Geselecteerde installateurs",
   "Selected callcenters": "Geselecteerde wachtdiensten",
   "Please check your inbox for a message with a link to verify your email address.": "Controleer je inbox op een bericht met een link om je e-mailadres te verifiëren.",
-  "Requested": "Aangevraagd"
+  "Requested": "Aangevraagd",
+  "Authenticate with Face ID": "Authenticeer met Face ID",
+  "Authenticate with Touch ID": "Authenticeer met Touch ID",
+  "Authenticate with Iris ID": "Authenticeer met Iris ID",
+  "Unlock the app": "Ontgrendel de app",
+  "Use device passcode": "Gebruik apparaatscode",
+  "Biometric failed or cancelled": "Biometrische verificatie mislukt of geannuleerd"
 }
