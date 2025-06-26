@@ -2218,5 +2218,6 @@
   "[FIREBASE] Firestore document '{{uuid}}' was not found.": "",
   "Non applicable": "Niet van toepassing",
   "Detected (and invoiced)": "Détecté (et facturé)",
-  "Selected in MyPRAxIS": "Sélectionné dans MyPRAxIS"
+  "Selected in MyPRAxIS": "Sélectionné dans MyPRAxIS",
+  "Proceedings": "Opération"
 }
