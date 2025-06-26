@@ -2216,5 +2216,7 @@
   "[FIREBASE] A user with email '{{email}}' already exists.": "",
   "[FIREBASE] User '{{uuid}}' was not found.": "",
   "[FIREBASE] Firestore document '{{uuid}}' was not found.": "",
-  "Non applicable": "Niet van toepassing"
+  "Non applicable": "Niet van toepassing",
+  "Detected (and invoiced)": "Détecté (et facturé)",
+  "Selected in MyPRAxIS": "Sélectionné dans MyPRAxIS"
 }
