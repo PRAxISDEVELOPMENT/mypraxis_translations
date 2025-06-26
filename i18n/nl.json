@@ -2215,5 +2215,6 @@
   "[CRM] Call center '{{callcenter_number}}' was not found.": "[CRM] Callcenter '{{callcenter_number}}' werd niet gevonden.",
   "[FIREBASE] A user with email '{{email}}' already exists.": "[FIREBASE] Er bestaat al een gebruiker met e-mailadres '{{email}}'.",
   "[FIREBASE] User '{{uuid}}' was not found.": "[FIREBASE] Gebruiker '{{uuid}}' werd niet gevonden.",
-  "[FIREBASE] Firestore document '{{uuid}}' was not found.": "[FIREBASE] Firestore-document '{{uuid}}' werd niet gevonden."
+  "[FIREBASE] Firestore document '{{uuid}}' was not found.": "[FIREBASE] Firestore-document '{{uuid}}' werd niet gevonden.",
+  "Non applicable": "Niet van toepassing"
 }
