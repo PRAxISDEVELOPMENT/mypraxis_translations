@@ -2220,5 +2220,6 @@
 	"Detected (and invoiced)": "Détecté (et facturé)",
 	"Selected in MyPRAxIS": "Sélectionné dans MyPRAxIS",
 	"Proceedings": "Opération",
-	"Commercial actions": "Actions commerciales"
+	"Commercial actions": "Actions commerciales",
+	"Type of commercial action": "Genre d’action commerciale"
 }
