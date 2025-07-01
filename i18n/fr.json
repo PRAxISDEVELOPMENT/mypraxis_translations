@@ -2224,5 +2224,9 @@
 	"Commercial action": "Action commerciale",
 	"Free months": "Mois gratuits",
 	"Free services": "Services gratuits",
-	"All new clients": "Tous les nouveaux clients"
+	"All new clients": "Tous les nouveaux clients",
+	"Free months (conditional)": "Mois gratuits (conditionnels)",
+	"Total potential clients": "Nombre total de clients potentiels",
+	"Target potential percentage": "Pourcentage potentiel ciblé",
+	"Fixed discount": "Remise fixe"
 }

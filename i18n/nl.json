@@ -2224,5 +2224,9 @@
 	"Commercial action": "Commerciële actie",
 	"Free months": "Gratis maanden",
 	"Free services": "Gratis diensten",
-	"All new clients": "Alle nieuwe klanten"
+	"All new clients": "Alle nieuwe klanten",
+	"Free months (conditional)": "Gratis maanden (voorwaardelijk)",
+	"Total potential clients": "Totaal potentieel aantal klanten",
+	"Target potential percentage": "Beoogd potentieelpercentage",
+	"Fixed discount": "Vaste korting"
 }
