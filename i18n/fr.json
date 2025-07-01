@@ -2230,5 +2230,7 @@
 	"Target potential percentage": "Pourcentage potentiel ciblé",
 	"Fixed discount": "Remise fixe",
 	"{{value}} commercial action(s) deleted": "{{value}} actions commerciales supprimées",
-	"You are about to delete {{value}} commercial action(s).": "Vous êtes sur le point de supprimer {{value}} action(s) commerciale(s)."
+	"You are about to delete {{value}} commercial action(s).": "Vous êtes sur le point de supprimer {{value}} action(s) commerciale(s).",
+	"Change commercial action": "Modifier l’action commerciale",
+	"Delete commercial action(s)": "Supprimer l’action(s) commerciale(s)"
 }

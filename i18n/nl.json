@@ -2230,5 +2230,7 @@
 	"Target potential percentage": "Beoogd potentieelpercentage",
 	"Fixed discount": "Vaste korting",
 	"{{value}} commercial action(s) deleted": "{{value}} commerciële actie(s) verwijderd",
-	"You are about to delete {{value}} commercial action(s).": "Je staat op het punt om {{value}} commerciële actie(s) te verwijderen."
+	"You are about to delete {{value}} commercial action(s).": "Je staat op het punt om {{value}} commerciële actie(s) te verwijderen.",
+	"Change commercial action": "Wijzig commerciële actie",
+	"Delete commercial action(s)": "Verwijder commerciële actie(s)"
 }
