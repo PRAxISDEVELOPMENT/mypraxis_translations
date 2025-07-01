@@ -2229,5 +2229,6 @@
 	"Total potential clients": "Totaal potentieel aantal klanten",
 	"Target potential percentage": "Beoogd potentieelpercentage",
 	"Fixed discount": "Vaste korting",
-	"{{value}} commercial action(s) deleted": "{{value}} commerciële actie(s) verwijderd"
+	"{{value}} commercial action(s) deleted": "{{value}} commerciële actie(s) verwijderd",
+	"You are about to delete {{value}} commercial action(s).": "Je staat op het punt om {{value}} commerciële actie(s) te verwijderen."
 }
