@@ -2240,5 +2240,7 @@
 	"Upcoming": "binnenkort",
 	"Expired": "verlopen",
 	"For all new clients": "Voor alle nieuwe klanten",
-	"Indexed price": "Geïndexeerde prijs"
+	"Indexed price": "Geïndexeerde prijs",
+	"End date cannot be before start date": "Einddatum mag niet vóór begindatum liggen",
+	"Min. {{value}} required": "Min. {{value}} verplicht"
 }

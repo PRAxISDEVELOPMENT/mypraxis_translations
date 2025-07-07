@@ -2240,5 +2240,7 @@
 	"Upcoming": "À venir",
 	"Expired": "Expirée",
 	"For all new clients": "Pour tous les nouveaux clients",
-	"Indexed price": "Prix indexé"
+	"Indexed price": "Prix indexé",
+	"End date cannot be before start date": "La date de fin ne peut pas précéder la date de début",
+	"Min. {{value}} required": "Min. {{value}} requis"
 }
