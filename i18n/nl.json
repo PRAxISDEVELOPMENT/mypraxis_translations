@@ -2242,5 +2242,7 @@
 	"For all new clients": "Voor alle nieuwe klanten",
 	"Indexed price": "Geïndexeerde prijs",
 	"End date cannot be before start date": "Einddatum mag niet vóór begindatum liggen",
-	"Min. {{value}} required": "Min. {{value}} verplicht"
+	"Min. {{value}} required": "Min. {{value}} verplicht",
+	"Action status": "Actiestatus",
+	"Active at client": "Actief bij klant"
 }
