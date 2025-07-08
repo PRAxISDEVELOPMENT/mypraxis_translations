@@ -2262,5 +2262,6 @@
 	"Action status": "Statut de l'action",
 	"Linked to client": "Lié au client",
 	"Activate commercial action for this client": "Activer l’action commerciale pour ce client",
-	"Commercial action changed": "Action commerciale modifiée"
+	"Commercial action changed": "Action commerciale modifiée",
+	"Billing is handled through the main client.": "La facturation se fait via le client principal."
 }
