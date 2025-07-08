@@ -2260,5 +2260,6 @@
 	"Min. {{value}} required": "Min. {{value}} requis",
 	"Last 10 results": "10 derniers résultats",
 	"Action status": "Statut de l'action",
-	"Linked to client": "Lié au client"
+	"Linked to client": "Lié au client",
+	"Activate commercial action for this client": "Activer l’action commerciale pour ce client"
 }

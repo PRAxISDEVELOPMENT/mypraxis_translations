@@ -2260,5 +2260,6 @@
 	"Min. {{value}} required": "Min. {{value}} verplicht",
 	"Last 10 results": "Laatste 10 resultaten",
 	"Action status": "Actiestatus",
-	"Linked to client": "Gelinkt aan klant"
+	"Linked to client": "Gelinkt aan klant",
+	"Activate commercial action for this client": "Activeer commerciële actie voor deze klant"
 }
