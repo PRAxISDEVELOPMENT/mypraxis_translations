@@ -2262,5 +2262,6 @@
 	"Action status": "Actiestatus",
 	"Linked to client": "Gelinkt aan klant",
 	"Activate commercial action for this client": "Activeer commerciële actie voor deze klant",
-	"Commercial action changed": "Commerciële actie gewijzigd"
+	"Commercial action changed": "Commerciële actie gewijzigd",
+	"Billing is handled through the main client.": "Facturatie verloopt via de hoofdklant."
 }
