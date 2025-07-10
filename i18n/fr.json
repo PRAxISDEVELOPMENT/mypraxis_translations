@@ -2232,7 +2232,7 @@
   "You cannot change the contract type while a customized contact list is active. Please remove or reset the list first": "",
   "You cannot change the invoice method for a linked client. Please change it in the main account": "",
   "You cannot change the invoice method while a client is on-hold.": "",
-  "Non applicable": "Niet van toepassing",
+  "Non applicable": "Non applicable",
   "Detected (and invoiced)": "Détecté (et facturé)",
   "Selected in MyPRAxIS": "Sélectionné dans MyPRAxIS",
   "Proceedings": "Opération",
