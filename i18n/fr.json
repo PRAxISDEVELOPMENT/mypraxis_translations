@@ -2273,5 +2273,6 @@
   "You are about to delete installer: {{value}}": "Vous êtes sur le point de supprimer l’installateur : {{value}}",
   "Action date & time": "Date & heure de l’action",
   "Add back-up": "Ajouter une sauvegarde",
-  "Back-up added": "Sauvegarde ajoutée"
+  "Back-up added": "Sauvegarde ajoutée",
+  "Too many contacts selected": "Trop de contacts sélectionnés"
 }
