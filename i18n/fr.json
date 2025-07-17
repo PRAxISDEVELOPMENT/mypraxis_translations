@@ -2275,5 +2275,7 @@
   "Add back-up": "Ajouter une sauvegarde",
   "Back-up added": "Sauvegarde ajoutée",
   "Too many contacts selected": "Trop de contacts sélectionnés",
-  "End date & time must be within 1 month from the start date & time": "La date et l'heure de fin doivent être dans le mois suivant la date et l'heure de début"
+  "End date & time must be within 1 month from the start date & time": "La date et l'heure de fin doivent être dans le mois suivant la date et l'heure de début",
+  "Card view": "Vue en carte",
+  "List view": "Vue en liste"
 }
