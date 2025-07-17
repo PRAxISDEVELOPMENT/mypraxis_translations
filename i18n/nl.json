@@ -2274,5 +2274,6 @@
   "Action date & time": "Actiedatum & -tijd",
   "Add back-up": "Back-up toevoegen",
   "Back-up added": "Back-up toegevoegd",
-  "Too many contacts selected": "Te veel contacten geselecteerd"
+  "Too many contacts selected": "Te veel contacten geselecteerd",
+  "End date & time must be within 1 month from the start date & time": "Einddatum en -tijd moeten binnen 1 maand na de startdatum en -tijd liggen"
 }
