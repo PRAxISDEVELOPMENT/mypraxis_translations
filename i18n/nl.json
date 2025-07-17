@@ -2273,5 +2273,6 @@
   "You are about to delete installer: {{value}}": "Je staat op het punt om installateur {{value}} te verwijderen",
   "Action date & time": "Actiedatum & -tijd",
   "Add back-up": "Back-up toevoegen",
-  "Back-up added": "Back-up toegevoegd"
+  "Back-up added": "Back-up toegevoegd",
+  "Too many contacts selected": "Te veel contacten geselecteerd"
 }
