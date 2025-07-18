@@ -58,7 +58,7 @@
   "Deeplink": "Deeplink",
   "Warning": "Waarschuwing",
   "We've found 250 or more results based on your filters. To view more manageable data and ensure optimal performance, please refine your filters": "We hebben 250 of meer resultaten gevonden op basis van je filters. Pas je filters aan om de gegevens beter beheersbaar te maken en optimale prestaties te garanderen.",
-  "The provided IP address must be a valid IP address.": "Het opgegeven IP-adres moet een geldig IP-adres zijn.",
+  "The provided IP address must be a valid IP address": "Het opgegeven IP-adres moet een geldig IP-adres zijn",
   "Report": "Melden",
   "Settings": "Instellingen",
   "Calendar": "Kalender",
@@ -2282,5 +2282,9 @@
   "Audit trail": "Logboek",
   "Filter on categories": "Filteren op categorieën",
   "Category": "Categorie",
-  "Division": "Divisie"
+  "Division": "Divisie",
+  "This can be a customer number, installer number, or call center number": "Dit kan een klantnummer, installateursnummer of callcenternummer zijn",
+  "The provided UUID must be a valid UUID": "De opgegeven UUID moet een geldige UUID zijn",
+  "Pick a year from {{value}} onwards": "Kies een jaar vanaf {{value}}",
+  "Pick a year up to {{value}}": "Kies een jaar tot en met {{value}}"
 }

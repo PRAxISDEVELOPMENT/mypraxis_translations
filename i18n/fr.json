@@ -58,7 +58,7 @@
   "Deeplink": "Lien profond",
   "Warning": "Avertissement",
   "We've found 250 or more results based on your filters. To view more manageable data and ensure optimal performance, please refine your filters": "Nous avons trouvé 250 résultats ou plus selon vos filtres. Pour afficher des données plus gérables et garantir des performances optimales, veuillez affiner vos filtres.",
-  "The provided IP address must be a valid IP address.": "L'adresse IP fournie doit être une adresse IP valide.",
+  "The provided IP address must be a valid IP address": "L'adresse IP fournie doit être une adresse IP valide",
   "Report": "Rapporter",
   "Settings": "Paramètres",
   "Calendar": "Calendrier",
@@ -2282,5 +2282,9 @@
   "Audit trail": "Journal d'audit",
   "Filter on categories": "Filtrer par catégories",
   "Category": "Catégorie",
-  "Division": "Division"
+  "Division": "Division",
+  "This can be a customer number, installer number, or call center number": "Il peut s’agir d’un numéro client, d’un numéro d’installateur ou d’un numéro de centre d’appel",
+  "The provided UUID must be a valid UUID": "L'UUID fourni doit être un UUID valide",
+  "Pick a year from {{value}} onwards": "Choisissez une année à partir de {{value}}",
+  "Pick a year up to {{value}}": "Choisissez une année jusqu’à {{value}}"
 }
