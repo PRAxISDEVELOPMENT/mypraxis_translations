@@ -2279,5 +2279,6 @@
   "Card view": "Vue en carte",
   "List view": "Vue en liste",
   "Audit trail": "Journal d'audit",
-  "Filter on categories": "Filtrer par catégories"
+  "Filter on categories": "Filtrer par catégories",
+  "Category": "Catégorie"
 }
