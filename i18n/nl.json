@@ -2232,6 +2232,7 @@
   "You cannot change the contract type while a customized contact list is active. Please remove or reset the list first": "Je kan het contracttype niet wijzigen zolang er een aangepaste bellijst actief is. Verwijder of reset eerst de lijst.",
   "You cannot change the invoice method for a linked client. Please change it in the main account": "Je kan de facturatiemethode voor een gekoppelde klant niet wijzigen. Pas dit aan in het hoofdaccount.",
   "You cannot change the invoice method while a client is on-hold.": "Je kan de facturatiemethode van een on-hold klant niet wijzigen.",
+  "This installer cannot be deleted because they have active clients.": "Deze installateur kan niet worden verwijderd omdat hij nog actieve klanten heeft.",
   "Non applicable": "Niet van toepassing",
   "Detected (and invoiced)": "Gedetecteerd (en gefactureerd)",
   "Selected in MyPRAxIS": "Geselecteerd in MyPRAxIS",
