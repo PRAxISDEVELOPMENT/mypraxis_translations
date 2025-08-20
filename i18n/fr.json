@@ -2286,5 +2286,10 @@
   "This can be a customer number, installer number, or call center number": "Il peut s’agir d’un numéro client, d’un numéro d’installateur ou d’un numéro de centre d’appel",
   "The provided UUID must be a valid UUID": "L'UUID fourni doit être un UUID valide",
   "Pick a year from {{value}} onwards": "Choisissez une année à partir de {{value}}",
-  "Pick a year up to {{value}}": "Choisissez une année jusqu’à {{value}}"
+  "Pick a year up to {{value}}": "Choisissez une année jusqu’à {{value}}",
+  "The following contacts do not yet have an e-mail address. As a result, they will not appear and therefore cannot be selected in the groups and in the calendar": "Les contacts suivants n'ont pas encore d'adresse e-mail. Par conséquent, ils n'apparaîtront pas et ne pourront pas être sélectionnés dans les groupes et dans le calendrier.",
+  "The following contacts do not yet have a mobile number. As a result, they will not appear and therefore cannot be selected in the groups and in the calendar": "Les contacts suivants n'ont pas encore de numéro de mobile. Par conséquent, ils n'apparaîtront pas et ne pourront pas être sélectionnés dans les groupes et dans le calendrier.",
+  "The following contacts are missing an e-mail address or a mobile number. As a result, they will not appear and therefore cannot be selected in the groups and in the calendar": "Les contacts suivants n'ont pas d'adresse e-mail ou de numéro de mobile. Par conséquent, ils n'apparaîtront pas et ne pourront pas être sélectionnés dans les groupes et dans le calendrier.",
+  "Basis preferences": "Préférences de base",
+  "Call-in number must be exactly 9 digits and start with 0 (e.g., 056999999)": "Le numéro d'appel doit contenir exactement 9 chiffres et commencer par 0 (par ex. 056999999)."
 }

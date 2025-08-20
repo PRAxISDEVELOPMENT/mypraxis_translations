@@ -2286,5 +2286,10 @@
   "This can be a customer number, installer number, or call center number": "Dit kan een klantnummer, installateursnummer of callcenternummer zijn",
   "The provided UUID must be a valid UUID": "De opgegeven UUID moet een geldige UUID zijn",
   "Pick a year from {{value}} onwards": "Kies een jaar vanaf {{value}}",
-  "Pick a year up to {{value}}": "Kies een jaar tot en met {{value}}"
+  "Pick a year up to {{value}}": "Kies een jaar tot en met {{value}}",
+  "The following contacts do not yet have an e-mail address. As a result, they will not appear and therefore cannot be selected in the groups and in the calendar": "De volgende contacten hebben nog geen e-mailadres. Daardoor zullen ze niet verschijnen en kunnen ze niet worden geselecteerd in de groepen en in de kalender.",
+  "The following contacts do not yet have a mobile number. As a result, they will not appear and therefore cannot be selected in the groups and in the calendar": "De volgende contacten hebben nog geen mobiel nummer. Daardoor zullen ze niet verschijnen en kunnen ze niet worden geselecteerd in de groepen en in de kalender.",
+  "The following contacts are missing an e-mail address or a mobile number. As a result, they will not appear and therefore cannot be selected in the groups and in the calendar": "De volgende contacten missen een e-mailadres of een mobiel nummer. Daardoor zullen ze niet verschijnen en kunnen ze niet worden geselecteerd in de groepen en in de kalender.",
+  "Basis preferences": "Basisvoorkeuren",
+  "Call-in number must be exactly 9 digits and start with 0 (e.g., 056999999)": "Het inbelnummer moet exact 9 cijfers bevatten en beginnen met 0 (bijv. 056999999)."
 }
