@@ -2291,5 +2291,12 @@
   "The following contacts do not yet have a mobile number. As a result, they will not appear and therefore cannot be selected in the groups and in the calendar": "Les contacts suivants n'ont pas encore de numéro de mobile. Par conséquent, ils n'apparaîtront pas et ne pourront pas être sélectionnés dans les groupes et dans le calendrier.",
   "The following contacts are missing an e-mail address or a mobile number. As a result, they will not appear and therefore cannot be selected in the groups and in the calendar": "Les contacts suivants n'ont pas d'adresse e-mail ou de numéro de mobile. Par conséquent, ils n'apparaîtront pas et ne pourront pas être sélectionnés dans les groupes et dans le calendrier.",
   "Basis preferences": "Préférences de base",
-  "Call-in number must be exactly 9 digits and start with 0 (e.g., 056999999)": "Le numéro d'appel doit contenir exactement 9 chiffres et commencer par 0 (par ex. 056999999)."
+  "Call-in number must be exactly 9 digits and start with 0 (e.g., 056999999)": "Le numéro d'appel doit contenir exactement 9 chiffres et commencer par 0 (par ex. 056999999).",
+  "Call only in case of suspicious situation": "Appeler uniquement en cas de situation suspecte",
+  "Enable/disable call only in case of a suspicious situation": "Activer/désactiver l'appel uniquement en cas de situation suspecte",
+  "Disable call only in case of suspicious situation": "Désactiver l'appel uniquement en cas de situation suspecte",
+  "Enable call only in case of suspicious situation": "Activer l'appel uniquement en cas de situation suspecte",
+  "You are about to enable call only in case of suspicious situation.": "Vous êtes sur le point d’activer l’option « appeler uniquement en cas de situation suspecte ».",
+  "To disable call only in case of suspicious situation, please check the box below to confirm your consent.": "Pour désactiver l’option « appeler uniquement en cas de situation suspecte », veuillez cocher la case ci-dessous afin de confirmer votre consentement.",
+  "I hereby confirm that, until further notice, i agree to the deactivation of the option call only in case of a suspicious situation.": "Je confirme par la présente que, jusqu’à nouvel ordre, j’accepte la désactivation de l’option « appeler uniquement en cas de situation suspecte »."
 }
