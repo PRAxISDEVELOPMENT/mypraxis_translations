@@ -2298,5 +2298,12 @@
   "Enable call only in case of suspicious situation": "Schakel alleen bellen bij een verdachte situatie in",
   "You are about to enable call only in case of suspicious situation.": "U staat op het punt de optie 'alleen bellen in geval van een verdachte situatie' in te schakelen.",
   "To disable call only in case of suspicious situation, please check the box below to confirm your consent.": "Om de optie 'alleen bellen in geval van een verdachte situatie' uit te schakelen, vinkt u hieronder het vakje aan om uw toestemming te bevestigen.",
-  "I hereby confirm that, until further notice, i agree to the deactivation of the option call only in case of a suspicious situation.": "Ik bevestig hierbij dat ik, tot nader order, instem met de deactivering van de optie 'alleen bellen in geval van een verdachte situatie'."
+  "I hereby confirm that, until further notice, i agree to the deactivation of the option call only in case of a suspicious situation.": "Ik bevestig hierbij dat ik, tot nader order, instem met de deactivering van de optie 'alleen bellen in geval van een verdachte situatie'.",
+  "Please put the customer on hold and confirm this to the installer.": "Gelieve de klant on-hold te plaatsen en te bevestigen aan de installateur.",
+  "Please forward the message below to the sender": "Gelieve onderstaand bericht door te geven aan de afzender",
+  "Dear": "Beste",
+  "Thank you for your email": "Bedankt voor uw e-mail",
+  "We can only put your alarm connection on hold at the express request of your installer.": "Wij kunnen uw meldkameraansluiting enkel on-hold plaatsen op uitdrukkelijk verzoek van uw installateur.",
+  "Your request will only be processed once your installer has provided us with the necessary instructions.": "Uw verzoek zal pas verwerkt worden zodra uw installateur ons hiertoe de nodige instructies aanlevert.",
+  "Thank you in advance.": "Alvast bedankt."
 }

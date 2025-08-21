@@ -2298,5 +2298,12 @@
   "Enable call only in case of suspicious situation": "Activer l'appel uniquement en cas de situation suspecte",
   "You are about to enable call only in case of suspicious situation.": "Vous êtes sur le point d’activer l’option « appeler uniquement en cas de situation suspecte ».",
   "To disable call only in case of suspicious situation, please check the box below to confirm your consent.": "Pour désactiver l’option « appeler uniquement en cas de situation suspecte », veuillez cocher la case ci-dessous afin de confirmer votre consentement.",
-  "I hereby confirm that, until further notice, i agree to the deactivation of the option call only in case of a suspicious situation.": "Je confirme par la présente que, jusqu’à nouvel ordre, j’accepte la désactivation de l’option « appeler uniquement en cas de situation suspecte »."
+  "I hereby confirm that, until further notice, i agree to the deactivation of the option call only in case of a suspicious situation.": "Je confirme par la présente que, jusqu’à nouvel ordre, j’accepte la désactivation de l’option « appeler uniquement en cas de situation suspecte ».",
+  "Please put the customer on hold and confirm this to the installer.": "Veuillez mettre le client en attente et le confirmer à l’installateur.",
+  "Please forward the message below to the sender": "Veuillez transmettre le message ci-dessous à l’expéditeur",
+  "Dear": "Bonjour",
+  "Thank you for your email": "Merci pour votre e-mail",
+  "We can only put your alarm connection on hold at the express request of your installer.": "Nous ne pouvons mettre votre raccordement à la centrale d’alarme en attente qu’à la demande expresse de votre installateur.",
+  "Your request will only be processed once your installer has provided us with the necessary instructions.": "Votre demande ne sera traitée que lorsque votre installateur nous aura transmis les instructions nécessaires.",
+  "Thank you in advance.": "Merci d’avance."
 }
