@@ -2305,5 +2305,13 @@
   "Thank you for your email": "Merci pour votre e-mail",
   "We can only put your alarm connection on hold at the express request of your installer.": "Nous ne pouvons mettre votre raccordement à la centrale d’alarme en attente qu’à la demande expresse de votre installateur.",
   "Your request will only be processed once your installer has provided us with the necessary instructions.": "Votre demande ne sera traitée que lorsque votre installateur nous aura transmis les instructions nécessaires.",
-  "Thank you in advance.": "Merci d’avance."
+  "Thank you in advance.": "Merci d’avance.",
+  "We can only terminate your alarm connection at the express request of your installer.": "Nous ne pouvons résilier votre raccordement à la centrale d’alarme qu’à la demande expresse de votre installateur.",
+  "Please terminate the customer and confirm this to the installer.": "Veuillez résilier le raccordement du client à la centrale d’alarme et le confirmer à l’installateur.",
+  "The termination of the alarm connection must be carried out by our mutual customer by means of a registered letter. This must be done 3 months before the end of the invoice date.": "La résiliation du raccordement à la centrale d’alarme doit être effectuée par notre client commun au moyen d’une lettre recommandée. Cela doit être fait 3 mois avant la date de fin de facturation.",
+  "This can be sent to the address below": "Ceci peut être envoyé à l’adresse ci-dessous",
+  "For the attention of the Finance Department": "À l’attention du service financier",
+  "After this, our Finance Department will process the termination request and inform you and the customer.": "Par la suite, notre service financier traitera la demande de résiliation et informera vous et le client.",
+  "You must terminate your contract by registered letter. This must be done 3 months before the end of the invoice date.": "Vous devez résilier votre contrat par lettre recommandée. Cela doit être fait 3 mois avant la date de fin de facturation.",
+  "After this, our Finance Department will process the termination request and further inform you.": "Par la suite, notre service financier traitera la demande de résiliation et vous informera davantage."
 }
