@@ -2317,5 +2317,8 @@
   "Call-in number": "Numéro d'appel",
   "Your session was automatically terminated by PRAxIS GROUP N.V. for security reasons.": "Votre session a été automatiquement terminée par PRAxIS GROUP N.V. pour des raisons de sécurité.",
   "No primary or backup contact was assigned.": "Aucun contact principal ou de secours n’a été attribué.",
-  "Go back": "Retour"
+  "Go back": "Retour",
+  "Callcenter Calls": "Appels du service de permanence",
+  "Activation date & time": "Date et heure d’activation",
+  "Assigned by MyPRAxIS": "Attribué par MyPRAxIS"
 }
