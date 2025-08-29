@@ -2320,5 +2320,9 @@
   "Go back": "Ga terug",
   "Callcenter Calls": "Wachtdienst Oproepen",
   "Activation date & time": "Activatiedatum & -tijd",
-  "Assigned by MyPRAxIS": "Toegewezen door MyPRAxIS"
+  "Assigned by MyPRAxIS": "Toegewezen door MyPRAxIS",
+  "A primary or backup contact was assigned.": "Er werd een primair of back-up contact toegekend.",
+  "Completed": "Ingevuld",
+  "Incomplete": "Onvolledig",
+  "You have selected the duress option 'Code under duress'.": "U hebt de optie 'Code onder dwang' geselecteerd."
 }

@@ -2320,5 +2320,9 @@
   "Go back": "Retour",
   "Callcenter Calls": "Appels du service de permanence",
   "Activation date & time": "Date et heure d’activation",
-  "Assigned by MyPRAxIS": "Attribué par MyPRAxIS"
+  "Assigned by MyPRAxIS": "Attribué par MyPRAxIS",
+  "A primary or backup contact was assigned.": "Un contact principal ou de secours a été attribué.",
+  "Completed": "Complété",
+  "Incomplete": "Incomplet",
+  "You have selected the duress option 'Code under duress'.": "Vous avez sélectionné l’option 'Code sous contrainte'."
 }
