@@ -2316,14 +2316,17 @@
   "After this, our Finance Department will process the termination request and further inform you.": "Hierna zal onze financiële dienst de aanvraag tot stopzetting verder behartigen en u verder informeren.",
   "Call-in number": "Inbelnummer",
   "Your session was automatically terminated by PRAxIS GROUP N.V. for security reasons.": "Uw sessie werd door PRAxIS GROUP N.V. om veiligheidsredenen automatisch beëindigd.",
-  "No primary or backup contact was assigned.": "Er werd geen primair of back-up contact toegekend.",
+  "No primary or back-up contact was assigned.": "Er werd geen primair of back-up contact toegekend.",
   "Go back": "Ga terug",
   "Callcenter Calls": "Wachtdienst Oproepen",
   "Activation date & time": "Activatiedatum & -tijd",
   "Assigned by MyPRAxIS": "Toegewezen door MyPRAxIS",
-  "A primary or backup contact was assigned.": "Er werd een primair of back-up contact toegekend.",
+  "A primary or back-up contact was assigned.": "Er werd een primair of back-up contact toegekend.",
   "Completed": "Ingevuld",
   "Incomplete": "Onvolledig",
   "You have selected the duress option « Code under duress ».": "U hebt de optie « Code onder dwang » geselecteerd.",
-  "Backup is a paid option.": "Back-up is een betalende optie."
+  "Back-up is a paid option.": "Back-up is een betalende optie.",
+  "Delete back-up": "Back-up verwijderen",
+  "Back-up customer number deleted": "Back-up klantnummer verwijderd",
+  "You are about to delete back-up customer number: {{value}}": "U staat op het punt back-up klantnummer te verwijderen: {{value}}"
 }
