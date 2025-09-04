@@ -2328,5 +2328,12 @@
   "Back-up is a paid option.": "Back-up est une option payante.",
   "Delete back-up": "Supprimer le back-up",
   "Back-up customer number deleted": "Numéro de client de back-up supprimé",
-  "You are about to delete back-up customer number: {{value}}": "Vous êtes sur le point de supprimer le Numéro de client de back-up: {{value}}"
+  "You are about to delete back-up customer number: {{value}}": "Vous êtes sur le point de supprimer le Numéro de client de back-up: {{value}}",
+  "Closure request Carrefour": "Demande de fermeture Carrefour",
+  "Store number": "Numéro de magasin",
+  "Date and time of closure request": "Date et heure de la demande de fermeture",
+  "Date and time of closure confirmation": "Date et heure de la confirmation de fermeture",
+  "Agent": "Agent",
+  "Only CP3 or CP4": "Seulement CP3 ou CP4",
+  "Only CP3 or CP4 contact has been assigned. A primary or backup contact is missing.": "Seul CP3 ou CP4 est renseigné. Aucun contact principal ou de secours n’a été attribué."
 }
