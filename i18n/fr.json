@@ -2330,7 +2330,7 @@
 	"Back-up customer number deleted": "Numéro de client de back-up supprimé",
 	"You are about to delete back-up customer number: {{value}}": "Vous êtes sur le point de supprimer le Numéro de client de back-up: {{value}}",
 	"Closure request Carrefour": "Demande de fermeture Carrefour",
-	"StoreNumber": "numéroMagasin",
+	"Storenumber": "numéromagasin",
 	"Date and time of closure request": "Date et heure de la demande de fermeture",
 	"Date and time of closure confirmation": "Date et heure de la confirmation de fermeture",
 	"Agent": "Agent"
