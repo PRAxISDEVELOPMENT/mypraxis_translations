@@ -2334,5 +2334,7 @@
 	"Date and time of closure request": "Datum tijd aanvraag sluiting",
 	"Date and time of closure confirmation": "Datum tijd bevestiging sluiting",
 	"Agent": "Agent",
-	"Only CP3 or CP4": "Enkel CP3 of CP4"
+	"Only CP3 or CP4": "Enkel CP3 of CP4",
+	"Expired credit notes": "Verlopen creditnota's",
+	"Unexpired credit notes": "Openstaande creditnota's"
 }
