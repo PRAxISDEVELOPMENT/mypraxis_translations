@@ -2333,5 +2333,6 @@
 	"Store number": "Winkelnummer",
 	"Date and time of closure request": "Datum tijd aanvraag sluiting",
 	"Date and time of closure confirmation": "Datum tijd bevestiging sluiting",
-	"Agent": "Agent"
+	"Agent": "Agent",
+	"Only CP3 or CP4": "Enkel CP3 of CP4"
 }

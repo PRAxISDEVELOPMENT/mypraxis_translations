@@ -2333,5 +2333,7 @@
 	"Store number": "Numéro de magasin",
 	"Date and time of closure request": "Date et heure de la demande de fermeture",
 	"Date and time of closure confirmation": "Date et heure de la confirmation de fermeture",
-	"Agent": "Agent"
+	"Agent": "Agent",
+	"Only CP3 or CP4": "Seulement CP3 ou CP4",
+	"Only CP3 or CP4 contact has been assigned. A primary or backup contact is missing.": "Seul CP3 ou CP4 est renseigné. Aucun contact principal ou de secours n’a été attribué."
 }
