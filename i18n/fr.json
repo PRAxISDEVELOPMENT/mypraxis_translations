@@ -2339,5 +2339,6 @@
 	"Expired credit notes": "Notes de crédit expirées",
 	"Unexpired credit notes": "Notes de crédit non expirées",
 	"Sound": "Son",
-	"Invalid hex color code": "Code couleur hexadécimal non valide"
+	"Invalid hex color code": "Code couleur hexadécimal non valide",
+	"Event marker successfully created": "Marqueur d'événement créé avec succès"
 }

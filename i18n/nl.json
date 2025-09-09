@@ -2338,5 +2338,6 @@
 	"Expired credit notes": "Vervallen creditnota's",
 	"Unexpired credit notes": "Niet-vervallen creditnota's",
 	"Sound": "Geluid",
-	"Invalid hex color code": "Ongeldige hex kleurcode"
+	"Invalid hex color code": "Ongeldige hex kleurcode",
+	"Event marker successfully created": "Event markering succesvol aangemaakt"
 }
