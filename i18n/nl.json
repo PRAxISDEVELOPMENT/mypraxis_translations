@@ -2341,5 +2341,6 @@
   "Sound": "Geluid",
   "Invalid hex color code": "Ongeldige hex kleurcode",
   "Event marker successfully created": "Event markering succesvol aangemaakt",
-  "Short SIA code (4 digits)": "Verkorte SIA-code (4 cijfers)"
+  "Short SIA code (4 digits)": "Verkorte SIA-code (4 cijfers)",
+  "Only visible for installer(s)": "Enkel zichtbaar voor installateur(s)"
 }

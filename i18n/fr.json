@@ -2341,5 +2341,6 @@
   "Sound": "Son",
   "Invalid hex color code": "Code couleur hexadécimal non valide",
   "Event marker successfully created": "Marqueur d'événement créé avec succès",
-  "Short SIA code (4 digits)": "Code SIA abrégé (4 chiffres)"
+  "Short SIA code (4 digits)": "Code SIA abrégé (4 chiffres)",
+  "Only visible for installer(s)": "Visible uniquement pour l’installateur / les installateurs"
 }
