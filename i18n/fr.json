@@ -2343,5 +2343,6 @@
   "Event marker successfully created": "Marqueur d'événement créé avec succès",
   "Short SIA code (4 digits)": "Code SIA abrégé (4 chiffres)",
   "Only visible for installer(s)": "Visible uniquement pour l’installateur / les installateurs",
-  "Edit communicator": "Modifier le communicateur"
+  "Edit communicator": "Modifier le communicateur",
+  "Cache updated by PRAxIS GROUP N.V.": "Cache mis à jour par PRAxIS GROUP N.V."
 }
