@@ -2345,5 +2345,10 @@
   "Only visible for installer(s)": "Visible uniquement pour l’installateur / les installateurs",
   "Edit communicator": "Modifier le communicateur",
   "Cache updated by PRAxIS GROUP N.V.": "Cache mis à jour par PRAxIS GROUP N.V.",
-  "Account number": "Numéro de compte"
+  "Account number": "Numéro de compte",
+  "Exception found": "Exception trouvée",
+  "Delete exception": "Supprimer l'exception",
+  "Change exception": "Modifier l'exception",
+  "{{value}} exception(s) deleted": "{{value}} exception(s) supprimée(s)",
+  "You are about to delete {{value}} exception(s).": "Vous êtes sur le point de supprimer {{value}} exception(s)."
 }
