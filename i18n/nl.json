@@ -2350,5 +2350,6 @@
 	"Delete exception": "Uitzondering verwijderen",
 	"Change exception": "Uitzondering wijzigen",
 	"{{value}} exception(s) deleted": "{{value}} uitzondering(en) verwijderd",
-	"You are about to delete {{value}} exception(s).": "U staat op het punt {{value}} uitzondering(en) te verwijderen."
+	"You are about to delete {{value}} exception(s).": "U staat op het punt {{value}} uitzondering(en) te verwijderen.",
+	"Mark events": "Events markeren"
 }
