@@ -2335,10 +2335,20 @@
 	"Date and time of closure confirmation": "Datum tijd bevestiging sluiting",
 	"Agent": "Agent",
 	"Only CP3 or CP4": "Enkel CP3 of CP4",
+	"Only CP3 or CP4 has been assigned. A primary or backup contact is missing.": "Er is enkel CP3 of CP4 ingevuld. Een primair of back-up contact ontbreekt.",
 	"Expired credit notes": "Vervallen creditnota's",
 	"Unexpired credit notes": "Niet-vervallen creditnota's",
 	"Sound": "Geluid",
 	"Invalid hex color code": "Ongeldige hex kleurcode",
 	"Event marker successfully created": "Event markering succesvol aangemaakt",
-	"Mark events": "Markeer events"
+	"Short SIA code (4 digits)": "Verkorte SIA-code (4 cijfers)",
+	"Only visible for installer(s)": "Enkel zichtbaar voor installateur(s)",
+	"Edit communicator": "Communicator bewerken",
+	"Cache updated by PRAxIS GROUP N.V.": "Cache bijgewerkt door PRAxIS GROUP N.V.",
+	"Account number": "Account nummer",
+	"Exception found": "Uitzondering gevonden",
+	"Delete exception": "Uitzondering verwijderen",
+	"Change exception": "Uitzondering wijzigen",
+	"{{value}} exception(s) deleted": "{{value}} uitzondering(en) verwijderd",
+	"You are about to delete {{value}} exception(s).": "U staat op het punt {{value}} uitzondering(en) te verwijderen."
 }
