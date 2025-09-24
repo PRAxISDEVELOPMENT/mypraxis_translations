@@ -2374,5 +2374,11 @@
   "Finished": "Terminé",
   "No items": "Aucun élément",
   "Move to: {{title}}": "Déplacer vers : {{title}}",
-  "Pinned": "Épinglé"
+  "Pinned": "Épinglé",
+  "Created": "Créé",
+  "Accepted": "Accepté",
+  "High": "Haute",
+  "Medium": "Moyenne",
+  "Low": "Basse",
+  "Pinned by": "Épinglé par"
 }

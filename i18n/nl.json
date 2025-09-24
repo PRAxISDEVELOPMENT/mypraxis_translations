@@ -2374,5 +2374,11 @@
   "Finished": "Afgewerkt",
   "No items": "Geen items",
   "Move to: {{title}}": "Verplaats naar: {{title}}",
-  "Pinned": "Vastgezet"
+  "Pinned": "Vastgezet",
+  "Created": "Aangemaakt",
+  "Accepted": "Geaccepteerd",
+  "High": "Hoog",
+  "Medium": "Medium",
+  "Low": "Laag",
+  "Pinned by": "Vastgezet door"
 }
