@@ -2368,5 +2368,9 @@
   "I hereby confirm that I agree to disabling the installer logo on PRAxIS contracts.": "Je confirme par la présente que j’accepte de désactiver le logo de l’installateur sur les contrats PRAxIS.",
   "You are about to enable the installer logo on PRAxIS contracts.": "Vous êtes sur le point d’activer le logo de l’installateur sur les contrats PRAxIS.",
   "Disabling this option will prevent the installer logo from being shown on PRAxIS contracts.": "La désactivation de cette option empêchera l’affichage du logo de l’installateur sur les contrats PRAxIS.",
-  "These are stored for a maximum of 30 days and then automatically deleted.": "Celles-ci sont conservées pendant maximum 30 jours puis automatiquement supprimées."
+  "These are stored for a maximum of 30 days and then automatically deleted.": "Celles-ci sont conservées pendant maximum 30 jours puis automatiquement supprimées.",
+  "Notes": "Notes",
+  "In progress": "En cours",
+  "Finished": "Terminé",
+  "No items": "Aucun élément"
 }
