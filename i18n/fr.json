@@ -2373,5 +2373,6 @@
   "In progress": "En cours",
   "Finished": "Terminé",
   "No items": "Aucun élément",
-  "Move to: {{title}}": "Déplacer vers : {{title}}"
+  "Move to: {{title}}": "Déplacer vers : {{title}}",
+  "Pinned": "Épinglé"
 }

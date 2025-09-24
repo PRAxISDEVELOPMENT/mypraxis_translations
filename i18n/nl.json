@@ -2373,5 +2373,6 @@
   "In progress": "In behandeling",
   "Finished": "Afgewerkt",
   "No items": "Geen items",
-  "Move to: {{title}}": "Verplaats naar: {{title}}"
+  "Move to: {{title}}": "Verplaats naar: {{title}}",
+  "Pinned": "Vastgezet"
 }
