@@ -2372,5 +2372,6 @@
   "Notes": "Notities",
   "In progress": "In behandeling",
   "Finished": "Afgewerkt",
-  "No items": "Geen items"
+  "No items": "Geen items",
+  "Move to: {{title}}": "Verplaats naar: {{title}}"
 }

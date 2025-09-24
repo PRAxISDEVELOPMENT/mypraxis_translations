@@ -2372,5 +2372,6 @@
   "Notes": "Notes",
   "In progress": "En cours",
   "Finished": "Terminé",
-  "No items": "Aucun élément"
+  "No items": "Aucun élément",
+  "Move to: {{title}}": "Déplacer vers : {{title}}"
 }
