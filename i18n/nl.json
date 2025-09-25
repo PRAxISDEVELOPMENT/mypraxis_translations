@@ -2385,5 +2385,8 @@
   "Add note": "Notitie toevoegen",
   "Assign to": "Toekennen aan",
   "Pin message": "Bericht vastzetten",
-  "Assigned to": "Toegekend aan"
+  "Assigned to": "Toegekend aan",
+
+  "Change item": "Item wijzigen",
+  "Delete item": "Item verwijderen"
 }
