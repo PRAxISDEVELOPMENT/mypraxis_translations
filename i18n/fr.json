@@ -2403,5 +2403,6 @@
 	"ERROR: failed to enable sound": "ERREUR : échec de l'activation du son",
 	"Unlock audio": "Déverrouiller l'audio",
 	"To comply with your browser’s autoplay policy, we need a quick click from you.": "Pour se conformer à la politique d'autoplay de votre navigateur, nous avons besoin d'un clic rapide de votre part.",
-	"Choose proceed to hear new event alerts.": "Choisissez de continuer pour entendre les nouvelles alertes d'événement."
+	"Choose proceed to hear new event alerts.": "Choisissez de continuer pour entendre les nouvelles alertes d'événement.",
+	"Emergency call agent": "Agent des appels d’urgence"
 }
