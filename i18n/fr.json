@@ -2402,5 +2402,6 @@
 	"Upload files": "Téléverser des fichiers",
 	"ERROR: failed to enable sound": "ERREUR : échec de l'activation du son",
 	"Unlock audio": "Déverrouiller l'audio",
-	"To comply with your browser’s autoplay policy, we need a quick click from you. Choose Turn on sound to hear new event alerts.": "Pour se conformer à la politique d'autoplay de votre navigateur, nous avons besoin d'un clic rapide de votre part. Choisissez Activer le son pour entendre les nouvelles alertes d'événements."
+	"To comply with your browser’s autoplay policy, we need a quick click from you.": "Pour se conformer à la politique d'autoplay de votre navigateur, nous avons besoin d'un clic rapide de votre part.",
+	"Choose proceed to hear new event alerts.": "Choisissez de continuer pour entendre les nouvelles alertes d'événement."
 }

@@ -2402,5 +2402,6 @@
 	"Upload files": "Bestanden uploaden",
 	"ERROR: failed to enable sound": "FOUT: inschakelen geluid mislukt",
 	"Unlock audio": "Audio ontgrendelen",
-	"To comply with your browser’s autoplay policy, we need a quick click from you. Choose Turn on sound to hear new event alerts.": "Om te voldoen aan het autoplay-beleid van uw browser, hebben we een snelle klik van u nodig. Kies Geluid inschakelen om nieuwe gebeurteniswaarschuwingen te horen."
+	"To comply with your browser’s autoplay policy, we need a quick click from you.": "Om te voldoen aan het autoplay-beleid van uw browser, hebben we een snelle klik van u nodig.",
+	"Choose proceed to hear new event alerts.": "Kies doorgaan om nieuwe eventmeldingen te horen."
 }
