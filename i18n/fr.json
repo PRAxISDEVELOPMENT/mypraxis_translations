@@ -2391,5 +2391,12 @@
   "All operators": "Tous les opérateurs",
   "View ticket": "Voir le ticket",
   "Pinned message": "Message épinglé",
-  "None selected": "Aucune sélection"
+  "None selected": "Aucune sélection",
+  "Add ticket": "Ajouter un ticket",
+  "Change ticket": "Modifier le ticket",
+  "Delete ticket": "Supprimer le ticket",
+  "Ticket added": "Ticket ajouté",
+  "Ticket changed": "Ticket modifié",
+  "Ticket deleted": "Ticket supprimé",
+  "You are about to delete ticket {{value}}: {{value2}}.": "Vous êtes sur le point de supprimer le ticket {{value}} : {{value2}}."
 }

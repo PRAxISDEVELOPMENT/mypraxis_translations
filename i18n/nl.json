@@ -2391,5 +2391,12 @@
   "All operators": "Alle operatoren",
   "View ticket": "Ticket bekijken",
   "Pinned message": "Vastgezet bericht",
-  "None selected": "Geen selectie"
+  "None selected": "Geen selectie",
+  "Add ticket": "Ticket toevoegen",
+  "Change ticket": "Ticket wijzigen",
+  "Delete ticket": "Ticket verwijderen",
+  "Ticket added": "Ticket toegevoegd",
+  "Ticket changed": "Ticket gewijzigd",
+  "Ticket deleted": "Ticket verwijderd",
+  "You are about to delete ticket {{value}}: {{value2}}.": "U staat op het punt ticket {{value}}: {{value2}} te verwijderen."
 }
