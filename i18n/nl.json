@@ -2398,5 +2398,6 @@
   "Ticket added": "Ticket toegevoegd",
   "Ticket changed": "Ticket gewijzigd",
   "Ticket deleted": "Ticket verwijderd",
-  "You are about to delete ticket {{value}}: {{value2}}.": "U staat op het punt ticket {{value}}: {{value2}} te verwijderen."
+  "You are about to delete ticket {{value}}: {{value2}}.": "U staat op het punt ticket {{value}}: {{value2}} te verwijderen.",
+  "Upload files": "Bestanden uploaden"
 }

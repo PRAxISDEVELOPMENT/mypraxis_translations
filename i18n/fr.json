@@ -2398,5 +2398,6 @@
   "Ticket added": "Ticket ajouté",
   "Ticket changed": "Ticket modifié",
   "Ticket deleted": "Ticket supprimé",
-  "You are about to delete ticket {{value}}: {{value2}}.": "Vous êtes sur le point de supprimer le ticket {{value}} : {{value2}}."
+  "You are about to delete ticket {{value}}: {{value2}}.": "Vous êtes sur le point de supprimer le ticket {{value}} : {{value2}}.",
+  "Upload files": "Téléverser des fichiers"
 }
