@@ -2389,5 +2389,7 @@
   "Change item": "Modifier l’élément",
   "Delete item": "Supprimer l’élément",
   "All operators": "Tous les opérateurs",
-  "View ticket": "Voir le ticket"
+  "View ticket": "Voir le ticket",
+  "Pinned message": "Message épinglé",
+  "None selected": "Aucun sélectionné"
 }

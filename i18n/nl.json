@@ -2389,5 +2389,7 @@
   "Change item": "Item wijzigen",
   "Delete item": "Item verwijderen",
   "All operators": "Alle operatoren",
-  "View ticket": "Ticket bekijken"
+  "View ticket": "Ticket bekijken",
+  "Pinned message": "Vastgezet bericht",
+  "None selected": "Niets geselecteerd"
 }
