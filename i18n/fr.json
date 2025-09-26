@@ -1188,7 +1188,7 @@
   "You are about to enable the notification e-mail to the installer regarding additional handling.": "Vous êtes sur le point d'activer l'e-mail de notification à l'installateur concernant le traitement supplémentaire.",
   "I hereby confirm that, until further notice, I agree to the deactivation of email notifications regarding additional handling. From this moment on, I agree that any additional invoices related to such handling will no longer be disputed.": "Je confirme par la présente que j’accepte, jusqu’à nouvel ordre, la désactivation des notifications par e-mail concernant les traitements supplémentaires. À partir de maintenant, j’accepte que les factures supplémentaires liées à ces traitements ne soient plus contestées.",
   "You are about to enable the notification e-mail to the end customer regarding additional handling.": "Vous êtes sur le point d'activer l'e-mail de notification au client final concernant le traitement supplémentaire.",
-  "Prefrences changed": "Préférences modifiées",
+  "Preferences changed": "Préférences modifiées",
   "To disable the notification e-mail to the installer regarding the additional actions, please check the box below to confirm your consent.": "Pour désactiver l'e-mail de notification à l'installateur concernant les actions supplémentaires, veuillez cocher la case ci-dessous pour confirmer votre accord.",
   "You are about to change the division to: {{value}}": "Vous êtes sur le point de changer la division en: {{value}}",
   "The tax number must start with": "Le numéro de TVA doit commencer par",
