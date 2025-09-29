@@ -2405,5 +2405,9 @@
   "To comply with your browser’s autoplay policy, we need a quick click from you.": "Pour se conformer à la politique d'autoplay de votre navigateur, nous avons besoin d'un clic rapide de votre part.",
   "Choose proceed to hear new event alerts.": "Choisissez de continuer pour entendre les nouvelles alertes d'événement.",
   "Emergency call agent": "Agent des appels d’urgence",
-  "Remember on device": "Se souvenir sur cet appareil"
+  "Remember on device": "Se souvenir sur cet appareil",
+  "Open tickets": "Tickets ouverts",
+  "Archived tickets": "Tickets archivés",
+  "Conversations": "Conversations",
+  "No messages yet": "Pas encore de messages"
 }
