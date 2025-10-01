@@ -2409,5 +2409,11 @@
   "Open tickets": "Tickets ouverts",
   "Archived tickets": "Tickets archivés",
   "Conversations": "Conversations",
-  "No messages yet": "Pas encore de messages"
+  "No messages yet": "Pas encore de messages",
+  "File too big! max. 25MB allowed": "Fichier trop volumineux ! Taille maximale 25 Mo autorisée",
+  "Failed to wait for document: missing file id": "Échec de l'attente du document : identifiant de fichier manquant",
+  "Failed to wait for document: unexpected file id received": "Échec de l'attente du document : identifiant de fichier inattendu reçu",
+  "Failed to wait for document: {{message}}": "Échec de l'attente du document : {{message}}",
+  "Falling back to direct download": "Basculement vers le téléchargement direct",
+  "Error downloading file": "Erreur lors du téléchargement du fichier"
 }

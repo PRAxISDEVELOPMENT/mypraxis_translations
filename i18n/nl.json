@@ -2409,5 +2409,11 @@
   "Open tickets": "Openstaande tickets",
   "Archived tickets": "Gearchiveerde tickets",
   "Conversations": "Gesprekken",
-  "No messages yet": "Nog geen berichten"
+  "No messages yet": "Nog geen berichten",
+  "File too big! max. 25MB allowed": "Bestand te groot! Maximaal 25MB toegestaan",
+  "Failed to wait for document: missing file id": "Kon niet wachten op document: ontbrekend bestand-ID",
+  "Failed to wait for document: unexpected file id received": "Kon niet wachten op document: onverwacht bestand-ID ontvangen",
+  "Failed to wait for document: {{message}}": "Kon niet wachten op document: {{message}}",
+  "Falling back to direct download": "Schakel over naar directe download",
+  "Error downloading file": "Fout bij het downloaden van bestand"
 }
