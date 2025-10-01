@@ -2418,5 +2418,7 @@
   "Error downloading file": "Erreur lors du téléchargement du fichier",
   "Incoming calls": "Appels entrants",
   "Outgoing calls": "Appels sortants",
-  "Yesterday": "Hier"
+  "Yesterday": "Hier",
+  "Uploaded files": "Fichiers téléchargés",
+  "Add attachments": "Ajouter des pièces jointes"
 }

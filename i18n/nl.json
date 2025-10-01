@@ -2418,5 +2418,7 @@
   "Error downloading file": "Fout bij het downloaden van bestand",
   "Incoming calls": "Inkomende oproepen",
   "Outgoing calls": "Uitgaande oproepen",
-  "Yesterday": "Gisteren"
+  "Yesterday": "Gisteren",
+  "Uploaded files": "Geüploade bestanden",
+  "Add attachments": "Bijlagen toevoegen"
 }
