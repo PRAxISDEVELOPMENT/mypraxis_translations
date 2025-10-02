@@ -2431,5 +2431,8 @@
 	"Total call durations per month": "Durée totale des appels par mois",
 	"Total call durations per day": "Durée totale des appels par jour",
 	"Total call durations per week": "Durée totale des appels par semaine",
-	"Total call durations per year": "Durée totale des appels par an"
+	"Total call durations per year": "Durée totale des appels par an",
+	"First action": "Première action",
+	"Completion time": "Durée de traitement",
+	"Total completion time": "Durée totale de traitement"
 }

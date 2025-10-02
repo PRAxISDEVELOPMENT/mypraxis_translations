@@ -2431,5 +2431,8 @@
 	"Total call durations per month": "Totale oproepduur per maand",
 	"Total call durations per day": "Totale oproepduur per dag",
 	"Total call durations per week": "Totale oproepduur per week",
-	"Total call durations per year": "Totale oproepduur per jaar"
+	"Total call durations per year": "Totale oproepduur per jaar",
+	"First action": "Eerste actie",
+	"Completion time": "afhandeltijd",
+	"Total completion time": "Totale afhandeltijd"
 }
