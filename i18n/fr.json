@@ -2448,5 +2448,6 @@
 	"New: {{value}}": "Nouveau : {{value}}",
 	"Open: {{value}}": "Ouvert : {{value}}",
 	"New tickets: {{value}}": "Nouveaux tickets : {{value}}",
-	"Open tickets: {{value}}": "Tickets ouverts : {{value}}"
+	"Open tickets: {{value}}": "Tickets ouverts : {{value}}",
+	"Error loading tickets: {{message}}": "Erreur lors du chargement des tickets : {{message}}"
 }
