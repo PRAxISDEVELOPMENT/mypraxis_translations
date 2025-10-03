@@ -2449,5 +2449,6 @@
 	"Open: {{value}}": "Open: {{value}}",
 	"New tickets: {{value}}": "Nieuwe Tickets: {{value}}",
 	"Open tickets: {{value}}": "Open Tickets: {{value}}",
-	"Error loading tickets: {{message}}": "Fout bij laden van tickets: {{message}}"
+	"Error loading tickets: {{message}}": "Fout bij laden van tickets: {{message}}",
+	"Total time": "Totale tijd"
 }
