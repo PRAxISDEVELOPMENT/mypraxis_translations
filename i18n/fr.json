@@ -2474,5 +2474,6 @@
 	"Show all {{value}}": "Afficher tout {{value}}",
 	"Ticket details updated successfully": "Détails du ticket mis à jour avec succès",
 	"Recipients": "Destinataires",
-	"Call-in number(s) added": "Numéro(s) d’appel ajouté(s)"
+	"Call-in number(s) added": "Numéro(s) d’appel ajouté(s)",
+	"Please provide a valid telephonenumber": "Veuillez entrer un numéro de téléphone valide"
 }
