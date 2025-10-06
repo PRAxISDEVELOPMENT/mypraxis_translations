@@ -2475,5 +2475,9 @@
   "Ticket details updated successfully": "Ticketdetails succesvol bijgewerkt",
   "Recipients": "Ontvangers",
   "Call-in number(s) added": "Inbelnummer(s) toegevoegd",
-  "Please provide a valid telephonenumber": "Gelieve een geldig telefoonnummer op te geven"
+  "Please provide a valid telephonenumber": "Gelieve een geldig telefoonnummer op te geven",
+  "Ticket history": "Ticketgeschiedenis",
+  "Ticked ID": "Ticket ID",
+  "Navigate to archived ticket": "Navigeer naar gearchiveerd ticket",
+  "You are about to navigate to ticket: {{value}} - {{value2}}": "Je staat op het punt te navigeren naar ticket: {{value}} - {{value2}}"
 }

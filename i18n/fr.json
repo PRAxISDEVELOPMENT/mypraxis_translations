@@ -2475,5 +2475,9 @@
   "Ticket details updated successfully": "Détails du ticket mis à jour avec succès",
   "Recipients": "Destinataires",
   "Call-in number(s) added": "Numéro(s) d’appel ajouté(s)",
-  "Please provide a valid telephonenumber": "Veuillez entrer un numéro de téléphone valide"
+  "Please provide a valid telephonenumber": "Veuillez entrer un numéro de téléphone valide",
+  "Ticket history": "Historique du ticket",
+  "Ticked ID": "ID du ticket",
+  "Navigate to archived ticket": "Aller au ticket archivé",
+  "You are about to navigate to ticket: {{value}} - {{value2}}": "Vous êtes sur le point de naviguer vers le ticket : {{value}} - {{value2}}"
 }
