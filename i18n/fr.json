@@ -2452,7 +2452,7 @@
 	"Error loading tickets: {{message}}": "Erreur lors du chargement des tickets : {{message}}",
 	"Total time": "Temps total",
 	"Go to tickets": "Aller aux tickets",
-	"Call-in numbers": "Numéros d'appel",
+	"Reserved call-in numbers": "Numéros d’appel réservés",
 	"Manage call-in numbers": "Gérer les numéros d'appel",
 	"View call-in numbers": "Afficher les numéros d'appel",
 	"Add or remove dial-in numbers.": "Ajouter ou supprimer des numéros d'appel",
