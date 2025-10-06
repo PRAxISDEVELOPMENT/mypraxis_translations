@@ -2452,7 +2452,7 @@
 	"Error loading tickets: {{message}}": "Fout bij laden van tickets: {{message}}",
 	"Total time": "Totale tijd",
 	"Go to tickets": "Ga naar tickets",
-	"call-in numbers": "Inbelnummers",
+	"Call-in numbers": "Inbelnummers",
 	"Manage call-in numbers": "Beheer inbelnummers",
 	"View call-in numbers": "Inbelnummers weergeven",
 	"Add or remove dial-in numbers.": "Inbelnummer toevoegen of verwijderen",
