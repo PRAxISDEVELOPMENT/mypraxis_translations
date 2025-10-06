@@ -2456,5 +2456,6 @@
 	"Manage call-in numbers": "Beheer inbelnummers",
 	"View call-in numbers": "Inbelnummers weergeven",
 	"Add or remove dial-in numbers.": "Inbelnummer toevoegen of verwijderen",
-	"The dial-in numbers are managed by PRAxIS.": "De inbelnummers worden beheerd door PRAxIS"
+	"The dial-in numbers are managed by PRAxIS.": "De inbelnummers worden beheerd door PRAxIS",
+	"No call-in number has been entered.": "Er is nog geen inbelnummer ingegeven."
 }
