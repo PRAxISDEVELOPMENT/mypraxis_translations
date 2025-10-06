@@ -2471,7 +2471,7 @@
   "This action cannot be undone.": "Deze actie kan niet ongedaan worden gemaakt.",
   "Add recipient": "Ontvanger toevoegen",
   "Show less": "Minder weergeven",
-  "Show all {{value}}": "Toon alle {{value}}",
+  "Show all ({{value}})": "Toon alle ({{value}})",
   "Ticket details updated successfully": "Ticketdetails succesvol bijgewerkt",
   "Recipients": "Ontvangers",
   "Call-in number(s) added": "Inbelnummer(s) toegevoegd",

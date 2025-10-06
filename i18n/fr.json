@@ -2471,7 +2471,7 @@
   "This action cannot be undone.": "Cette action est irréversible.",
   "Add recipient": "Ajouter un destinataire",
   "Show less": "Afficher moins",
-  "Show all {{value}}": "Afficher tout {{value}}",
+  "Show all ({{value}})": "Afficher tout ({{value}})",
   "Ticket details updated successfully": "Détails du ticket mis à jour avec succès",
   "Recipients": "Destinataires",
   "Call-in number(s) added": "Numéro(s) d’appel ajouté(s)",
