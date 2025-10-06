@@ -2472,5 +2472,6 @@
   "Add recipient": "Ontvanger toevoegen",
   "Show less": "Minder weergeven",
   "Show all {{value}}": "Toon alle {{value}}",
-  "Ticket details updated successfully": "Ticketdetails succesvol bijgewerkt"
+  "Ticket details updated successfully": "Ticketdetails succesvol bijgewerkt",
+  "Recipients": "Ontvangers"
 }
