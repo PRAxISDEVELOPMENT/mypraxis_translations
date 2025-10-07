@@ -2480,5 +2480,6 @@
 	"Ticked ID": "Ticket ID",
 	"Navigate to archived ticket": "Navigeer naar gearchiveerd ticket",
 	"You are about to navigate to ticket: {{value}} - {{value2}}": "Je staat op het punt te navigeren naar ticket: {{value}} - {{value2}}",
-	"Call-in number deleted": "Inbelnummer verwijderd"
+	"Call-in number deleted": "Inbelnummer verwijderd",
+	"You are about to delete call-in number {{value}}.": "Je staat op het punt inbelnummer {{value}} te verwijderen."
 }

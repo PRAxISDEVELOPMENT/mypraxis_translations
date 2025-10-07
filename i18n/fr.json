@@ -2480,5 +2480,6 @@
 	"Ticked ID": "ID du ticket",
 	"Navigate to archived ticket": "Aller au ticket archivé",
 	"You are about to navigate to ticket: {{value}} - {{value2}}": "Vous êtes sur le point de naviguer vers le ticket : {{value}} - {{value2}}",
-	"Call-in number deleted": "Numéro d’appel supprimé"
+	"Call-in number deleted": "Numéro d’appel supprimé",
+	"You are about to delete call-in number {{value}}.": "Vous êtes sur le point de supprimer le numéro d’appel {{value}}."
 }
