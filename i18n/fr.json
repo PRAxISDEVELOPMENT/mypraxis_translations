@@ -1140,7 +1140,6 @@
   "Delete zone": "Supprimer la zone",
   "Not applicable": "Non applicable",
   "ERP installer": "L'ERP de l'installateur",
-  "Manage quotes": "Gérer les devis",
   "You are about to delete {{value}} zone(s).": "Vous êtes sur le point de supprimer {{value}} zone(s).",
   "{{value}} contact(s) deleted": "{{value}} contact(s) supprimé(s).",
   "{{value}} group(s) deleted": "{{value}} groupe(s) supprimé(s).",
@@ -2452,7 +2451,6 @@
   "Error loading tickets: {{message}}": "Erreur lors du chargement des tickets : {{message}}",
   "Total time": "Temps total",
   "Go to tickets": "Aller aux tickets",
-  "Reserved call-in numbers": "Numéros d’appel réservés",
   "Call-in numbers": "Numéros d’appel",
   "View call-in numbers": "Afficher les numéros d'appel",
   "Add or remove dial-in numbers.": "Ajouter ou supprimer des numéros d'appel",
@@ -2483,5 +2481,9 @@
   "Call-in number deleted": "Numéro d’appel supprimé",
   "You are about to delete call-in number {{value}}.": "Vous êtes sur le point de supprimer le numéro d’appel {{value}}.",
   "Maintenance installers can only be added or changed upon request via the head installer or via PRAxIS GROUP N.V.": "Les installateurs de maintenance ne peuvent être ajoutés ou modifiés que sur demande via l’installateur principal ou via PRAxIS GROUP N.V.",
-  "This information is only available to the main installer.": "Ces informations ne sont disponibles que pour l’installateur principal."
+  "This information is only available to the main installer.": "Ces informations ne sont disponibles que pour l’installateur principal.",
+  "Import or duplicate contacts": "Importer / dupliquer des contacts",
+  "Reserved call-in number at PRAxIS": "Numéro d'appel réservé chez PRAxIS",
+  "Reserved call-in numbers at PRAxIS": "Numéros d'appel réservés chez PRAxIS",
+  "Consult quotations": "Consulter les offres"
 }

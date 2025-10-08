@@ -678,7 +678,7 @@
   "PSTN": "PSTN",
   "IP / GPRS - DC-09 TCP (no encryption)": "IP / GPRS - DC-09 TCP (geen encryptie)",
   "IP / GPRS - DC-09 UDP (no encryption)": "IP / GPRS - DC-09 UDP (geen encryptie)",
-  "Different": "Anders",
+  "Different": "Andere",
   "Only via IP (Single Path, SP)": "Enkel via IP (Enkelvoudig Pad, SP)",
   "Only via GPRS (Single Path, SP)": "Enkel via GPRS (Enkelvoudig Pad, SP)",
   "Via IP and GPRS (Dual Path, DP)": "Via IP en GPRS (Dubbel Pad, DP)",
@@ -1140,7 +1140,6 @@
   "Delete zone": "Zone verwijderen",
   "Not applicable": "Niet van toepassing",
   "ERP installer": "ERP installateur",
-  "Manage quotes": "Offertes beheren",
   "You are about to delete {{value}} zone(s).": "U staat op het punt om {{value}} zone(s) te verwijderen.",
   "{{value}} contact(s) deleted": "{{value}} contact(en) verwijderd.",
   "{{value}} group(s) deleted": "{{value}} groep(en) verwijderd.",
@@ -1672,7 +1671,7 @@
   "Movable": "Verplaatsbaar",
   "You are about to register a new account using the following e-mail address: {{value}}": "U staat op het punt een nieuw account te registreren met het volgende e-mailadres: {{value}}",
   "As soon as the registration is completed, you will receive a verification email. After successful verification, the user will be added.": "Zodra de registratie is voltooid, ontvang je een verificatie-e-mail. Na succesvolle verificatie wordt de gebruiker toegevoegd.",
-  "Import contacts": "Contact(en) importeren",
+  "Import or duplicate contacts": "Contact(en) importeren / dupliceren",
   "Notifications sorted from old to new": "Meldingen gerangschikt van oud naar nieuw",
   "Notifications sorted from new to old": "Meldingen gerangschikt van nieuw naar oud",
   "With call commentary, operator commentary, and handling text": "Met belcommentaar, commentaar operator en afhandeltekst",
@@ -2452,7 +2451,6 @@
   "Error loading tickets: {{message}}": "Fout bij laden van tickets: {{message}}",
   "Total time": "Totale tijd",
   "Go to tickets": "Ga naar tickets",
-  "Reserved call-in numbers": "Gereserveerde inbelnummers",
   "Call-in numbers": "Inbelnummers",
   "View call-in numbers": "Inbelnummers weergeven",
   "Add or remove dial-in numbers.": "Inbelnummer toevoegen of verwijderen",
@@ -2483,5 +2481,8 @@
   "Call-in number deleted": "Inbelnummer verwijderd",
   "You are about to delete call-in number {{value}}.": "Je staat op het punt inbelnummer {{value}} te verwijderen.",
   "Maintenance installers can only be added or changed upon request via the head installer or via PRAxIS GROUP N.V.": "Onderhoudsinstallateurs kunnen alleen worden toegevoegd of gewijzigd op verzoek via de hoofdinstallateur of via PRAxIS GROUP N.V.",
-  "This information is only available to the main installer.": "Deze informatie is alleen beschikbaar voor de hoofdinstallateur."
+  "This information is only available to the main installer.": "Deze informatie is alleen beschikbaar voor de hoofdinstallateur.",
+  "Reserved call-in number at PRAxIS": "Gereserveerd inbelnummer bij PRAxIS",
+  "Reserved call-in numbers at PRAxIS": "Gereserveerde inbelnummers bij PRAxIS",
+  "Consult quotations": "Offertes raadplegen"
 }
