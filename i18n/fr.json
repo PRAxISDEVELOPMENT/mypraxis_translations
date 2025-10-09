@@ -1671,7 +1671,7 @@
   "Movable": "Déplaçable",
   "You are about to register a new account using the following e-mail address: {{value}}": "Vous êtes sur le point d'enregistrer un nouveau compte avec l'adresse e-mail suivante : {{value}}",
   "As soon as the registration is completed, you will receive a verification email. After successful verification, the user will be added.": "Dès que l'inscription est  terminée, vous recevez un e-mail de vérification. Après une vérification réussie, l'utilisateur sera ajouté.",
-  "Import contacts": "Importer des contact(s)",
+  "Import or duplicate contacts": "Importer / dupliquer des contacts",
   "Notifications sorted from old to new": "Notifications triées de vieille à la plus récentes",
   "Notifications sorted from new to old": "Notifications triées de la plus récente à la plus vieille",
   "With call commentary, operator commentary, and handling text": "Avec commentaire d'appel, commentaire de l'opérateur et texte concernant le traitement",
@@ -2482,7 +2482,6 @@
   "You are about to delete call-in number {{value}}.": "Vous êtes sur le point de supprimer le numéro d’appel {{value}}.",
   "Maintenance installers can only be added or changed upon request via the head installer or via PRAxIS GROUP N.V.": "Les installateurs de maintenance ne peuvent être ajoutés ou modifiés que sur demande via l’installateur principal ou via PRAxIS GROUP N.V.",
   "This information is only available to the main installer.": "Ces informations ne sont disponibles que pour l’installateur principal.",
-  "Import or duplicate contacts": "Importer / dupliquer des contacts",
   "Reserved call-in number at PRAxIS": "Numéro d'appel réservé chez PRAxIS",
   "Reserved call-in numbers at PRAxIS": "Numéros d'appel réservés chez PRAxIS",
   "Consult quotations": "Consulter les offres",
@@ -2490,5 +2489,10 @@
   "Show full range": "Afficher toute la plage",
   "Zoom to 90–100%": "Zoomer sur 90–100%",
   "You are about to delete a role template.": "Vous êtes sur le point de supprimer un modèle de rôle.",
-  "Copy callcenter number": "Copier le numéro de garde"
+  "Copy callcenter number": "Copier le numéro de garde",
+  "Newly created customer": "Client nouvellement créé",
+  "Enable/disable email to installer (when creating a new customer)": "Activer/désactiver l’e-mail vers l’installateur (lors de la création d’un nouveau client)",
+  "You are about to enable email to installer (when creating a new customer).": "Vous êtes sur le point d’activer l’e-mail vers l’installateur (lors de la création d’un nouveau client).",
+  "To disable the notification email to installer (when creating a new customer), please check the box below to confirm your consent.": "Pour désactiver l’e-mail de notification vers l’installateur (lors de la création d’un nouveau client), veuillez cocher la case ci-dessous pour confirmer votre consentement.",
+  "I hereby confirm that, until further notice, I agree to the deactivation of email notifications regarding creating a new customer.": "Je confirme par la présente qu’à partir de maintenant et jusqu’à nouvel ordre, j’accepte la désactivation des notifications par e-mail concernant la création d’un nouveau client."
 }

@@ -2489,5 +2489,10 @@
   "Show full range": "Volledig bereik tonen",
   "Zoom to 90–100%": "Inzoomen op 90–100%",
   "You are about to delete a role template.": "Je staat op het punt een roltemplate te verwijderen.",
-  "Copy callcenter number": "Wachtdienstnummer kopiëren"
+  "Copy callcenter number": "Wachtdienstnummer kopiëren",
+  "Newly created customer": "Nieuw aangemaakte klant",
+  "Enable/disable email to installer (when creating a new customer)": "E-mail naar installateur in- of uitschakelen (bij het aanmaken van een nieuwe klant)",
+  "You are about to enable email to installer (when creating a new customer).": "Je staat op het punt de e-mail naar de installateur in te schakelen (bij het aanmaken van een nieuwe klant).",
+  "To disable the notification email to installer (when creating a new customer), please check the box below to confirm your consent.": "Om de e-mailnotificatie naar de installateur uit te schakelen (bij het aanmaken van een nieuwe klant), vink het onderstaande vakje aan om uw toestemming te bevestigen.",
+  "I hereby confirm that, until further notice, I agree to the deactivation of email notifications regarding creating a new customer.": "Ik bevestig hierbij dat ik, tot nader order, akkoord ga met het uitschakelen van e-mailnotificaties met betrekking tot het aanmaken van een nieuwe klant."
 }
