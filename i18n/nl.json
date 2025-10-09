@@ -2494,5 +2494,6 @@
   "Enable/disable email to installer (when creating a new customer)": "E-mail naar installateur in- of uitschakelen (bij het aanmaken van een nieuwe klant)",
   "You are about to enable email to installer (when creating a new customer).": "Je staat op het punt de e-mail naar de installateur in te schakelen (bij het aanmaken van een nieuwe klant).",
   "To disable the notification email to installer (when creating a new customer), please check the box below to confirm your consent.": "Om de e-mailnotificatie naar de installateur uit te schakelen (bij het aanmaken van een nieuwe klant), vink het onderstaande vakje aan om uw toestemming te bevestigen.",
-  "I hereby confirm that, until further notice, I agree to the deactivation of email notifications regarding creating a new customer.": "Ik bevestig hierbij dat ik, tot nader order, akkoord ga met het uitschakelen van e-mailnotificaties met betrekking tot het aanmaken van een nieuwe klant."
+  "I hereby confirm that, until further notice, I agree to the deactivation of email notifications regarding creating a new customer.": "Ik bevestig hierbij dat ik, tot nader order, akkoord ga met het uitschakelen van e-mailnotificaties met betrekking tot het aanmaken van een nieuwe klant.",
+  "Cancelled delay is only selectable after specifying a recovery event": "Geannuleerde vertraging is pas selecteerbaar na het opgeven van een herstel event"
 }
