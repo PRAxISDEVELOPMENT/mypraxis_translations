@@ -2495,5 +2495,11 @@
   "You are about to enable email to installer (when creating a new customer).": "Vous êtes sur le point d’activer l’e-mail vers l’installateur (lors de la création d’un nouveau client).",
   "To disable the notification email to installer (when creating a new customer), please check the box below to confirm your consent.": "Pour désactiver l’e-mail de notification vers l’installateur (lors de la création d’un nouveau client), veuillez cocher la case ci-dessous pour confirmer votre consentement.",
   "I hereby confirm that, until further notice, I agree to the deactivation of email notifications regarding creating a new customer.": "Je confirme par la présente qu’à partir de maintenant et jusqu’à nouvel ordre, j’accepte la désactivation des notifications par e-mail concernant la création d’un nouveau client.",
-  "Cancelled delay is only selectable after specifying a recovery event": "Le retard annulé n’est sélectionnable qu’après avoir indiqué un événement de rétablissement"
+  "Cancelled delay is only selectable after specifying a recovery event": "Le retard annulé n’est sélectionnable qu’après avoir indiqué un événement de rétablissement",
+  "Termination requested on": "Résiliation demandée le",
+  "Termination effective on": "Résiliation effective le",
+  "Stop client immediately": "Arrêter le client immédiatement",
+  "The customer has been immediately deactivated": "Le client a été désactivé immédiatement",
+  "You are about to immediately terminate this customer, bypassing the standard 7-day deactivation delay.": "Vous êtes sur le point de résilier ce client immédiatement, en contournant le délai standard de désactivation de 7 jours.",
+  "The customer will be terminated on: {{value}}": "Le client sera résilié le : {{value}}"
 }
