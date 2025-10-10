@@ -1028,7 +1028,7 @@
   "Live autolog": "Autolog en direct",
   "Autolog updates have been paused. Please resume to receive new data": "Les mises à jour de l'autolog sont pausées. Veuillez reprendre pour recevoir des nouvelles données",
   "Client name: A - Z": "Nom du client: de A à Z",
-  "Client name: Z- A": "Nom du client: de A à Z",
+  "Client name: Z - A": "Nom du client: de A à Z",
   "Date: New - Old": "Date : Nouvelle - Ancienne",
   "Date: Old - New": "Date : Ancienne - Nouvelle",
   "Sort": "Trier",
@@ -2508,5 +2508,6 @@
   "Upon receipt, our administration (finance@praxis-group.eu) will handle your termination request and inform you of the further procedure.": "Après réception, notre service administratif (finance@praxis-group.eu) traitera votre demande de résiliation et vous informera de la suite de la procédure.",
   "Contractually, our mutual customer must terminate the contract by registered letter, three months before the end of the subscription.": "Contractuellement, notre client commun doit résilier le contrat par courrier recommandé, trois mois avant la fin de l'abonnement.",
   "Upon receipt, our administration (finance@praxis-group.eu) will handle the termination request and provide feedback to our mutual customer.": "Après réception, notre service administratif (finance@praxis-group.eu) traitera la demande de résiliation et informera notre client commun de la suite de la procédure.",
-  "Contractually, we can only terminate your alarm connection at the express request of your installer.": "Contractuellement, nous ne pouvons résilier votre connexion au centre de télésurveillance qu'à la demande expresse de votre installateur."
+  "Contractually, we can only terminate your alarm connection at the express request of your installer.": "Contractuellement, nous ne pouvons résilier votre connexion au centre de télésurveillance qu'à la demande expresse de votre installateur.",
+  "Recently contacted clients first": "Clients récemment contactés en premier"
 }
