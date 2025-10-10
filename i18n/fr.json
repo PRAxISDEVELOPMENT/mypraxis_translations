@@ -2501,5 +2501,9 @@
   "Stop client immediately": "Arrêter le client immédiatement",
   "The customer has been immediately deactivated": "Le client a été désactivé immédiatement",
   "You are about to immediately terminate this customer, bypassing the standard 7-day deactivation delay.": "Vous êtes sur le point de résilier ce client immédiatement, en contournant le délai standard de désactivation de 7 jours.",
-  "The customer will be terminated on: {{value}}": "Le client sera résilié le : {{value}}"
+  "The customer will be terminated on: {{value}}": "Le client sera résilié le : {{value}}",
+  "We confirm the receipt of your message.": "Nous confirmons la bonne réception de votre message.",
+  "Contractually, you must terminate your contract by registered letter, three months before the end of your subscription.": "Contractuellement, vous devez résilier votre contrat par courrier recommandé, trois mois avant la fin de votre abonnement.",
+  "This must be addressed to": "Ceci doit être adressé à",
+  "Upon receipt, our administration (finance@praxis-group.eu) will handle your termination request and inform you of the further procedure.": "Après réception, notre service administratif (finance@praxis-group.eu) traitera votre demande de résiliation et vous informera de la suite de la procédure."
 }

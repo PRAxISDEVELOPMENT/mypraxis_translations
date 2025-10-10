@@ -2501,5 +2501,9 @@
   "Stop client immediately": "Klant onmiddellijk stopzetten",
   "The customer has been immediately deactivated": "De klant werd onmiddellijk stopgezet",
   "You are about to immediately terminate this customer, bypassing the standard 7-day deactivation delay.": "Je staat op het punt deze klant onmiddellijk stop te zetten, waarbij de standaard wachttijd van 7 dagen wordt overgeslagen.",
-  "The customer will be terminated on: {{value}}": "De klant zal worden stopgezet op: {{value}}"
+  "The customer will be terminated on: {{value}}": "De klant zal worden stopgezet op: {{value}}",
+  "We confirm the receipt of your message.": "We bevestigen de goede ontvangst van uw bericht.",
+  "Contractually, you must terminate your contract by registered letter, three months before the end of your subscription.": "Contractueel moet u uw contract per aangetekend schrijven opzeggen, 3 maanden voor het einde van uw abonnement.",
+  "This must be addressed to": "Deze moet gericht worden aan",
+  "Upon receipt, our administration (finance@praxis-group.eu) will handle your termination request and inform you of the further procedure.": "Na ontvangst zal onze administratie (finance@praxis-group.eu) uw aanvraag tot stopzetting behartigen en u het verdere verloop terugkoppelen."
 }
