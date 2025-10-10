@@ -2511,5 +2511,8 @@
   "Contractually, we can only terminate your alarm connection at the express request of your installer.": "Contractueel kunnen wij uw meldkameraansluiting enkel stopzetten op uitdrukkelijk verzoek van uw installateur.",
   "Recently contacted clients first": "Recent gecontacteerde klanten eerst",
   "First free client numbers per group": "Eerstvolgende vrije klantnummers per groep",
-  "{{value}} digits": "{{value}}-cijferig"
+  "{{value}} digits": "{{value}}-cijferig",
+  "You are about to delete user: {{value}}.": "U staat op het punt gebruiker te verwijderen: {{value}}.",
+  "End clients": "Eindklant",
+  "Technicians": "Techniekers"
 }

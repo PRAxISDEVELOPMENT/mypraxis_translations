@@ -2511,5 +2511,8 @@
   "Contractually, we can only terminate your alarm connection at the express request of your installer.": "Contractuellement, nous ne pouvons résilier votre connexion au centre de télésurveillance qu'à la demande expresse de votre installateur.",
   "Recently contacted clients first": "Clients récemment contactés en premier",
   "First free client numbers per group": "Premiers numéros clients disponibles par groupe",
-  "{{value}} digits": "{{value}} chiffres"
+  "{{value}} digits": "{{value}} chiffres",
+  "You are about to delete user: {{value}}.": "Vous êtes sur le point de supprimer l'utilisateur : {{value}}.",
+  "End clients": "Clients finaux",
+  "Technicians": "Techniciens"
 }
