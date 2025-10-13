@@ -2517,5 +2517,6 @@
   "Technicians": "Techniciens",
   "Emergency service": "Service d'urgence",
   "Customers with emergency alerts in the last 72h": "Clients avec alertes d'urgence dans les dernières 72h",
-  "Settings callcenter": "Paramètres du service de permanence"
+  "Settings callcenter": "Paramètres du service de permanence",
+  "Based on which instructions were the zone properties adjusted?": "Sur la base de quelles instructions les propriétés de la zone ont-elles été ajustées ?"
 }
