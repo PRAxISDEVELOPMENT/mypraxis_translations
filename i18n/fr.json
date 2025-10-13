@@ -2515,6 +2515,6 @@
 	"You are about to delete user: {{value}}.": "Vous êtes sur le point de supprimer l'utilisateur : {{value}}.",
 	"End clients": "Clients finaux",
 	"Technicians": "Techniciens",
-	"Called contact name": "Nom du contact appelé",
+	"emergency service": "Service d'urgence",
 	"Customers with emergency alerts in the last 72h": "Clients avec alertes d'urgence dans les dernières 72h"
 }
