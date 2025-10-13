@@ -2518,5 +2518,6 @@
   "Emergency service": "Service d'urgence",
   "Customers with emergency alerts in the last 72h": "Clients avec alertes d'urgence dans les dernières 72h",
   "Settings callcenter": "Paramètres du service de permanence",
-  "Customers with critical alerts in the past 24h": "Clients avec alertes critiques dans les dernières 24h"
+  "Customers with critical alerts in the past 24h": "Clients avec alertes critiques dans les dernières 24h",
+  "Based on which instructions were the zone properties adjusted?": "Sur la base de quelles instructions les propriétés de la zone ont-elles été ajustées ?"
 }
