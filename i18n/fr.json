@@ -2521,5 +2521,7 @@
   "Customers with critical alerts in the past 24h": "Clients avec alertes critiques dans les dernières 24h",
   "Based on which instructions were the zone properties adjusted?": "Sur la base de quelles instructions les propriétés de la zone ont-elles été ajustées ?",
   "Automatically assign client number(s)": "Attribuer automatiquement le(s) numéro(s) client via l’application",
-  "Manually enter client number(s)": "Saisir manuellement le(s) numéro(s) client"
+  "Manually enter client number(s)": "Saisir manuellement le(s) numéro(s) client",
+  "Customer contacts": "Contacts client",
+  "Technicians / installer(s)": "Techniciens / installateur(s)"
 }
