@@ -2519,5 +2519,7 @@
   "Customers with emergency alerts in the last 72h": "Klanten waarbij hulpdiensten verwittigd werden de voorbije 72u",
   "Settings callcenter": "Instellingen wachtdienst",
   "Customers with critical alerts in the past 24h": "Klanten met kritieke meldingen in de afgelopen 24u",
-  "Based on which instructions were the zone properties adjusted?": "Op basis van welke instructies werden de zone eigenschappen aangepast?"
+  "Based on which instructions were the zone properties adjusted?": "Op basis van welke instructies werden de zone eigenschappen aangepast?",
+  "Automatically assign client number(s)": "Klantnummer(s) automatisch laten toekennen door applicatie",
+  "Manually enter client number(s)": "Klantnummer(s) handmatig ingeven"
 }
