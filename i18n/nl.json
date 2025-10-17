@@ -2523,5 +2523,12 @@
   "Automatically assign client number(s)": "Klantnummer(s) automatisch laten toekennen door applicatie",
   "Manually enter client number(s)": "Klantnummer(s) handmatig ingeven",
   "Customer contacts": "Contacten klant",
-  "Technicians installer(s)": "Techniekers installateur(s)"
+  "Technicians installer(s)": "Techniekers installateur(s)",
+  "Data to copy": "Gegevens om te kopiëren",
+  "Include contacts": "Contacten meenemen",
+  "Include zones": "Zones meenemen",
+  "Include invoice details": "Factuurgegevens meenemen",
+  "New client {{newValue}} was successfully copied from {{oldValue}}": "Nieuwe klant {{newValue}} werd succesvol gekopieerd van {{oldValue}}",
+  "Copy data from": "Gegevens kopiëren van",
+  "Will be copied from client": "Wordt gekopieerd van klant"
 }

@@ -2523,5 +2523,12 @@
   "Automatically assign client number(s)": "Attribuer automatiquement le(s) numéro(s) client via l’application",
   "Manually enter client number(s)": "Saisir manuellement le(s) numéro(s) client",
   "Customer contacts": "Contacts client",
-  "Technicians installer(s)": "Techniciens installateur(s)"
+  "Technicians installer(s)": "Techniciens installateur(s)",
+  "Data to copy": "Données à copier",
+  "Include contacts": "Inclure les contacts",
+  "Include zones": "Inclure les zones",
+  "Include invoice details": "Inclure les détails de facture",
+  "New client {{newValue}} was successfully copied from {{oldValue}}": "Le nouveau client {{newValue}} a été copié avec succès depuis {{oldValue}}",
+  "Copy data from": "Copier les données de",
+  "Will be copied from client": "Sera copié depuis le client"
 }
