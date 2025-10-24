@@ -2533,5 +2533,6 @@
 	"Will be copied from client": "Wordt gekopieerd van klant",
 	"Finance": "Financiën",
 	"Services": "Diensten",
-	"Pricelist ordering": "Prijslijst volgorde"
+	"Pricelist ordering": "Prijslijst volgorde",
+	"Unit type": "Eenheidstype"
 }

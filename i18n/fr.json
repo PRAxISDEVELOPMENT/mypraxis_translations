@@ -2533,5 +2533,6 @@
 	"Will be copied from client": "Sera copié depuis le client",
 	"Finance": "Finance",
 	"services": "services",
-	"Pricelist ordering": "Commande de la liste de prix"
+	"Pricelist ordering": "Commande de la liste de prix",
+	"Unit type": "Type d'unité"
 }
