@@ -2538,5 +2538,7 @@
 	"Must consist of exactly 3 digits": "Doit se composer de exactement 3 chiffres",
 	"Service added": "Service ajouté",
 	"Delete service": "Supprimer le service",
-	"Change service": "Modifier le service"
+	"Change service": "Modifier le service",
+	"{{value}} service(s) deleted": "{{value}} service(s) supprimé(s)",
+	"You are about to delete {{value}} service(s).": "Vous êtes sur le point de supprimer {{value}} service(s)."
 }
