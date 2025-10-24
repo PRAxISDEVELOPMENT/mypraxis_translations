@@ -2535,5 +2535,6 @@
 	"services": "services",
 	"Pricelist order": "Commande de la liste de prix",
 	"Unit type": "Type d'unité",
-	"Must consist of exactly 3 digits": "Doit se composer de exactement 3 chiffres"
+	"Must consist of exactly 3 digits": "Doit se composer de exactement 3 chiffres",
+	"Service added": "Service ajouté"
 }
