@@ -2537,6 +2537,6 @@
 	"Unit type": "Type d'unité",
 	"Must consist of exactly 3 digits": "Doit se composer de exactement 3 chiffres",
 	"Service added": "Service ajouté",
-	"Add service": "Ajouter un service",
+	"Delete service": "Supprimer le service",
 	"Change service": "Modifier le service"
 }

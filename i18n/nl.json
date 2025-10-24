@@ -2537,6 +2537,6 @@
 	"Unit type": "Eenheidstype",
 	"Must consist of exactly 3 digits": "Moet exact uit 3 cijfers bestaan",
 	"Service added": "Dienst toegevoegd",
-	"Add service": "Dienst toevoegen",
+	"Delete service": "Dienst verwijderen",
 	"Change service": "Dienst wijzigen"
 }
