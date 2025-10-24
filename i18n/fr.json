@@ -2540,5 +2540,6 @@
 	"Delete service": "Supprimer le service",
 	"Change service": "Modifier le service",
 	"{{value}} service(s) deleted": "{{value}} service(s) supprimé(s)",
-	"You are about to delete {{value}} service(s).": "Vous êtes sur le point de supprimer {{value}} service(s)."
+	"You are about to delete {{value}} service(s).": "Vous êtes sur le point de supprimer {{value}} service(s).",
+	"Service changed": "Service modifié"
 }
