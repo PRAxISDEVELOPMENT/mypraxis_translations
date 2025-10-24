@@ -2534,5 +2534,6 @@
 	"Finance": "Financiën",
 	"Services": "Diensten",
 	"Pricelist order": "Prijslijst volgorde",
-	"Unit type": "Eenheidstype"
+	"Unit type": "Eenheidstype",
+	"Only digits are allowed": "Alleen cijfers zijn toegelaten"
 }

@@ -2534,5 +2534,6 @@
 	"Finance": "Finance",
 	"services": "services",
 	"Pricelist order": "Commande de la liste de prix",
-	"Unit type": "Type d'unité"
+	"Unit type": "Type d'unité",
+	"Only digits are allowed": "Seuls les chiffres sont autorisés"
 }
