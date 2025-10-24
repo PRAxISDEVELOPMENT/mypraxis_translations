@@ -2531,5 +2531,5 @@
 	"New client {{newValue}} was successfully copied from {{oldValue}}": "Le nouveau client {{newValue}} a été copié avec succès depuis {{oldValue}}",
 	"Copy data from": "Copier les données de",
 	"Will be copied from client": "Sera copié depuis le client",
-	"Financial": "Financier"
+	"Finance": "Finance"
 }
