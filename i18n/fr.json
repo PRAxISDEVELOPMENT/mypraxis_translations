@@ -2544,5 +2544,7 @@
   "Service changed": "Service modifié",
   "At this client’s site, it was found that the alarm transmission uses the SIA Level 3 protocol, in which signals automatically include the zone description.": "Chez ce client, il a été constaté que la transmission d’alarme utilise le protocole SIA Level 3, dans lequel les signaux transmettent automatiquement la description de zone.",
   "It remains possible to manually add or modify zone descriptions.": "Il reste possible d’ajouter ou de modifier manuellement les descriptions de zones.",
-  "A difference between the automatically transmitted zone description and the manually entered label may result in incorrect information being communicated to the client.": "Une différence entre la description de zone transmise automatiquement et la désignation saisie manuellement peut entraîner la communication d’informations erronées au client."
+  "A difference between the automatically transmitted zone description and the manually entered label may result in incorrect information being communicated to the client.": "Une différence entre la description de zone transmise automatiquement et la désignation saisie manuellement peut entraîner la communication d’informations erronées au client.",
+  "Maintenance installer": "Installateur de maintenance",
+  "Head installer": "Installateur principal"
 }
