@@ -2551,6 +2551,6 @@
 	"Index": "Indice",
 	"Delete index": "Supprimer l'indice",
 	"Change index": "Modifier l'indice",
-	"{{value}} index(es) deleted": "{{value}} indice(s) supprimé(s)",
-	"You are about to delete {{value}} index(es).": "Vous êtes sur le point de supprimer {{value}} indice(s)."
+	"Index deleted": "Indice supprimé",
+	"You are about to delete an index.": "Vous êtes sur le point de supprimer un indice."
 }
