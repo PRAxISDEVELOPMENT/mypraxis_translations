@@ -2550,5 +2550,6 @@
 	"Index added": "Index toegevoegd",
 	"Index": "Index",
 	"Delete index": "Index verwijderen",
-	"Change index": "Index wijzigen"
+	"Change index": "Index wijzigen",
+	"{{value}} index(es) deleted": "{{value}} index(en) verwijderd"
 }
