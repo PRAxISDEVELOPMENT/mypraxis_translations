@@ -2547,5 +2547,6 @@
 	"A difference between the automatically transmitted zone description and the manually entered label may result in incorrect information being communicated to the client.": "Een verschil tussen de automatisch meegestuurde zoneomschrijving en de manueel ingevoerde benaming kan ertoe leiden dat foutieve informatie aan de klant wordt meegegeven.",
 	"Maintenance installer": "Onderhoudsinstallateur",
 	"Head installer": "Hoofdinstallateur",
-	"Index added": "Index toegevoegd"
+	"Index added": "Index toegevoegd",
+	"index": "Index"
 }

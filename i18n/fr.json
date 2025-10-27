@@ -2547,5 +2547,6 @@
 	"A difference between the automatically transmitted zone description and the manually entered label may result in incorrect information being communicated to the client.": "Une différence entre la description de zone transmise automatiquement et la désignation saisie manuellement peut entraîner la communication d’informations erronées au client.",
 	"Maintenance installer": "Installateur de maintenance",
 	"Head installer": "Installateur principal",
-	"Index added": "Index ajouté"
+	"Index added": "Index ajouté",
+	"index": "Indice"
 }
