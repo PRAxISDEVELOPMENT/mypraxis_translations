@@ -2548,5 +2548,7 @@
 	"Maintenance installer": "Onderhoudsinstallateur",
 	"Head installer": "Hoofdinstallateur",
 	"Index added": "Index toegevoegd",
-	"index": "Index"
+	"index": "Index",
+	"Delete index": "Index verwijderen",
+	"Change index": "Index wijzigen"
 }
