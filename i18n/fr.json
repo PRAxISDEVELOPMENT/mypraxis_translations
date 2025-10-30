@@ -2558,5 +2558,6 @@
 	"At this client’s site, it was detected that the alarm transmission uses the SIA Level 3 protocol, in which the system automatically includes the zone description with the alarm messages.": "Chez ce client, il a été détecté que la transmission d’alarme utilise le protocole SIA Level 3, dans lequel le système transmet automatiquement la description de zone avec les messages d’alarme.",
 	"It remains possible, however, to manually add or modify zone descriptions.": "Il reste néanmoins possible d’ajouter ou de modifier manuellement les descriptions de zones.",
 	"Please note that the zone description transmitted via SIA Level 3 always takes priority over the manually entered description and will be communicated as such during alarm handling.": "À noter que la description de zone transmise via SIA Level 3 a toujours priorité sur la description saisie manuellement et sera communiquée comme telle lors du traitement des alarmes.",
-	"Start date & time cannot be older than 3 months": "La date et l'heure de début ne peuvent pas être antérieures à 3 mois"
+	"Start date & time cannot be older than 3 months": "La date et l'heure de début ne peuvent pas être antérieures à 3 mois",
+	"The billing method can only be modified by the administration": "La méthode de facturation ne peut être modifiée que par l’administration"
 }
