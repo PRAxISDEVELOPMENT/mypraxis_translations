@@ -2575,5 +2575,6 @@
 	"Invoice start delay": "Uitgestelde start facturatie",
 	"Invoice delay start date changed": "Startdatum van uitgestelde facturatie gewijzigd",
 	"Delayed invoicing start date": "Startdatum van uitgestelde facturatie",
-	"Change Invoice start date": "Wijzig startdatum van facturatie"
+	"Change Invoice start date": "Wijzig startdatum van facturatie",
+	"Delete Invoice start date": "Verwijder startdatum van facturatie"
 }
