@@ -2579,5 +2579,8 @@
 	"Delete delayed invoice start date": "Verwijder startdatum van uitgestelde facturatie",
 	"You are about to delete a delayed invoicing date.": "Je staat op het punt een uitgestelde facturatiedatum te verwijderen.",
 	"Delayed invoicing date deleted": "De uitgestelde facturatiedatum is verwijderd",
-	"Start date": "Startdatum"
+	"Start date": "Startdatum",
+	"Replace original client": "Vervang originele klant",
+	"Include comments": "Commentaar meenemen",
+	"Include vehicles": "Voertuigen meenemen"
 }

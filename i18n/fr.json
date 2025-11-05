@@ -2579,5 +2579,8 @@
 	"Delete delayed invoice start date": "Supprimer la date de début de facturation différée",
 	"You are about to delete a delayed invoicing date.": "Vous êtes sur le point de supprimer une date de facturation différée.",
 	"Delayed invoicing date deleted": "La date de facturation différée a été supprimée",
-	"Start date": "Date de début"
+	"Start date": "Date de début",
+	"Replace original client": "Remplacer le client d’origine",
+	"Include comments": "Inclure le commentaire",
+	"Include vehicles": "Inclure les véhicules"
 }
