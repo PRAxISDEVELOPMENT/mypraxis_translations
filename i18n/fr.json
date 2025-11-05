@@ -2576,5 +2576,6 @@
 	"Invoice delay start date changed": "Date de début de facturation différée modifiée",
 	"Delayed invoicing start date": "Début facturation différée",
 	"Change delayed invoice start date": "Modifier la date de début de facturation différée",
-	"Delete delayed invoice start date": "Supprimer la date de début de facturation différée"
+	"Delete delayed invoice start date": "Supprimer la date de début de facturation différée",
+	"You are about to delete a delayed invoicing date": "Vous êtes sur le point de supprimer une date de facturation différée."
 }
