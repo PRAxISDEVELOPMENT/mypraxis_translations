@@ -2574,5 +2574,6 @@
 	"Activation date/time": "Date/heure d’activation",
 	"Invoice start delay": "Report du début de facturation",
 	"Invoice delay start date changed": "Date de début de facturation différée modifiée",
-	"Delayed invoicing start date": "Début facturation différée"
+	"Delayed invoicing start date": "Début facturation différée",
+	"Change Invoice start date": "Modifier la date de début de facturation"
 }
