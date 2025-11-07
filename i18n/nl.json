@@ -1175,7 +1175,7 @@
 	"You are about to disable default video verification.": "U staat op het punt om standaard videoverificatie uit te schakelen.",
 	"You are about to enable default video verification.": "U staat op het punt om standaard videoverificatie in te schakelen.",
 	"Extra handling": "Extra afhandelingen",
-	"Enable/disable e-mail to end client notifications (for extra handling)": "Schakel e-mail naar eindklant in/uit (voor de extra alarmafhandelingen)",
+	"Enable/disable e-mail to new customers for additional handling": "E-mail voor de extra afhandelingen naar nieuwe klanten in-/uitschakelen",
 	"Enable/disable e-mail to installer notifications (for extra handling)": "Schakel e-mail naar installateur in/uit (voor de extra alarmafhandelingen)",
 	"E-mail to end client": "E-mail naar eindklant",
 	"E-mail to installer": "E-mail naar installateur",

@@ -1175,7 +1175,7 @@
 	"You are about to disable default video verification.": "Vous êtes sur le point de désactiver la vérification vidéo par défaut.",
 	"You are about to enable default video verification.": "Vous êtes sur le point d'activer la vérification vidéo par défaut.",
 	"Extra handling": "Traitements supplémentaires",
-	"Enable/disable e-mail to end client notifications (for extra handling)": "Activer/désactiver les notifications par e-mail au client final (pour les traitements d'alarme supplémentaires)",
+	"Enable/disable e-mail to new customers for additional handling": "Activer/désactiver l'e-mail vers les nouveaux clients pour le traitement supplémentaire",
 	"Enable/disable e-mail to installer notifications (for extra handling)": "Activer/désactiver les notifications par e-mail à l'installateur (pour les traitements d'alarme supplémentaires)",
 	"E-mail to end client": "E-mail au client final",
 	"E-mail to installer": "E-mail à l'installateur",
