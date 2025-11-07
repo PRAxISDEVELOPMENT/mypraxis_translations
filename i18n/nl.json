@@ -2593,5 +2593,7 @@
 	"Linked customer added": "Gelinkte klant toegevoegd",
 	"Type linked customer": "Type gelinkte klant",
 	"Unlink all customers": "Alle klanten ontkoppelen",
-	"Financial": "Financieel"
+	"Financial": "Financieel",
+	"Automated e-mails to installer": "Geautomatiseerde e-mails naar installateur",
+	"Automated e-mails to clients": "Geautomatiseerde e-mails naar klanten"
 }
