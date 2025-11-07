@@ -1246,7 +1246,7 @@
 	"To disable the notification e-mail containing vademecum information sent to new customers, please check the box below to confirm your consent.": "Om de notificatie-e-mail met vademecum-informatie uit te schakelen voor nieuwe klanten, vink het onderstaande vakje aan ter bevestiging.",
 	"Disable vademecum for new customers": "Verzenden Vademecum-e-mail uitschakelen voor nieuwe klanten",
 	"Enable vademecum for new customers": "Verzenden Vademecum-e-mail inschakelen voor nieuwe klanten",
-	"Enable/disable e-mail to new clients (vademecum)": "Vademecum-e-mail naar nieuwe klanten in-/uitschakelen.",
+	"Enable/disable e-mail to new customers for the Vademecum": "E-mail voor het Vademecum naar nieuwe klanten in-/uitschakelen",
 	"Vademecum": "Vademecum",
 	"E-mail to new customers": "E-mail naar nieuwe klanten",
 	"Existing customers": "Bestaande klanten",
@@ -2595,5 +2595,6 @@
 	"Unlink all customers": "Alle klanten ontkoppelen",
 	"Financial": "Financieel",
 	"Automated e-mails to installer": "Geautomatiseerde e-mails naar installateur",
-	"Automated e-mails to clients": "Geautomatiseerde e-mails naar klanten"
+	"Automated e-mails to clients": "Geautomatiseerde e-mails naar klanten",
+	"Enable/disable e-mail to installer for additional handling (services 560, 632 and 633)": "E-mail voor de extra afhandelingen (diensten 560, 632 en 633) naar installateur in-/uitschakelen"
 }
