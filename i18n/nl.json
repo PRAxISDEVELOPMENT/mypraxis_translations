@@ -1256,7 +1256,7 @@
 	"An active call is already in progress. Please end the current call before starting a new one.": "Er is al een oproep actief. Beëindig de huidige oproep vooraleer u een nieuwe start.",
 	"Call number": "Oproepnummer",
 	"Send e-mail with 'no results' notifications": "Verstuur e-mail indien 'geen resultaten' meldingen",
-	"Enable/disable to automatically save the report in MyPRAxIS": "Rapport automatisch opslaan in MyPRAxIS in-/uitschakelen",
+	"Enable/disable automatic saving of the report in MyPRAxIS Documents": "Rapport automatisch opslaan in MyPRAxIS Documenten in-/uitschakelen",
 	"Enable/disable to send daily e-mail when there are no results": "Het niet versturen van de dagelijkse e-mail wanneer er geen resultaten zijn, in- of uitschakelen.",
 	"Save report in MyPRAxIS": "Rapport opslaan in MyPRAxIS",
 	"Daily e-mail": "Dagelijkse e-mail",
