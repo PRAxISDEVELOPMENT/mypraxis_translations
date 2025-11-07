@@ -2592,5 +2592,6 @@
 	"Create linked customer": "Créer un client lié",
 	"Linked customer added": "Client lié ajouté",
 	"Type linked customer": "Type de client lié",
-	"Unlink all customers": "Dissocier tous les clients"
+	"Unlink all customers": "Dissocier tous les clients",
+	"Financial": "Financier"
 }
