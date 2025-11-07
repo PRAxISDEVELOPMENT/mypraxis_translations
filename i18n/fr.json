@@ -2596,5 +2596,6 @@
 	"Financial": "Financier",
 	"Automated e-mails to installer": "E-mails automatisés vers l’installateur",
 	"Automated e-mails to clients": "E-mails automatisés vers les clients",
-	"Enable/disable e-mail to installer for additional handling (services 560, 632 and 633)": "Activer/désactiver l’e-mail vers l’installateur pour le traitement supplémentaire (services 560, 632 et 633)"
+	"Enable/disable e-mail to installer for additional handling (services 560, 632 and 633)": "Activer/désactiver l’e-mail vers l’installateur pour le traitement supplémentaire (services 560, 632 et 633)",
+	"Contact does not use a code under duress.": "Le contact n'utilise pas de code sous contrainte."
 }

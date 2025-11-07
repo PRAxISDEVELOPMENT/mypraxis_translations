@@ -2596,5 +2596,6 @@
 	"Financial": "Financieel",
 	"Automated e-mails to installer": "Geautomatiseerde e-mails naar installateur",
 	"Automated e-mails to clients": "Geautomatiseerde e-mails naar klanten",
-	"Enable/disable e-mail to installer for additional handling (services 560, 632 and 633)": "E-mail voor de extra afhandelingen (diensten 560, 632 en 633) naar installateur in-/uitschakelen"
+	"Enable/disable e-mail to installer for additional handling (services 560, 632 and 633)": "E-mail voor de extra afhandelingen (diensten 560, 632 en 633) naar installateur in-/uitschakelen",
+	"Contact does not use a code under duress.": "Contact gebruikt geen code onder dwang."
 }
