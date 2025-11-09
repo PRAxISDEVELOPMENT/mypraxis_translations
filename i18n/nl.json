@@ -2599,6 +2599,6 @@
   "Enable/disable e-mail to installer for additional handling (services 560, 632 and 633)": "E-mail voor de extra afhandelingen (diensten 560, 632 en 633) naar installateur in-/uitschakelen",
   "Contact does not use a code under duress": "Contact gebruikt geen code onder dwang",
   "This feature is currently under construction": "Deze functie is momenteel in ontwikkeling",
-  "We are improving this feature. For now, it is only available through our web application.": "Deze functie is nog in ontwikkeling. Voorlopig is ze enkel beschikbaar via onze webapplicatie.",
+  "This feature is still in development. For now, it is only available through our web application.": "Deze functie is nog in ontwikkeling. Voorlopig is ze enkel beschikbaar via onze webapplicatie.",
   "Manage subscriptions, invoices, price lists, and quotations easily from a single overview.": "Beheer abonnementen, facturen, prijslijsten en offertes eenvoudig vanuit één overzicht."
 }
