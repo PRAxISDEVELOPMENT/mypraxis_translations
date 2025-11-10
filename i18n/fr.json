@@ -2600,5 +2600,10 @@
   "Contact does not use a code under duress": "Le contact n'utilise pas de code sous contrainte",
   "This feature is currently in development.": "Cette fonctionnalité est actuellement en développement.",
   "This feature is still in development. For now, it is only available through our web application.": "Cette fonctionnalité est encore en développement. Pour l’instant, elle est uniquement disponible via notre application web.",
-  "Manage subscriptions, invoices, price lists, and quotations easily from a single overview.": "Gérez facilement les abonnements, les factures, les listes de prix et les devis depuis une seule vue d’ensemble."
+  "Manage subscriptions, invoices, price lists, and quotations easily from a single overview.": "Gérez les abonnements, les factures, les listes de prix et les devis facilement depuis un aperçu unique.",
+  "Manage your organization, users, new client registrations, and existing customer accounts.": "Gérez votre organisation, vos utilisateurs, les nouvelles inscriptions de clients et les comptes clients existants.",
+  "Operations": "Opérations",
+  "Your account does not have the necessary access rights": "Votre compte ne dispose pas des droits d’accès nécessaires",
+  "Please contact PRAxIS GROUP N.V. or your system administrator for more information.": "Veuillez contacter PRAxIS GROUP N.V. ou votre administrateur système pour plus d’informations.",
+  "Manage your organization, users, actions, groups, and calendar.": "Gérez votre organisation, vos utilisateurs, vos actions, vos groupes et votre calendrier."
 }
