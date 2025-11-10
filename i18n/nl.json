@@ -2600,5 +2600,10 @@
   "Contact does not use a code under duress": "Contact gebruikt geen code onder dwang",
   "This feature is currently under construction": "Deze functie is momenteel in ontwikkeling",
   "This feature is still in development. For now, it is only available through our web application.": "Deze functie is nog in ontwikkeling. Voorlopig is ze enkel beschikbaar via onze webapplicatie.",
-  "Manage subscriptions, invoices, price lists, and quotations easily from a single overview.": "Beheer abonnementen, facturen, prijslijsten en offertes eenvoudig vanuit één overzicht."
+  "Manage subscriptions, invoices, price lists, and quotations easily from a single overview.": "Beheer abonnementen, facturen, prijslijsten en offertes eenvoudig vanuit één overzicht.",
+  "Manage your organization, users, new client registrations, and existing customer accounts.": "Beheer uw organisatie, gebruikers, nieuwe klanten en bestaande klantaccounts.",
+  "Operations": "Operaties",
+  "Your account does not have the necessary access rights": "Uw account heeft niet de vereiste toegangsrechten",
+  "Please contact PRAxIS GROUP N.V. or your system administrator for more information.": "Neem contact op met PRAxIS GROUP N.V. of uw systeembeheerder voor meer informatie.",
+  "Manage your organization, users, actions, groups, and calendar.": "Beheer uw organisatie, gebruikers, acties, groepen en kalender."
 }
