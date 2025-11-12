@@ -2621,5 +2621,12 @@
   "Create and manage groups, and upload CSV files to define group configurations.": "Créer et gérer des groupes, et importer des fichiers CSV pour définir les configurations des groupes.",
   "View and manage on-call technicians and configure scheduling exceptions.": "Afficher et gérer les techniciens de garde et configurer les exceptions de planification.",
   "View and manage pending actions that require attention.": "Afficher et gérer les actions en attente nécessitant une attention particulière.",
-  "View an overview of all actions carried out by PRAxIS GROUP N.V.": "Afficher un aperçu de toutes les actions effectuées par PRAxIS GROUP N.V."
+  "View an overview of all actions carried out by PRAxIS GROUP N.V.": "Afficher un aperçu de toutes les actions effectuées par PRAxIS GROUP N.V.",
+  "View and track completions for each customer.": "Afficher et suivre les finalisations pour chaque client.",
+  "Monitor the live autolog activity across all clients.": "Surveiller l’activité autolog en direct de tous les clients.",
+  "Acess additional tools including user settings, reports, news, documents, user management, and API documentation.": "Accédez à des outils supplémentaires, notamment les paramètres utilisateur, les rapports, les actualités, les documents, la gestion des utilisateurs et la documentation de l’API.",
+  "User & Account": "Utilisateur et compte",
+  "Information & Documents": "Informations et documents",
+  "Support & Tools": "Support et outils",
+  "Web application": "Application web"
 }
