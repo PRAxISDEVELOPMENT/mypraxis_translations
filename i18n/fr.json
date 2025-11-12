@@ -2615,5 +2615,11 @@
   "Generate new and review existing ones for virtual surveillance quotations.": "Générez de nouveaux devis et consultez les devis existants pour la surveillance virtuelle.",
   "Generate new and review existing ones for telemonitoring quotations.": "Générez de nouveaux devis et consultez les devis existants pour la télésurveillance.",
   "View and download detailed price lists for all available services.": "Consultez et téléchargez les listes de prix détaillées pour tous les services disponibles.",
-  "View and download all invoices, including overdue, unpaid, paid, and credit notes.": "Consultez et téléchargez toutes les factures, y compris les factures en retard, impayées, payées et les notes de crédit."
+  "View and download all invoices, including overdue, unpaid, paid, and credit notes.": "Consultez et téléchargez toutes les factures, y compris les factures en retard, impayées, payées et les notes de crédit.",
+  "View and manage general organization details, financial information, and preferences.": "Afficher et gérer les informations générales, financières et les préférences de l'organisation.",
+  "View and manage users within the organization.": "Afficher et gérer les utilisateurs au sein de l'organisation.",
+  "Create and manage groups, and upload CSV files to define group configurations.": "Créer et gérer des groupes, et importer des fichiers CSV pour définir les configurations des groupes.",
+  "View and manage on-call technicians and configure scheduling exceptions.": "Afficher et gérer les techniciens de garde et configurer les exceptions de planification.",
+  "View and manage pending actions that require attention.": "Afficher et gérer les actions en attente nécessitant une attention particulière.",
+  "View an overview of all actions carried out by PRAxIS GROUP N.V.": "Afficher un aperçu de toutes les actions effectuées par PRAxIS GROUP N.V."
 }
