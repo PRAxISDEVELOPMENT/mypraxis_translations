@@ -2605,5 +2605,15 @@
   "Operations": "Opérations",
   "Your account does not have the necessary access rights": "Votre compte ne dispose pas des droits d’accès nécessaires",
   "Please contact PRAxIS GROUP N.V. or your system administrator for more information.": "Veuillez contacter PRAxIS GROUP N.V. ou votre administrateur système pour plus d’informations.",
-  "Manage your organization, users, actions, groups, and calendar.": "Gérez votre organisation, vos utilisateurs, vos actions, vos groupes et votre calendrier."
+  "Manage your organization, users, actions, groups, and calendar.": "Gérez votre organisation, vos utilisateurs, vos actions, vos groupes et votre calendrier.",
+  "Application where administrative documents, customer data, reports and live alarm notifications can be consulted and managed": "Application où les documents administratifs, les données clients, les rapports et les notifications d’alarme en direct peuvent être consultés et gérés.",
+  "Some functions are currently available only on our web application.": "Certaines fonctions sont actuellement disponibles uniquement via notre application web.",
+  "These functions are currently available only on our web application.": "Ces fonctions sont actuellement disponibles uniquement via notre application web.",
+  "This feature is still being developed and is currently only accessible via our web application.": "Cette fonctionnalité est encore en cours de développement et est actuellement accessible uniquement via notre application web.",
+  "View and export customer subscriptions, review subscription lines, and track related commercial actions": "Consultez et exportez les abonnements clients, examinez les lignes d’abonnement et suivez les actions commerciales associées.",
+  "Define and manage price factors on the purchase or sales price for each individual service.": "Définissez et gérez un facteur sur le prix d’achat ou de vente pour chaque service individuel.",
+  "Generate new and review existing ones for virtual surveillance quotations.": "Générez de nouveaux devis et consultez les devis existants pour la surveillance virtuelle.",
+  "Generate new and review existing ones for telemonitoring quotations.": "Générez de nouveaux devis et consultez les devis existants pour la télésurveillance.",
+  "View and download detailed price lists for all available services.": "Consultez et téléchargez les listes de prix détaillées pour tous les services disponibles.",
+  "View and download all invoices, including overdue, unpaid, paid, and credit notes.": "Consultez et téléchargez toutes les factures, y compris les factures en retard, impayées, payées et les notes de crédit."
 }
