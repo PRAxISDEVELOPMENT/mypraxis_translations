@@ -2615,5 +2615,11 @@
   "Generate new and review existing ones for virtual surveillance quotations.": "Genereer nieuwe en raadpleeg bestaande offertes voor virtuele bewaking.",
   "Generate new and review existing ones for telemonitoring quotations.": "Genereer nieuwe en raadpleeg bestaande offertes voor telebewaking.",
   "View and download detailed price lists for all available services.": "Bekijk en download gedetailleerde prijslijsten voor alle beschikbare diensten.",
-  "View and download all invoices, including overdue, unpaid, paid, and credit notes.": "Bekijk en download alle facturen, inclusief achterstallige, onbetaalde, betaalde en creditnota's."
+  "View and download all invoices, including overdue, unpaid, paid, and credit notes.": "Bekijk en download alle facturen, inclusief achterstallige, onbetaalde, betaalde en creditnota's.",
+  "View and manage general organization details, financial information, and preferences.": "Bekijk en beheer algemene organisatiegegevens, financiële informatie en voorkeuren.",
+  "View and manage users within the organization.": "Bekijk en beheer gebruikers binnen de organisatie.",
+  "Create and manage groups, and upload CSV files to define group configurations.": "Maak en beheer groepen en upload CSV-bestanden om groepsconfiguraties te definiëren.",
+  "View and manage on-call technicians and configure scheduling exceptions.": "Bekijk en beheer techniekers van wacht en stel planningsuitzonderingen in.",
+  "View and manage pending actions that require attention.": "Bekijk en beheer openstaande acties die aandacht vereisen.",
+  "View an overview of all actions carried out by PRAxIS GROUP N.V.": "Bekijk een overzicht van alle acties die door PRAxIS GROUP N.V. zijn uitgevoerd."
 }
