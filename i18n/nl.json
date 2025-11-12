@@ -2621,5 +2621,12 @@
   "Create and manage groups, and upload CSV files to define group configurations.": "Maak en beheer groepen en upload CSV-bestanden om groepsconfiguraties te definiëren.",
   "View and manage on-call technicians and configure scheduling exceptions.": "Bekijk en beheer techniekers van wacht en stel planningsuitzonderingen in.",
   "View and manage pending actions that require attention.": "Bekijk en beheer openstaande acties die aandacht vereisen.",
-  "View an overview of all actions carried out by PRAxIS GROUP N.V.": "Bekijk een overzicht van alle acties die door PRAxIS GROUP N.V. zijn uitgevoerd."
+  "View an overview of all actions carried out by PRAxIS GROUP N.V.": "Bekijk een overzicht van alle acties die door PRAxIS GROUP N.V. zijn uitgevoerd.",
+  "View and track completions for each customer.": "Bekijk en volg de afhandelingen per klant.",
+  "Monitor the live autolog activity across all clients.": "Volg de live autologactiviteit van alle klanten.",
+  "Acess additional tools including user settings, reports, news, documents, user management, and API documentation.": "Toegang tot extra tools, waaronder gebruikersinstellingen, rapporten, nieuws, documenten, gebruikersbeheer en API-documentatie.",
+  "User & Account": "Gebruiker en account",
+  "Information & Documents": "Informatie en documenten",
+  "Support & Tools": "Ondersteuning en tools",
+  "Web application": "Webapplicatie"
 }
