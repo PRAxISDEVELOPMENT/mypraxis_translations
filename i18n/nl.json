@@ -2045,7 +2045,7 @@
 	"User role": "Rol gebruiker",
 	"At least one client is still using this contract. Please update or remove those assignments first": "Er is minstens één klant die dit contract nog gebruikt",
 	"Recent created clients": "Recent aangemaakte klanten",
-	"Linked (main) customer": "Gelinkte (hoofd)klant",
+	"Linked main customer": "Gelinkte hoofdklant",
 	"Global settings": "Globale instellingen",
 	"Purchase prices": "Aankoopprijzen",
 	"No pricing information is available. Please contact the administrator of the administrative block for further details.": "Geen verkoopprijzen beschikbaar. Neem contact op met uw beheerder van het blok administratie voor meer informatie.",

@@ -2045,7 +2045,7 @@
 	"User role": "Rôle utilisateur",
 	"At least one client is still using this contract. Please update or remove those assignments first": "Au moins un client utilise encore ce contrat",
 	"Recent created clients": "Clients récemment créés",
-	"Linked (main) customer": "Client lié (principal)",
+	"Linked main customer": "Client lié principal",
 	"Global settings": "Paramètres globaux",
 	"Purchase prices": "Prix d'achat",
 	"No pricing information is available. Please contact the administrator of the administrative block for further details.": "Aucune information sur les prix n'est disponible. Veuillez contacter l'administrateur du bloc administratif pour plus d'informations.",
