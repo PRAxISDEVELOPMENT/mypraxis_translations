@@ -2367,7 +2367,8 @@
 	"I hereby confirm that I agree to disabling the installer logo on PRAxIS contracts.": "Ik bevestig hierbij dat ik akkoord ga met het uitschakelen van het installateurslogo op PRAxIS contracten.",
 	"You are about to enable the installer logo on PRAxIS contracts.": "U staat op het punt het installateurslogo op PRAxIS contracten in te schakelen.",
 	"Disabling this option will prevent the installer logo from being shown on PRAxIS contracts.": "Het uitschakelen van deze optie voorkomt dat het installateurslogo op PRAxIS contracten wordt weergegeven.",
-	"These are stored for a maximum of 30 days and then automatically deleted.": "Deze worden maximaal 30 dagen bewaard en daarna automatisch gewist.",
+	"The storage of daily reports can be enabled by an administrator of your organization via Installer - Organization - Preferences.": "Het bewaren van dagelijkse rapporten kan geselecteerd worden door een beheerder van uw organisatie via Installateur - Organisatie - Voorkeuren.",
+	"These reports are kept for a maximum of 30 days and are then automatically deleted.": "Deze rapporten worden maximaal 30 dagen bewaard en daarna automatisch gewist.",
 	"Notes": "Notities",
 	"In progress": "In behandeling",
 	"Finished": "Afgewerkt",
@@ -2629,5 +2630,6 @@
 	"Information & Documents": "Informatie en documenten",
 	"Support & Tools": "Ondersteuning en tools",
 	"Web application": "Webapplicatie",
-	"I agree to the privacy policy and the user agreement": "Ik ga akkoord met het privacybeleid en de gebruikersovereenkomst"
+	"I agree to the privacy policy and the user agreement": "Ik ga akkoord met het privacybeleid en de gebruikersovereenkomst",
+	"Filter by panel/communicator": "Filteren op centrale/kiezer"
 }
