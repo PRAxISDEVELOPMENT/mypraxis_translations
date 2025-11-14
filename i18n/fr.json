@@ -2640,5 +2640,6 @@
 	"with": "avec",
 	"and": "et",
 	"in CC.": "en CC.",
-	"For example: recurring reports, non-existent client notifications, or adjustments that do not result in the desired configuration.": "Par exemple : rapports récurrents, notifications de clients inexistants ou ajustements qui ne donnent pas la configuration souhaitée."
+	"For example: recurring reports, non-existent client notifications, or adjustments that do not result in the desired configuration.": "Par exemple : rapports récurrents, notifications de clients inexistants ou ajustements qui ne donnent pas la configuration souhaitée.",
+	"TEMPORARY – Imported accounts": "TEMPORAIRE – Comptes importés"
 }
