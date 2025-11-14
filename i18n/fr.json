@@ -2641,5 +2641,9 @@
 	"and": "et",
 	"in CC.": "en CC.",
 	"For example: recurring reports, non-existent client notifications, or adjustments that do not result in the desired configuration.": "Par exemple : rapports récurrents, notifications de clients inexistants ou ajustements qui ne donnent pas la configuration souhaitée.",
-	"TEMPORARY – Imported accounts": "TEMPORAIRE – Comptes importés"
+	"TEMPORARY – Imported accounts": "TEMPORAIRE – Comptes importés",
+	"Imported accounts": "Comptes importés",
+	"Resend registration mail": "Renvoyer le mail d'inscription",
+	"You are about to resend the email to this user.": "Vous êtes sur le point de renvoyer l’e-mail à cet utilisateur.",
+	"Email successfully sent to {{value}}": "E-mail envoyé avec succès à {{value}}"
 }

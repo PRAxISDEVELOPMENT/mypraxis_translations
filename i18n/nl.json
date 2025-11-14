@@ -2641,5 +2641,9 @@
 	"and": "en",
 	"in CC.": "in CC.",
 	"For example: recurring reports, non-existent client notifications, or adjustments that do not result in the desired configuration.": "Bijvoorbeeld: terugkerende rapporten, meldingen van niet-bestaande klanten of aanpassingen die niet tot de gewenste configuratie leiden.",
-	"TEMPORARY – Imported accounts": "TIJDELIJK – Geïmporteerde accounts"
+	"TEMPORARY – Imported accounts": "TIJDELIJK – Geïmporteerde accounts",
+	"Imported accounts": "Geïmporteerde accounts",
+	"Resend registration mail": "Registratiemail opnieuw verzenden",
+	"You are about to resend the email to this user.": "U staat op het punt de e-mail naar deze gebruiker opnieuw te verzenden.",
+	"Email successfully sent to {{value}}": "E-mail succesvol verzonden naar {{value}}"
 }
