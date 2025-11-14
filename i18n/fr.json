@@ -2636,5 +2636,9 @@
 	"Submit a question, suggestion, problem, or complaint to the PRAxIS GROUP N.V.": "Soumettez une question, une suggestion, un problème ou une plainte à PRAxIS GROUP N.V.",
 	"Manage and review users, pending registrations, and role templates.": "Gérez et consultez les utilisateurs, les inscriptions en attente et les modèles de rôles.",
 	"Browse the document library and download files as needed.": "Parcourez la bibliothèque de documents et téléchargez les fichiers selon vos besoins.",
-	"Please report any issues encountered while performing Action Required at the end of your shift to <1>{{mail1}}</1>, with <3>{{mail2}}</3> and <5>{{mail3}}</5> in CC.": "Veuillez signaler, à la fin de votre shift, tout problème rencontré lors de l’exécution d’Action Requise à <1>{{mail1}}</1>, avec <3>{{mail2}}</3> et <5>{{mail3}}</5> en copie."
+	"Please report any issues encountered while performing Action needed at the end of your shift to": "Veuillez signaler tout problème rencontré lors de l’exécution d’Action Requise à la fin de votre shift à",
+	"with": "avec",
+	"and": "et",
+	"in CC.": "en CC.",
+	"For example: recurring reports, non-existent client notifications, or adjustments that do not result in the desired configuration.": "Par exemple : rapports récurrents, notifications de clients inexistants ou ajustements qui ne donnent pas la configuration souhaitée."
 }

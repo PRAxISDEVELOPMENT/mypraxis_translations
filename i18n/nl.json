@@ -2636,5 +2636,9 @@
 	"Submit a question, suggestion, problem, or complaint to the PRAxIS GROUP N.V.": "Dien een vraag, suggestie, probleem of klacht in bij PRAxIS GROUP N.V.",
 	"Manage and review users, pending registrations, and role templates.": "Beheer en bekijk gebruikers, openstaande registraties en roltemplates.",
 	"Browse the document library and download files as needed.": "Blader door de documentbibliotheek en download bestanden indien nodig.",
-	"Please report any issues encountered while performing Action Required at the end of your shift to <1>{{mail1}}</1>, with <3>{{mail2}}</3> and <5>{{mail3}}</5> in CC.": "Gelieve op het einde van je shift alle problemen bij het uitvoeren van Actie Vereist te melden aan <1>{{mail1}}</1>, met <3>{{mail2}}</3> en <5>{{mail3}}</5> in CC."
+	"Please report any issues encountered while performing Action needed at the end of your shift to": "Gelieve eventuele problemen tijdens de uitvoering van Actie Vereist aan het einde van je shift te melden aan",
+	"with": "met",
+	"and": "en",
+	"in CC.": "in CC.",
+	"For example: recurring reports, non-existent client notifications, or adjustments that do not result in the desired configuration.": "Bijvoorbeeld: terugkerende rapporten, meldingen van niet-bestaande klanten of aanpassingen die niet tot de gewenste configuratie leiden."
 }
