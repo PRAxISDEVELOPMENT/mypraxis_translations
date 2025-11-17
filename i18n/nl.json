@@ -2651,5 +2651,7 @@
 	"Document ready": "Document gereed",
 	"Open document": "Document openen",
 	"Storage unavailable": "Opslag niet beschikbaar",
-	"Help needed?": "Hulp nodig?"
+	"Help needed?": "Hulp nodig?",
+	"Warning - This client has linked customers.": "Waarschuwing - Deze klant heeft gelinkte klanten.",
+	"The installer will be changed for every linked customer.": "De installateur zal voor elke gelinkte klant worden gewijzigd."
 }
