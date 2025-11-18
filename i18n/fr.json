@@ -690,7 +690,7 @@
 	"Protocol": "Protocole",
 	"CSL modules must be ordered and therefore cannot be created via our application.": "Les modules CSL doivent être commandés et ne peuvent donc pas être créés via notre application.",
 	"After ordering you will receive all necessary information.": "Après avoir passé la commande, vous recevrez toutes les informations nécessaires.",
-	"Online portal where administrative documents, customer data, reports and live alarm notifications can be consulted and managed": "Portail en ligne où il est possible de consulter et gérer les documents administratifs, les données clients, les rapports et les notifications d'alarme en temps réel.",
+	"Online portal for viewing and managing administrative documents, your clients data, and their reports, histories, and live alarm notifications, at PRAxIS GROUP.": "Portail en ligne, pour la consultation et/ou la gestion des documents administratifs, des données de vos clients, et leurs rapports, historiques et notifications d’alarmes en temps réel, chez PRAxIS GROUP",
 	"At least one of fixed cameras or mobile cameras must be greater than 0": "Dans tous les cas, vous devez désigner au moins une caméra, fixe ou mobile.",
 	"At least one of call numbers must be greater than": "Au moins un des numéros d'appel doit être supérieur à",
 	"Must be a {{value}} character hexadecimal": "Doit avoir une valeur hexadécimale de{{value}} caractères",

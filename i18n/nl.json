@@ -690,7 +690,7 @@
 	"Protocol": "Protocol",
 	"CSL modules must be ordered and therefore cannot be created via our application.": "CSL-modules moeten besteld worden en kunnen daarom niet via onze applicatie aangemaakt worden.",
 	"After ordering you will receive all necessary information.": "Na bestelling ontvangt u alle nodige informatie.",
-	"Online portal where administrative documents, customer data, reports and live alarm notifications can be consulted and managed": "Online portaal waar administratieve documenten, klantgegevens, rapporten en live alarmmeldingen geraadpleegd en beheerd kunnen worden",
+	"Online portal for viewing and managing administrative documents, your clients data, and their reports, histories, and live alarm notifications, at PRAxIS GROUP.": "Online portaal, voor het raadplegen en het beheer van de administratieve documenten, de gegevens van uw klanten, en hun rapporten, historieken en live alarmmeldingen, bij PRAxIS GROUP.",
 	"At least one of fixed cameras or mobile cameras must be greater than 0": "Er moet minstens één vaste camera of mobiele camera zijn (groter dan 0).",
 	"At least one of call numbers must be greater than": "Minstens één van de oproepnummers moet groter zijn dan",
 	"Must be a {{value}} character hexadecimal": "Moet een hexadecimaal getal zijn van {{value}} tekens",
