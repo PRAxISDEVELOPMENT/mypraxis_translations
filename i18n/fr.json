@@ -2653,5 +2653,7 @@
 	"Storage unavailable": "Stockage indisponible",
 	"Help needed?": "Besoin d'aide ?",
 	"Warning - This client has linked customers.": "Attention - Ce client a des clients liés.",
-	"The installer will be changed for every linked customer.": "L'installateur sera modifié pour chaque client lié."
+	"The installer will be changed for every linked customer.": "L'installateur sera modifié pour chaque client lié.",
+	"If you experience any issues or if certain features are not functioning correctly, please contact only the (temporary) MyPRAxIS Hotline at 056 / 199.777 (Monday to Friday from 08:00 to 17:00).": "Si vous rencontrez des problèmes ou si certaines fonctionnalités ne fonctionnent pas correctement, veuillez contacter exclusivement la Hotline (temporaire) MyPRAxIS au 056 / 199.777 (du lundi au vendredi de 08h00 à 17h00).",
+	"This line is staffed by the platform’s designers.": "Cette ligne est assurée par les développeurs de la plateforme."
 }
