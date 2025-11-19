@@ -2660,5 +2660,8 @@
   "Only first {{count}} files were selected": "Only first {{count}} files were selected",
   "Only first {{count}} files selected": "Only first {{count}} files selected",
   "{{file}}: File type not allowed": "{{file}}: File type not allowed",
-  "{{file}}: File too large": "{{file}}: File too large"
+  "{{file}}: File too large": "{{file}}: File too large",
+  "Daily reports": "Rapports quotidiens",
+  "Your central dashboard with relevant insights and highlights. More detailed insights are available on our web platform.": "Votre tableau de bord central avec des informations pertinentes et des points essentiels. Des informations plus détaillées sont disponibles sur notre application web.",
+  "Error loading data": "Erreur lors du chargement des données"
 }
