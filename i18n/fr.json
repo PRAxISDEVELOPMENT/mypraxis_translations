@@ -1073,7 +1073,7 @@
 	"Disable": "Désactiver",
 	"Enabled": "Activé",
 	"Disabled": "Désactivé",
-	"Your e-mail address has not been verified": "Votre adresse e-mail n'a pas été vérifiée",
+	"To activate the multi-factor authentication features, you must verify your email address.": "Pour activer les fonctions d’authentification multifacteur, vous devez vérifier votre adresse e-mail.",
 	"Please verify your e-mail address to activate multi-factor authentication features.": "Veuillez vérifier votre adresse e-mail pour activer les fonctionnalités d'authentification multifactorielle.",
 	"Verification status": "Statut de vérification",
 	"SMS": "SMS",

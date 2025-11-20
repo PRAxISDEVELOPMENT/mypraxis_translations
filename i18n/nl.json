@@ -1073,7 +1073,7 @@
 	"Disable": "Uitschakelen",
 	"Enabled": "Ingeschakeld",
 	"Disabled": "Uitgeschakeld",
-	"Your e-mail address has not been verified": "Uw e-mailadres is niet geverifieerd",
+	"To activate the multi-factor authentication features, you must verify your email address.": "Om de multi-factor authenticatie functies te activeren moet u uw e-mailadres verifiëren.",
 	"Please verify your e-mail address to activate multi-factor authentication features.": "Verifieer uw e-mailadres om de multi-factor authenticatiefuncties te activeren.",
 	"Verification status": "Verificatiestatus",
 	"SMS": "SMS",
