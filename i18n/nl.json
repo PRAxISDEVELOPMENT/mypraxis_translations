@@ -2664,5 +2664,6 @@
 	"Daily reports": "Dagelijkse rapporten",
 	"Your central dashboard with relevant insights and highlights. More detailed insights are available on our web platform.": "Je centrale dashboard met relevante inzichten en hoogtepunten. Meer gedetailleerde inzichten zijn beschikbaar op onze webapplicatie.",
 	"Error loading data": "Fout bij het laden van gegevens",
-	"No results": "Geen resultaten"
+	"No results": "Geen resultaten",
+	"If no results are shown, this may mean that the option was not enabled and/or that there were no results for the relevant day(s).": "Als er geen resultaten zijn, kan het zijn dat deze optie niet geselecteerd werd en/of dat er voor de desbetreffende dag(en) geen resultaat is (zijn)."
 }
