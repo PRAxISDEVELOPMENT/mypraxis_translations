@@ -2665,5 +2665,6 @@
 	"Your central dashboard with relevant insights and highlights. More detailed insights are available on our web platform.": "Votre tableau de bord central avec des informations pertinentes et des points essentiels. Des informations plus détaillées sont disponibles sur notre application web.",
 	"Error loading data": "Erreur lors du chargement des données",
 	"No results": "Aucun résultat",
-	"If no results are shown, this may mean that the option was not enabled and/or that there were no results for the relevant day(s).": "S’il n’y a aucun résultat, il est possible que cette option n’ait pas été activée et/ou qu’il n’y ait aucun résultat pour le(s) jour(s) concerné(s)."
+	"If no results are shown, this may mean that the option was not enabled and/or that there were no results for the relevant day(s).": "S’il n’y a aucun résultat, il est possible que cette option n’ait pas été activée et/ou qu’il n’y ait aucun résultat pour le(s) jour(s) concerné(s).",
+	"The start date and time may not be older than 3 months. Reports older than 3 months can be requested via {{value}}": "La date et l’heure de début ne peuvent pas dater de plus de 3 mois. Les rapports de plus de 3 mois peuvent être demandés via {{value}}"
 }
