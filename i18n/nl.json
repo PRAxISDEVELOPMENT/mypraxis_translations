@@ -2663,5 +2663,6 @@
 	"{{file}}: File too large": "{{file}}: Bestand is te groot",
 	"Daily reports": "Dagelijkse rapporten",
 	"Your central dashboard with relevant insights and highlights. More detailed insights are available on our web platform.": "Je centrale dashboard met relevante inzichten en hoogtepunten. Meer gedetailleerde inzichten zijn beschikbaar op onze webapplicatie.",
-	"Error loading data": "Fout bij het laden van gegevens"
+	"Error loading data": "Fout bij het laden van gegevens",
+	"No results": "Geen resultaten"
 }
