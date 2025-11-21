@@ -2682,5 +2682,6 @@
 	"Calendar permission permanently denied": "Permission calendrier refusée de façon permanente",
 	"Calendar permission denied": "Permission calendrier refusée",
 	"Error requesting calendar permission": "Erreur lors de la demande de permission calendrier",
-	"Privacy Policy & User Agreement": "Politique de confidentialité & Accord d’utilisation"
+	"Privacy Policy & User Agreement": "Politique de confidentialité & Accord d’utilisation",
+	"PrivacyPolicy_UserAgreement": "PolitiqueDeConfidentialité_AccordDutilisation"
 }

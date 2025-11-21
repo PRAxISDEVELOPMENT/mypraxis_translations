@@ -2682,5 +2682,6 @@
 	"Calendar permission permanently denied": "Toestemming voor agenda permanent geweigerd",
 	"Calendar permission denied": "Toestemming voor agenda geweigerd",
 	"Error requesting calendar permission": "Fout bij aanvragen van agendarechten",
-	"Privacy Policy & User Agreement": "Privacybeleid & Gebruikersovereenkomst"
+	"Privacy Policy & User Agreement": "Privacybeleid & Gebruikersovereenkomst",
+	"PrivacyPolicy_UserAgreement": "Privacybeleid_Gebruikersovereenkomst"
 }
