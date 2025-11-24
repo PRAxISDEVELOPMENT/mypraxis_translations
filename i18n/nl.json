@@ -2691,5 +2691,11 @@
   "Missing verification session": "Ontbrekende verificatiesessie",
   "Failed to send verification code": "Verificatiecode verzenden mislukt",
   "Verification session expired": "Verificatiesessie verlopen",
-  "Incorrect verification code": "Onjuiste verificatiecode"
+  "Incorrect verification code": "Onjuiste verificatiecode",
+  "Access and manage your account preferences, profile information and security settings.": "Beheer je accountvoorkeuren, profielinformatie en beveiligingsinstellingen.",
+  "The signature will be inserted automatically wherever a signed authorization is required.": "De handtekening wordt automatisch ingevoegd waar een ondertekende autorisatie vereist is.",
+  "Are you sure you want to close?": "Weet je zeker dat je wilt sluiten?",
+  "This action will dismiss the current view.": "Deze actie sluit de huidige weergave.",
+  "Update your password by confirming your current one and choosing a new, secure password.": "Werk je wachtwoord bij door je huidige wachtwoord te bevestigen en een nieuw, veilig wachtwoord te kiezen.",
+  "Select file": "Bestand selecteren"
 }

@@ -2691,5 +2691,11 @@
   "Missing verification session": "Session de vérification manquante",
   "Failed to send verification code": "Échec de l’envoi du code de vérification",
   "Verification session expired": "Session de vérification expirée",
-  "Incorrect verification code": "Code de vérification incorrect"
+  "Incorrect verification code": "Code de vérification incorrect",
+  "Access and manage your account preferences, profile information and security settings.": "Accédez et gérez vos préférences de compte, informations de profil et paramètres de sécurité.",
+  "The signature will be inserted automatically wherever a signed authorization is required.": "La signature sera automatiquement insérée partout où une autorisation signée est requise.",
+  "Are you sure you want to close?": "Êtes-vous sûr de vouloir fermer ?",
+  "This action will dismiss the current view.": "Cette action fermera la vue actuelle.",
+  "Update your password by confirming your current one and choosing a new, secure password.": "Mettez à jour votre mot de passe en confirmant votre mot de passe actuel et en en choisissant un nouveau, plus sécurisé.",
+  "Select file": "Sélectionner un fichier"
 }
