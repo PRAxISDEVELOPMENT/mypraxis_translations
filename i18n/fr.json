@@ -2701,5 +2701,6 @@
 	"This email is sent daily around 9:00 AM.": "Cet e-mail est envoyé quotidiennement vers 09h00.",
 	"This report is sent daily and, if applicable, stored around 09:00.": "Ce rapport est envoyé chaque jour et, le cas échéant, archivé vers 09h00.",
 	"New index": "Nouvel index",
-	"The remote monitoring contract can only be downloaded after it has first been generated or uploaded.": "Le contrat de télésurveillance ne peut être téléchargé qu’après avoir été généré ou téléversé au préalable."
+	"The remote monitoring contract can only be downloaded after it has first been generated or uploaded.": "Le contrat de télésurveillance ne peut être téléchargé qu’après avoir été généré ou téléversé au préalable.",
+	"In addition to the items below that require action, there may also be other items that you can find in the daily PDF report.Therefore, make sure to check this report every day.": "En plus des points ci-dessous qui nécessitent une action, il se peut qu’il y ait également d’autres éléments que vous pouvez retrouver dans le rapport PDF quotidien. Veuillez donc consulter ce rapport chaque jour."
 }
