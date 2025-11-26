@@ -2708,5 +2708,11 @@
 	"Consult alarm notifications, received polling signals, and audit trail records.": "Consulter les notifications d’alarme, les signaux de polling reçus et les enregistrements de l’audit trail.",
 	"Consult received images and videos.": "Consulter les images et vidéos reçues.",
 	"Answer copied": "Réponse copiée",
-	"Copy answer": "Copier la réponse"
+	"Copy answer": "Copier la réponse",
+	"Date completion": "Date de traitement",
+	"Text completion": "Texte de traitement",
+	"Report generated on": "Rapport généré le",
+	"NTB": "À déterminer",
+	"Index (NI/BI)": "Index (NI/BI)"
+
 }
