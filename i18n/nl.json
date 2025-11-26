@@ -2708,5 +2708,10 @@
 	"Consult alarm notifications, received polling signals, and audit trail records.": "Raadpleeg alarmmeldingen, ontvangen pollingsignalen en audittrailrecords.",
 	"Consult received images and videos.": "Raadpleeg ontvangen afbeeldingen en video's.",
 	"Answer copied": "Antwoord gekopieerd",
-	"Copy answer": "Antwoord kopiëren"
+	"Copy answer": "Antwoord kopiëren",
+	"Date completion": "Datum afhandeling",
+	"Text completion": "Afhandelingstekst",
+	"Report generated on": "Rapport gegenereerd op",
+	"NTB": "NTB"
+	"Index (NI/BI)": "Index (NI/BI)"	
 }
