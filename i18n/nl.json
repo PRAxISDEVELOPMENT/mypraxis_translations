@@ -2707,5 +2707,6 @@
 	"Manage zones or consult received zones.": "Beheer zones of raadpleeg ontvangen zones.",
 	"Consult alarm notifications, received polling signals, and audit trail records.": "Raadpleeg alarmmeldingen, ontvangen pollingsignalen en audittrailrecords.",
 	"Consult received images and videos.": "Raadpleeg ontvangen afbeeldingen en video's.",
-	"Answer copied": "Antwoord gekopieerd"
+	"Answer copied": "Antwoord gekopieerd",
+	"Copy answer": "Antwoord kopiëren"
 }
