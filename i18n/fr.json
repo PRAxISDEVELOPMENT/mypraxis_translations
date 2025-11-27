@@ -2719,5 +2719,6 @@
 	"Generate and download client profile, notifications, and handling activity reports.": "Générer et télécharger les rapports de profil client, de notifications et d'activités.",
 	"View financial data and operational activity.": "Afficher les données financières et les activités opérationnelles.",
 	"Access and adjust preference settings.": "Accéder et ajuster les paramètres de préférences.",
-	"Cancel termination": "Annulation de la résiliation"
+	"Cancel termination": "Annulation de la résiliation",
+	"The termination of the customer has been canceled": "L'annulation du client a été annulée."
 }
