@@ -2721,5 +2721,6 @@
 	"Access and adjust preference settings.": "Accéder et ajuster les paramètres de préférences.",
 	"Cancel termination": "Annulation de la résiliation",
 	"The termination of the customer has been canceled": "L'annulation du client a été annulée.",
-	"You are about to cancel this client termination.": "Vous êtes sur le point d'annuler la suspension de ce client."
+	"You are about to cancel this client termination.": "Vous êtes sur le point d'annuler la suspension de ce client.",
+	"Include green zones": "Inclure des zones vertes"
 }
