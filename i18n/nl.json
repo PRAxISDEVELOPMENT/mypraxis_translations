@@ -2720,5 +2720,6 @@
 	"View financial data and operational activity.": "Bekijk financiële gegevens en operationele activiteiten.",
 	"Access and adjust preference settings.": "Toegang tot en aanpassen van voorkeurinstellingen.",
 	"Cancel termination": "Stopzetting annuleren",
-	"The termination of the customer has been canceled": "De stopzetting van de klant is geannuleerd"
+	"The termination of the customer has been canceled": "De stopzetting van de klant is geannuleerd",
+	"You are about to cancel this client termination.": "U staat op het punt om de stopzetting van deze klant te annuleren."
 }
