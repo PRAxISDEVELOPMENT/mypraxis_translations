@@ -2723,7 +2723,7 @@
 	"Cancel termination": "Annulation de la résiliation",
 	"The termination of the customer has been canceled": "L'annulation du client a été annulée.",
 	"You are about to cancel this client termination.": "Vous êtes sur le point d'annuler la suspension de ce client.",
-	"Include green zones": "Inclure des zones vertes",
+	"Include received zones": "Inclure les zones reçues",
 	"View and manage client details and the installation address.": "Afficher et gérer les données client et l'adresse d'installation.",
 	"View and manage billing information.": "Afficher et gérer les données de facturation.",
 	"View permanent, temporary, and additional comments.": "Afficher les commentaires permanents, temporaires et supplémentaires.",
