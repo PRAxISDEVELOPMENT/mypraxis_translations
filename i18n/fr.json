@@ -1206,7 +1206,7 @@
 	"E-mails": "E-mails",
 	"The e-mail to the end client can only be sent if the following condition is met": "L'e-mail au client final ne peut être envoyé que si la condition suivante est remplie",
 	"A valid e-mail address for e-mail 1 or e-mail 2 must be provided": "Une adresse e-mail valide doit être fournie pour l'e-mail 1 ou l'e-mail 2",
-	"Go to 'Info' to add or update the e-mail addresses": "Allez vers 'Info' pour ajouter ou mettre à jour des adresses e-mail",
+	"Go to 'Client info' to add or update the e-mail addresses": "Allez vers 'Info client' pour ajouter ou mettre à jour des adresses e-mail",
 	"You are about to navigate to the installer organization details for: {{value}}": "Vous êtes sur le point d'accéder aux détails de l'organisation de l'installateur pour : {{value}}",
 	"You are about to navigate to the callcenter organization details for: {{value}}": "Vous êtes sur le point d'accéder aux détails de l'organisation du centre d'appel pour : {{value}}",
 	"Navigate to installer - organisation": "Accéder à l'installateur - organisation",
