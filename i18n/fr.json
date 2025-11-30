@@ -1881,7 +1881,7 @@
 	"User type": "Type d’utilisateur",
 	"By default, the email address from the general information is used to send the daily email.": "Par défaut, l'adresse e-mail dans l' information générale est utilisée pour l'envoi de l'e-mail quotidien.",
 	"New client {{value}} was successfully created": "Le nouveau client {{value}} a été créé avec succès",
-	"Create client": "Créer un client",
+	"Create client": "Créer le client",
 	"Add daily email address": "Ajouter une adresse pour l'envoi de l'e-mail quotidien",
 	"Delete daily email address": "Supprimer l'adresse pour l'envoi de l'e-mail quotidien",
 	"Manage email recipients": "Gérer les destinataires des e-mails",
