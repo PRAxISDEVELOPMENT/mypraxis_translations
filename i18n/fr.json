@@ -2741,5 +2741,6 @@
 	"Review received polling signals.": "Consultez les signaux de polling reçus.",
 	"Browse all logged activities.": "Parcourez toutes les activités enregistrées.",
 	"Model": "Modèle",
-	"Deactivate": "arrêt"
+	"Deactivate": "arrêt",
+	"The system can only be put into test (partially or fully) when the customer is active.": "Le système ne peut être mis à l'essai (partiellement ou totalement) que lorsque le client est actif."
 }

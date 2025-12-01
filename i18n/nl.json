@@ -2741,5 +2741,6 @@
 	"Review received polling signals.": "Bekijk ontvangen polling signalen.",
 	"Browse all logged activities.": "Bekijk alle gelogde activiteiten.",
 	"Model": "Model",
-	"Deactivate": "Stopzetten"
+	"Deactivate": "Stopzetten",
+	"The system can only be put into test (partially or fully) when the customer is active.": "Het systeem kan enkel (gedeeltelijk of volledig) in test geplaatst worden als de klant actief is."
 }
