@@ -2740,5 +2740,6 @@
 	"View, add, edit or remove zones.": "Bekijk, voeg toe, bewerk of verwijder zones.",
 	"Review received polling signals.": "Bekijk ontvangen polling signalen.",
 	"Browse all logged activities.": "Bekijk alle gelogde activiteiten.",
-	"Model": "Model"
+	"Model": "Model",
+	"Deactivate": "Stopzetten"
 }
