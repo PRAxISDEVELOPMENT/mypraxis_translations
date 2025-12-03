@@ -2742,5 +2742,7 @@
 	"Browse all logged activities.": "Bekijk alle gelogde activiteiten.",
 	"Model": "Model",
 	"Deactivate": "Stopzetten",
-	"The system can only be put into test (partially or fully) when the customer is active.": "Het systeem kan enkel (gedeeltelijk of volledig) in test geplaatst worden als de klant actief is."
+	"The system can only be put into test (partially or fully) when the customer is active.": "Het systeem kan enkel (gedeeltelijk of volledig) in test geplaatst worden als de klant actief is.",
+	"Notifications are currently blocked in your browser.": "De meldingen zijn momenteel geblokkeerd in uw browser.",
+	"Click the bell icon in the address bar and enable notifications for this site to receive all alerts and updates correctly.": "Klik op het bel-icoon in de adresbalk en schakel meldingen in voor deze site om alle waarschuwingen en updates correct te ontvangen."
 }
