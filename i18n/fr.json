@@ -2744,5 +2744,6 @@
 	"Deactivate": "arrêt",
 	"The system can only be put into test (partially or fully) when the customer is active.": "Le système ne peut être mis à l'essai (partiellement ou totalement) que lorsque le client est actif.",
 	"Notifications are currently blocked in your browser.": "Les notifications sont actuellement bloquées dans votre navigateur.",
-	"Click the bell icon in the address bar and enable notifications for this site to receive all alerts and updates correctly.": "Cliquez sur l’icône de la cloche dans la barre d’adresse et activez les notifications pour ce site afin de recevoir correctement tous les avertissements et mises à jour."
+	"Click the bell icon in the address bar and enable notifications for this site to receive all alerts and updates correctly.": "Cliquez sur l’icône de la cloche dans la barre d’adresse et activez les notifications pour ce site afin de recevoir correctement tous les avertissements et mises à jour.",
+	"The customer was set to no polling, yet we have still received polling signals within the past hour.": "Le client a été configuré pour aucun polling, mais nous avons quand mâme reçu des signaux de polling dans la dernière heure."
 }
