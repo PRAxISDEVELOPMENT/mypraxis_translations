@@ -2349,7 +2349,7 @@
 	"Change exception": "Modifier l'exception",
 	"{{value}} exception(s) deleted": "{{value}} exception(s) supprimée(s)",
 	"You are about to delete {{value}} exception(s).": "Vous êtes sur le point de supprimer {{value}} exception(s).",
-	"Mark events": "Marquez les événements",
+	"Mark notifications": "Notifications de marquage",
 	"Mail to client": "E-mail au client",
 	"Event marker(s) successfully removed": "Marqueur(s) d'événement supprimé(s) avec succès",
 	"You are about to delete {{value}} event marker(s).": "Vous êtes sur le point de supprimer {{value}} marqueur(s) d'événement.",
