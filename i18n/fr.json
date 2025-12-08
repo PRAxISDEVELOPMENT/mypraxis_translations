@@ -2099,7 +2099,7 @@
 	"All alarm types except for": "Tous les types d'alarme, sauf",
 	"Handling count report polling errors": "Rapport du nombre de traitements d'erreur de polling",
 	"Handling count report active on/off": "Rapport du nombre de traitements pour l'on/off actif",
-	"Handling count report track & trace": "Rapport du nombre de traitements d'alarmes track & trace",
+	"Handling count report track & trace": "Rapport du nombre de traitements d'alarme pour track & trace",
 	"Handling count report alarms": "Rapport du nombre de traitements d'alarme",
 	"Quotation": "Devis",
 	"Total": "Total",
