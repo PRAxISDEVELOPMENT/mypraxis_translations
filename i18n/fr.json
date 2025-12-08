@@ -2763,5 +2763,6 @@
 	"Place the system in/out test": "Mettre le système en/hors test",
 	"Place the system in/out test untill": "mettre le système en/hors test jusqu'à",
 	"View the received zones.": "Consulter toutes les notifications des zone reçues",
-	"Generate a contract automatically using the details provided.": "Générez automatiquement un contrat à partir des données fournies"
+	"Generate a contract automatically using the details provided.": "Générez automatiquement un contrat à partir des données fournies",
+	"View your installer data.": "Afficher vos données d’installateur."
 }
