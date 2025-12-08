@@ -2765,5 +2765,5 @@
 	"View the received zones.": "Consulter toutes les notifications des zone reçues",
 	"Generate a contract automatically using the details provided.": "Générez automatiquement un contrat à partir des données fournies",
 	"View your installer data.": "Afficher vos données d’installateur.",
-	"Year cannot be in the future": "L'année ne peut pas être dans le futur"
+	"Year cannot be in the future": "La notation annuelle ne peut pas se situer dans le futur."
 }
