@@ -2765,5 +2765,5 @@
 	"View the received zones.": "Bekijk alle ooit ontvangen meldingen van zones",
 	"Generate a contract automatically using the details provided.": "Genereer automatisch een contract op basis van de opgegeven gegevens",
 	"View your installer data.": "Bekijk uw installateursgegevens.",
-	"Year cannot be in the future": "Jaar kan niet in de toekomst liggen"
+	"Year cannot be in the future": "De jaarnotatie mag niet in de toekomst liggen"
 }
