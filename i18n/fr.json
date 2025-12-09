@@ -2772,5 +2772,7 @@
 	"Mange walktest reports": "Gérer les rapports de tests de déplacement",
 	"Create a new walktest and download the generated report.": "Créer un nouveau test de déplacement et télécharger le rapport généré.",
 	"Please resume to receive new data": "Veuillez reprendre pour recevoir de nouvelles données",
-	"The mail to the client will be sent to:": "L’e-mail au client sera envoyé à :"
+	"The mail to the client will be sent to:": "L’e-mail au client sera envoyé à :",
+	"Walktest paused": "Test de déplacement en pause",
+	"Walktest running": "Test de déplacement en cours"
 }

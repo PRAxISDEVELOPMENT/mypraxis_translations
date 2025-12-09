@@ -2772,5 +2772,7 @@
   "Mange walktest reports": "Looptestrapporten beheren",
   "Create a new walktest and download the generated report.": "Maak een nieuwe looptest aan en download het gegenereerde rapport.",
   "Please resume to receive new data": "Hervat om nieuwe gegevens te ontvangen",
-  "The mail to the client will be sent to:": "De e-mail naar de klant wordt verzonden naar:"
+  "The mail to the client will be sent to:": "De e-mail naar de klant wordt verzonden naar:",
+  "Walktest paused": "Looptest gepauzeerd",
+  "Walktest running": "Looptest actief"
 }
