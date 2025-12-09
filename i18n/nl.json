@@ -2765,5 +2765,12 @@
   "View the received zones.": "Bekijk alle ooit ontvangen meldingen van zones",
   "Generate a contract automatically using the details provided.": "Genereer automatisch een contract op basis van de opgegeven gegevens",
   "View your installer data.": "Bekijk uw installateursgegevens.",
-  "Year cannot be in the future": "De jaarnotatie mag niet in de toekomst liggen"
+  "Year cannot be in the future": "De jaarnotatie mag niet in de toekomst liggen",
+  "You are about to remove {{value}} file(s)": "U staat op het punt {{value}} bestand(en) te verwijderen",
+  "Delete file(s)": "Bestand(en) verwijderen",
+  "Manage and generate walktest reports.": "Beheer en genereer looptestrapporten.",
+  "Mange walktest reports": "Looptestrapporten beheren",
+  "Create a new walktest and download the generated report.": "Maak een nieuwe looptest aan en download het gegenereerde rapport.",
+  "Please resume to receive new data": "Hervat om nieuwe gegevens te ontvangen",
+  "The mail to the client will be sent to:": "De e-mail naar de klant wordt verzonden naar:"
 }
