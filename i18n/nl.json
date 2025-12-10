@@ -2562,9 +2562,8 @@
   "The billing method can only be modified by finance@praxis-group.eu": "De facturatiemethode kan alleen door finance@praxis-group.eu worden gewijzigd",
   "Start date/time": "Startdatum & -tijdstip",
   "End date/time": "Einddatum & -tijdstip",
-  "Welcome to MyPRAxIS": "Welkom op MyPRAxIS",
-  "Your professional access to our independent monitoring center. Manage alarms, customers and installations in one secure and efficient environment.": "Uw professionele toegang tot onze onafhankelijke meldkamer. Beheer alarmen, klanten en installaties in één veilige en efficiënte omgeving.",
-  "For installers": "Voor installateurs",
+  "Welcome to MyPRAxIS": "Welkom bij MyPRAxIS",
+  "Installer Acces": "Voor de installateur",
   "Manage customers and installations easily and efficiently within a single central platform.": "Beheer klanten en installaties eenvoudig en efficiënt binnen één centraal platform.",
   "For end customers": "Voor eindklanten",
   "Manage your own alarm system easily and efficiently within one central platform.": "Beheer uw eigen alarmsysteem eenvoudig en efficiënt binnen één centraal platform.",
@@ -2774,5 +2773,12 @@
   "Please resume to receive new data": "Hervat om nieuwe gegevens te ontvangen",
   "The mail to the client will be sent to:": "De e-mail naar de klant wordt verzonden naar:",
   "Walktest paused": "Looptest gepauzeerd",
-  "Walktest running": "Looptest actief"
+  "Walktest running": "Looptest actief",
+  "Your secure and efficient access to our independent Monitoring Centre, for professionals and end users. Manage your alarms, systems and customer and contact data.": "De veilige en efficiënte toegang tot onze onafhankelijke alarmcentrale, voor professionelen en eindgebruikers. Beheer uw alarmmeldingen, systemen en klanten- en contactgegevens.",
+  "Easily and efficiently manage your customers and installations within one central platform.": "Beheer op eenvoudige en efficiënte wijze uw klanten en installaties binnen één centraal platform.",
+  "End user acces": "Voor de eindgebruiker",
+  "Easily and efficiently manage your own alarm system(s) and its data within one central platform.": "Beheer op eenvoudige en efficiënte wijze uw eigen alarmsyste(e)m(en) en diens gegevens binnen één centraal platform.",
+  "Ready to go!": "We kunnen starten!",
+  "No account with MyPRAxIS yet? Apply for your access today at PRAxIS GROUP N.V.": "Nog geen account bij MyPRAxIS? Vraag je toegang nog vandaag aan bij PRAxIS GROUP N.V.",
+  "Sign in": "Meld je aan"
 }

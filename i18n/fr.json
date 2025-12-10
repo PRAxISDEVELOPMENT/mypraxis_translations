@@ -2562,9 +2562,8 @@
 	"The billing method can only be modified by finance@praxis-group.eu": "La méthode de facturation ne peut être modifiée que par finance@praxis-group.eu",
 	"Start date/time": "Date/heure de début",
 	"End date/time": "Date/heure de fin",
-	"Welcome to MyPRAxIS": "Bienvenue sur MyPRAxIS",
-	"Your professional access to our independent monitoring center. Manage alarms, customers and installations in one secure and efficient environment.": "Votre accès professionnel à notre centre de télésurveillance indépendant. Gérez vos alarmes, vos clients et vos installations dans un environnement sécurisé et efficace.",
-	"For installers": "Pour les installateurs",
+	"Welcome to MyPRAxIS": "Bienvenue chez MyPRAxIS",
+	"Installer Acces": "Pour l'installateur",
 	"Manage customers and installations easily and efficiently within a single central platform.": "Gérez facilement et efficacement vos clients et vos installations depuis une plateforme centrale unique.",
 	"For end customers": "Pour les clients finaux",
 	"Manage your own alarm system easily and efficiently within one central platform.": "Gérez facilement et efficacement votre propre système d’alarme depuis une plateforme centrale unique.",
@@ -2774,5 +2773,12 @@
 	"Please resume to receive new data": "Veuillez reprendre pour recevoir de nouvelles données",
 	"The mail to the client will be sent to:": "L’e-mail au client sera envoyé à :",
 	"Walktest paused": "Test de déplacement en pause",
-	"Walktest running": "Test de déplacement en cours"
+	"Walktest running": "Test de déplacement en cours",
+	"Your secure and efficient access to our independent Monitoring Centre, for professionals and end users. Manage your alarms, systems and customer and contact data.": "Accès sécurisé et efficace à notre centrale d'alarme indépendante, pour les professionnels et les utilisateurs finaux. Gérez vos alertes, vos systèmes et vos coordonnées clients et contacts.",
+	"Easily and efficiently manage your customers and installations within one central platform.": "Gérez facilement et efficacement vos clients et vos installations au sein d'une plateforme centrale unique.",
+	"End user acces": "Pour le client final",
+	"Easily and efficiently manage your own alarm system(s) and its data within one central platform.": "Gérez facilement et efficacement votre ou vos systèmes d'alarme et leurs données au sein d'une plateforme centrale unique.",
+	"Ready to go!": "Prêt à démarrer!",
+	"No account with MyPRAxIS yet? Apply for your access today at PRAxIS GROUP N.V.": "Vous n'avez pas encore de compte MyPRAxIS? Demandez votre accès dès aujourd'hui auprès de PRAxIS GROUP S.A.",
+	"Sign in": "Inscrivez-vous"
 }
