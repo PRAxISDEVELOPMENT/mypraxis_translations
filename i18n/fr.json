@@ -2802,5 +2802,6 @@
 	"Ready to go!": "Prêt à démarrer!",
 	"No account with MyPRAxIS yet? Apply for your access today at PRAxIS GROUP N.V.": "Vous n'avez pas encore de compte MyPRAxIS? Demandez votre accès dès aujourd'hui auprès de PRAxIS GROUP S.A.",
 	"Sign in": "Inscrivez-vous",
-	"Global contact": "Contact global"
+	"Global contact": "Contact global",
+	"When customising the assigned user access rights, always verify that all available fields are set to the desired status (manage / show / hide).": "Lors de la personnalisation des droits d’accès attribués, vérifiez toujours que tous les champs disponibles sont configurés avec le statut souhaité (gérer / afficher / masquer)."
 }

@@ -2802,5 +2802,6 @@
 	"Ready to go!": "We kunnen starten!",
 	"No account with MyPRAxIS yet? Apply for your access today at PRAxIS GROUP N.V.": "Nog geen account bij MyPRAxIS? Vraag je toegang nog vandaag aan bij PRAxIS GROUP N.V.",
 	"Sign in": "Meld je aan",
-	"Global contact": "Globaal contact"
+	"Global contact": "Globaal contact",
+	"When customising the assigned user access rights, always verify that all available fields are set to the desired status (manage / show / hide).": "Controleer bij het personaliseren van toegekende toegangsrechten altijd of alle beschikbare velden op de gewenste status (beheren/tonen/verbergen) ingesteld zijn."
 }
