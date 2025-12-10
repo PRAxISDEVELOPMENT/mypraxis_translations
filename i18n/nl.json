@@ -2349,7 +2349,7 @@
 	"Change exception": "Uitzondering wijzigen",
 	"{{value}} exception(s) deleted": "{{value}} uitzondering(en) verwijderd",
 	"You are about to delete {{value}} exception(s).": "U staat op het punt {{value}} uitzondering(en) te verwijderen.",
-	"Mark notifications": "Meldingen markeren",
+	"Mark notifications": "Events markeren",
 	"Mail to client": "Mail naar klant",
 	"Event marker(s) successfully removed": "Event markering(en) succesvol verwijderd",
 	"You are about to delete {{value}} event marker(s).": "U staat op het punt {{value}} Melding markering(en) te verwijderen.",
