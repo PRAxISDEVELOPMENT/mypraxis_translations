@@ -2803,5 +2803,7 @@
 	"No account with MyPRAxIS yet? Apply for your access today at PRAxIS GROUP N.V.": "Nog geen account bij MyPRAxIS? Vraag je toegang nog vandaag aan bij PRAxIS GROUP N.V.",
 	"Sign in": "Meld je aan",
 	"Global contact": "Globaal contact",
-	"When customising the assigned user access rights, always verify that all available fields are set to the desired status (manage / show / hide).": "Controleer bij het personaliseren van toegekende toegangsrechten altijd of alle beschikbare velden op de gewenste status (beheren/tonen/verbergen) ingesteld zijn."
+	"When customising the assigned user access rights, always verify that all available fields are set to the desired status (manage / show / hide).": "Controleer bij het personaliseren van toegekende toegangsrechten altijd of alle beschikbare velden op de gewenste status (beheren/tonen/verbergen) ingesteld zijn.",
+	"A client can only be activated if the full address is entered and there is at least one phone number in the call list.": "Een klant kan enkel worden geactiveerd indien het volledige adres is ingevuld én er minimum 1 oproepnummer in de bellijst staat.",
+	"A client can only be activated if PRAxIS has the remote monitoring contract.": "Een klant kan enkel worden geactiveerd indien PRAxIS beschikt over het telebewakingscontract."
 }
