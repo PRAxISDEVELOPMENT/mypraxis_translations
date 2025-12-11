@@ -2805,5 +2805,6 @@
 	"Global contact": "Contact global",
 	"When customising the assigned user access rights, always verify that all available fields are set to the desired status (manage / show / hide).": "Lors de la personnalisation des droits d’accès attribués, vérifiez toujours que tous les champs disponibles sont configurés avec le statut souhaité (gérer / afficher / masquer).",
 	"A client can only be activated if the full address is entered and there is at least one phone number in the call list.": "Un client ne peut être activé que si l’adresse complète est saisie et qu’il y a au moins un numéro de téléphone dans la liste d’appel.",
-	"A client can only be activated if PRAxIS has the remote monitoring contract.": "Un client ne peut être activé que si PRAxIS dispose du contrat de télésurveillance."
+	"A client can only be activated if PRAxIS has the remote monitoring contract.": "Un client ne peut être activé que si PRAxIS dispose du contrat de télésurveillance.",
+	"Allowed IP addresses": "Adresses IP autorisées"
 }
