@@ -2808,5 +2808,22 @@
 	"A client can only be activated if PRAxIS has the remote monitoring contract.": "Un client ne peut être activé que si PRAxIS dispose du contrat de télésurveillance.",
 	"Allowed IP addresses": "Adresses IP autorisées",
 	"Error protection": "Protection contre les erreurs",
-	"One or more IP addresses are invalid": "Une ou plusieurs adresses IP sont invalides"
+	"One or more IP addresses are invalid": "Une ou plusieurs adresses IP sont invalides",
+	"Add listen-in": "Ajouter une écoute",
+	"Set up multifactor authentication": "Configurer l’authentification multifacteur",
+	"Multifactor authentication": "Authentification multifacteur",
+	"Add an extra layer of security to your account using a one-time password via email verification or via an authenticator app.": "Ajoutez une couche de sécurité supplémentaire à votre compte à l’aide d’un mot de passe à usage unique via la vérification par e-mail ou une application d’authentification.",
+	"Set up email verification": "Configurer la vérification par e-mail",
+	"Set up authenticator app": "Configurer l’application d’authentification",
+	"Disable multifactor authentication": "Désactiver l’authentification multifacteur",
+	"Confirm your identity": "Confirmez votre identité",
+	"For security reasons, please confirm your password to continue.": "Pour des raisons de sécurité, veuillez confirmer votre mot de passe pour continuer.",
+	"Multifactor authentication via email is enabled on your account.": "L’authentification multifacteur par e-mail est activée sur votre compte.",
+	"Multifactor authentication via email is required. Please check your email and complete the verification.": "L’authentification multifacteur par e-mail est requise. Veuillez vérifier votre e-mail et compléter la vérification.",
+	"Multifactor authentication via an authenticator app is enabled on your account.": "L’authentification multifacteur via une application d’authentification est activée sur votre compte.",
+	"Multifactor authentication via an authenticator app is required. Please complete the setup to continue.": "L’authentification multifacteur via une application d’authentification est requise. Veuillez terminer la configuration pour continuer.",
+	"Multifactor validation enabled": "Validation multifacteur activée",
+	"Or enter this key manually": "Ou saisissez cette clé manuellement",
+	"Authenticator verification": "Vérification par application d’authentification",
+	"Open your authenticator app and enter the 6-digit verification code displayed to continue.": "Ouvrez votre application d’authentification et saisissez le code de vérification à 6 chiffres affiché pour continuer."
 }
