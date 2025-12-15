@@ -2825,5 +2825,7 @@
 	"Multifactor validation enabled": "Validation multifacteur activée",
 	"Or enter this key manually": "Ou saisissez cette clé manuellement",
 	"Authenticator verification": "Vérification par application d’authentification",
-	"Open your authenticator app and enter the 6-digit verification code displayed to continue.": "Ouvrez votre application d’authentification et saisissez le code de vérification à 6 chiffres affiché pour continuer."
+	"Open your authenticator app and enter the 6-digit verification code displayed to continue.": "Ouvrez votre application d’authentification et saisissez le code de vérification à 6 chiffres affiché pour continuer.",
+	"A verification code has been sent to your registered email address. Please enter the code below to proceed. If the email is not in your inbox, check your spam or junk folder.": "Un code de vérification a été envoyé à votre adresse e-mail enregistrée. Veuillez saisir le code ci-dessous pour continuer. Si l’e-mail ne se trouve pas dans votre boîte de réception, veuillez vérifier votre dossier spam ou courrier indésirable.",
+	"You can resend code in": "Vous pouvez renvoyer le code dans"
 }

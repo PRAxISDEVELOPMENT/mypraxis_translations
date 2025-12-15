@@ -2825,5 +2825,7 @@
 	"Multifactor validation enabled": "Multifactorauthenticatie geactiveerd",
 	"Or enter this key manually": "Of voer deze sleutel handmatig in",
 	"Authenticator verification": "Authenticator-verificatie",
-	"Open your authenticator app and enter the 6-digit verification code displayed to continue.": "Open uw authenticator-app en voer de weergegeven 6-cijferige verificatiecode in om verder te gaan."
+	"Open your authenticator app and enter the 6-digit verification code displayed to continue.": "Open uw authenticator-app en voer de weergegeven 6-cijferige verificatiecode in om verder te gaan.",
+	"A verification code has been sent to your registered email address. Please enter the code below to proceed. If the email is not in your inbox, check your spam or junk folder.": "Er is een verificatiecode verzonden naar uw geregistreerde e-mailadres. Voer de code hieronder in om verder te gaan. Controleer ook uw spam- of ongewenste e-mailmap als u het bericht niet in uw inbox ziet.",
+	"You can resend code in": "U kunt de code opnieuw verzenden over"
 }
