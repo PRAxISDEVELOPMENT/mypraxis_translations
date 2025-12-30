@@ -2830,5 +2830,9 @@
   "You can resend code in": "Vous pouvez renvoyer le code dans",
   "One or more fields contain errors.": "Un ou plusieurs champs contiennent des erreurs.",
   "Country of registration": "Pays d'immatriculation",
-  "Include manual zones": "Inclure les zones manuelles"
+  "Include manual zones": "Inclure les zones manuelles",
+  "Overview copied client": "Aperçu du client copié",
+  "Document types": "Types de documents",
+  "CSL modules must be ordered via": "Les modules CSL doivent être commandés via",
+  "And therefore cannot be created through our application. After placing an order, you will receive all the necessary information.": "Et ne peuvent donc pas être créés via notre application. Après la commande, vous recevrez toutes les informations nécessaires."
 }

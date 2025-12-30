@@ -1025,7 +1025,7 @@
   "Resume autolog": "Hervat autolog",
   "Pause autolog": "Pauzeer autolog",
   "Live autolog": "Live autolog",
-  "Autolog updates have been paused. Please resume to receive new data": "Autolog-updates zijn gepauzeerd. Hervat om nieuwe gegevens te ontvangen",
+  "Autolog updates have been paused. Please resume to receive new data": "Autolog-updates zijn gepauzeerd. Hervat om nieuwe events te ontvangen",
   "Client name: A - Z": "Klantnaam: A - Z",
   "Client name: Z - A": "Klantnaam: Z - A",
   "Date: New - Old": "Datum: Nieuw - Oud",
@@ -2830,5 +2830,9 @@
   "You can resend code in": "U kunt de code opnieuw verzenden over",
   "One or more fields contain errors.": "Een of meer velden bevatten fouten.",
   "Country of registration": "Land van inschrijving",
-  "Include manual zones": "Manueel ingegeven zones meenemen"
+  "Include manual zones": "Manueel ingegeven zones meenemen",
+  "Overview copied client": "Overzicht gekopieerde klant",
+  "Document types": "Documenttypes",
+  "CSL modules must be ordered via": "CSL-modules moeten besteld worden via",
+  "And therefore cannot be created through our application. After placing an order, you will receive all the necessary information.": "En kunnen daarom niet via onze applicatie aangemaakt worden. Na bestelling ontvangt u alle nodige informatie."
 }
