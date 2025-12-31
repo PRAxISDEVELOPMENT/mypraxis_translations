@@ -2835,5 +2835,7 @@
   "Document types": "Types de documents",
   "CSL modules must be ordered via": "Les modules CSL doivent être commandés via",
   "And therefore cannot be created through our application. After placing an order, you will receive all the necessary information.": "Et ne peuvent donc pas être créés via notre application. Après la commande, vous recevrez toutes les informations nécessaires.",
-  "Filter by central (dialer/communicator)": "Filtrer par centrale (transmetteur/communicateur)"
+  "Filter by central (dialer/communicator)": "Filtrer par centrale (transmetteur/communicateur)",
+  "The contract cannot be generated because the price details are missing": "Le contrat ne peut pas être généré car les détails de prix sont manquants",
+  "The contract cannot be generated because both the address details, the contact details and the price details are missing": "Le contrat ne peut pas être généré car les détails d'adresse, de contact et de prix sont manquants"
 }

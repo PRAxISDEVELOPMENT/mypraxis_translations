@@ -2835,5 +2835,7 @@
   "Document types": "Documenttypes",
   "CSL modules must be ordered via": "CSL-modules moeten besteld worden via",
   "And therefore cannot be created through our application. After placing an order, you will receive all the necessary information.": "En kunnen daarom niet via onze applicatie aangemaakt worden. Na bestelling ontvangt u alle nodige informatie.",
-  "Filter by central (dialer/communicator)": "Filteren op centrale (kiezer/communicator)"
+  "Filter by central (dialer/communicator)": "Filteren op centrale (kiezer/communicator)",
+  "The contract cannot be generated because the price details are missing": "Het contract kan niet gegenereerd worden omdat de prijsgegevens ontbreken",
+  "The contract cannot be generated because both the address details, the contact details and the price details are missing": "Het contract kan niet gegenereerd worden omdat zowel de adresgegevens, de contactgegevens als de prijsgegevens ontbreken"
 }
