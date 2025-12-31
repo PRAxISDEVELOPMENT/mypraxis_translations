@@ -2837,5 +2837,8 @@
   "And therefore cannot be created through our application. After placing an order, you will receive all the necessary information.": "En kunnen daarom niet via onze applicatie aangemaakt worden. Na bestelling ontvangt u alle nodige informatie.",
   "Filter by central (dialer/communicator)": "Filteren op centrale (kiezer/communicator)",
   "The contract cannot be generated because the price details are missing": "Het contract kan niet gegenereerd worden omdat de prijsgegevens ontbreken",
-  "The contract cannot be generated because both the address details, the contact details and the price details are missing": "Het contract kan niet gegenereerd worden omdat zowel de adresgegevens, de contactgegevens als de prijsgegevens ontbreken"
+  "The contract cannot be generated because both the address details, the contact details and the price details are missing": "Het contract kan niet gegenereerd worden omdat zowel de adresgegevens, de contactgegevens als de prijsgegevens ontbreken",
+  "Media library permission is required to access photos and videos": "Toestemming voor de mediabibliotheek is vereist om toegang te krijgen tot foto’s en video’s",
+  "Failed to request permissions": "Het aanvragen van toestemmingen is mislukt",
+  "Select media": "Media selecteren"
 }
