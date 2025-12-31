@@ -2834,5 +2834,6 @@
   "Overview copied client": "Overzicht gekopieerde klant",
   "Document types": "Documenttypes",
   "CSL modules must be ordered via": "CSL-modules moeten besteld worden via",
-  "And therefore cannot be created through our application. After placing an order, you will receive all the necessary information.": "En kunnen daarom niet via onze applicatie aangemaakt worden. Na bestelling ontvangt u alle nodige informatie."
+  "And therefore cannot be created through our application. After placing an order, you will receive all the necessary information.": "En kunnen daarom niet via onze applicatie aangemaakt worden. Na bestelling ontvangt u alle nodige informatie.",
+  "Filter by central (dialer/communicator)": "Filteren op centrale (kiezer/communicator)"
 }
