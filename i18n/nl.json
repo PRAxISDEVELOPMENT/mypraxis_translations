@@ -2841,5 +2841,7 @@
 	"Media library permission is required to access photos and videos": "Toestemming voor de mediabibliotheek is vereist om toegang te krijgen tot foto’s en video’s",
 	"Failed to request permissions": "Het aanvragen van toestemmingen is mislukt",
 	"Select media": "Media selecteren",
-	"No apps found": "Geen apps gevonden"
+	"No apps found": "Geen apps gevonden",
+	"Select all": "Alles selecteren",
+	"Deselect all": "Alles deselecteren"
 }

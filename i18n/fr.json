@@ -2841,5 +2841,7 @@
 	"Media library permission is required to access photos and videos": "L’autorisation d’accès à la bibliothèque multimédia est requise pour accéder aux photos et vidéos",
 	"Failed to request permissions": "Échec de la demande d’autorisation",
 	"Select media": "Sélectionner un média",
-	"No apps found": "Aucune application trouvée"
+	"No apps found": "Aucune application trouvée",
+	"Select all": "Tout sélectionner",
+	"Deselect all": "Tout désélectionner"
 }
