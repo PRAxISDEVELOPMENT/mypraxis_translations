@@ -2854,5 +2854,6 @@
 	"Enter the verification code sent to your email to activate 2FA.": "Voer de verificatiecode in die naar uw e-mail werd verstuurd om 2FA te activeren.",
 	"Setup required": "Instellen vereist",
 	"Enter the verification code sent to your Email to login.": "Voer de verificatiecode in die naar uw Email werd verstuurd om in te loggen.",
-	"Enter the generated temporary code to login.": "Voer de gegenereerde tijdelijke code in om in te loggen."
+	"Enter the generated temporary code to login.": "Voer de gegenereerde tijdelijke code in om in te loggen.",
+	"Change position": "Positie wijzigen"
 }
