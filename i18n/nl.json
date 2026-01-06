@@ -2846,5 +2846,6 @@
 	"Deselect all": "Alles deselecteren",
 	"Key copied": "Sleutel gekopieerd",
 	"Enable/disable multi-factor authentication via email": "Schakel de multi-factor authenticatie via e-mail in/uit",
-	"Enable/disable multi-factor authentication via authenticator app": "Schakel de multi-factor authenticatie via authenticator-app in/uit"
+	"Enable/disable multi-factor authentication via authenticator app": "Schakel de multi-factor authenticatie via authenticator-app in/uit",
+	"Scan the QR code or enter the secret key in your authenticator app, then enter the generated temporary code to activate 2FA.": "Scan het QR-code of voer de geheime sleutel in uw authenticator-app, voer daarna de gegenereerde tijdelijke code in om 2FA te activeren."
 }
