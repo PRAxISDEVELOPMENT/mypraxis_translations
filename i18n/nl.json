@@ -2844,5 +2844,7 @@
 	"No apps found": "Geen apps gevonden",
 	"Select all": "Alles selecteren",
 	"Deselect all": "Alles deselecteren",
-	"Key copied": "Sleutel gekopieerd"
+	"Key copied": "Sleutel gekopieerd",
+	"Enable/disable multi-factor authentication via email": "Schakel de multi-factor authenticatie via e-mail in/uit",
+	"Enable/disable multi-factor authentication via authenticator app": "Schakel de multi-factor authenticatie via authenticator-app in/uit"
 }
