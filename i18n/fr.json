@@ -2850,5 +2850,6 @@
 	"Scan the QR code or enter the secret key in your authenticator app, then enter the generated temporary code to activate 2FA.": "Scannez le code QR ou saisissez la clé secrete dans votre application d'authentification, puis saisissez le code temporaire généré pour activer la 2FA.",
 	"Cancel authentication setup": "Annuler l'installation d'authentification",
 	"You are about to disable two-step verification. This may reduce the security of your account.": "Vous vous appretez à désactiver la verification en deux étapes. Ceci pourrait diminuer la sécurité de votre compte.",
-	"Multifactor disabled": "Authentification multifacteur desactivée"
+	"Multifactor disabled": "Authentification multifacteur desactivée",
+	"Enter the verification code sent to your Email to activate 2FA.": "Saisissez le code de verification envoyé sur votre Email pour activer la 2FA."
 }
