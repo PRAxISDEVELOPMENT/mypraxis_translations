@@ -2851,5 +2851,6 @@
 	"Cancel authentication setup": "Authenticatie-installatie annuleren",
 	"You are about to disable two-step verification. This may reduce the security of your account.": "U staat op het punt om de tweestapsverificatie uit te schakelen. Dit kan de veiligheid van uw account verminderen.",
 	"Multifactor disabled": "Multi-factor uitschakeld",
-	"Enter the verification code sent to your Email to activate 2FA.": "Voer de verificatiecode in die naar uw e-mail werd verstuurd om 2FA te activeren."
+	"Enter the verification code sent to your Email to activate 2FA.": "Voer de verificatiecode in die naar uw e-mail werd verstuurd om 2FA te activeren.",
+	"Setup required": "Instellen vereist"
 }

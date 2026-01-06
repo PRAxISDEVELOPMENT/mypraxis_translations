@@ -2851,5 +2851,6 @@
 	"Cancel authentication setup": "Annuler l'installation d'authentification",
 	"You are about to disable two-step verification. This may reduce the security of your account.": "Vous vous appretez à désactiver la verification en deux étapes. Ceci pourrait diminuer la sécurité de votre compte.",
 	"Multifactor disabled": "Authentification multifacteur desactivée",
-	"Enter the verification code sent to your Email to activate 2FA.": "Saisissez le code de verification envoyé sur votre Email pour activer la 2FA."
+	"Enter the verification code sent to your Email to activate 2FA.": "Saisissez le code de verification envoyé sur votre Email pour activer la 2FA.",
+	"Setup required": "Configuration requise"
 }
