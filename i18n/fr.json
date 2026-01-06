@@ -2847,5 +2847,6 @@
 	"Key copied": "Clé copiée",
 	"Enable/disable multi-factor authentication via email": "Activer/désactiver l'authentification multifactorielle via e-mail",
 	"Enable/disable multi-factor authentication via authenticator app": "Activer/désactiver l'authentification multifactorielle via application d'authentification",
-	"Scan the QR code or enter the secret key in your authenticator app, then enter the generated temporary code to activate 2FA.": "Scannez le code QR ou saisissez la clé secrete dans votre application d'authentification, puis saisissez le code temporaire généré pour activer la 2FA."
+	"Scan the QR code or enter the secret key in your authenticator app, then enter the generated temporary code to activate 2FA.": "Scannez le code QR ou saisissez la clé secrete dans votre application d'authentification, puis saisissez le code temporaire généré pour activer la 2FA.",
+	"Cancel authentication setup": "Annuler l'installation d'authentification"
 }
