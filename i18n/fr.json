@@ -2855,5 +2855,6 @@
 	"Setup required": "Configuration requise",
 	"Enter the verification code sent to your Email to login.": "Saisissez le code de verification envoyé sur votre Email pour vous connecter.",
 	"Enter the generated temporary code to login.": "Saisissez le code temporaire généré pour vous connecter.",
-	"Change position": "Modifier la position"
+	"Change position": "Modifier la position",
+	"Or copy this key using the icon next to the key": "Ou copiez cette clé à l’aide de l’icône à côté de la clé"
 }
