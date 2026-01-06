@@ -2744,7 +2744,7 @@
 	"The system can only be put into test (partially or fully) when the customer is active.": "Le système ne peut être mis à l'essai (partiellement ou totalement) que lorsque le client est actif.",
 	"Notifications are currently blocked in your browser.": "Les notifications sont actuellement bloquées dans votre navigateur.",
 	"Click the bell icon in the address bar and enable notifications for this site to receive all alerts and updates correctly.": "Cliquez sur l’icône de la cloche dans la barre d’adresse et activez les notifications pour ce site afin de recevoir correctement tous les avertissements et mises à jour.",
-	"The customer was set to no polling, yet we have still received polling signals within the past hour.": "Le client a été configuré pour aucun polling, mais nous avons quand mâme reçu des signaux de polling dans la dernière heure.",
+	"For this customer, you didn’t define any Polling frequency has been selected in MyPRAxIS. However, we detected one or more polling signals during the last hour. Please select the correct polling frequency in MyPRAxIS under [Client info] > [Installation data] or disable the function Polling in the control panel (communicator).": "Pour ce client, Vous n’avez sélectionné aucune fréquence de Polling n’a été sélectionnée dans le MyPRAxIS. Cependant, nous avons détecté un ou plusieurs signaux de Polling au cours de la dernière heure. Veuillez sélectionner la fréquence de Polling correcte dans MyPRAxIS sous [Info sur le client] > [Données d’installation] ou désactivez la fonction Polling dans la centrale (communicateur).",
 	"Consumption index": "Indice de consommation",
 	"Fixed anunual index (1%)": "Indice annuel fixe (1%)",
 	"Index type": "Type d'indice",
