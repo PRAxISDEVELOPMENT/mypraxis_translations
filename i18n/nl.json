@@ -2849,5 +2849,6 @@
 	"Enable/disable multi-factor authentication via authenticator app": "Schakel de multi-factor authenticatie via authenticator-app in/uit",
 	"Scan the QR code or enter the secret key in your authenticator app, then enter the generated temporary code to activate 2FA.": "Scan het QR-code of voer de geheime sleutel in uw authenticator-app, voer daarna de gegenereerde tijdelijke code in om 2FA te activeren.",
 	"Cancel authentication setup": "Authenticatie-installatie annuleren",
-	"You are about to disable two-step verification. This may reduce the security of your account.": "U staat op het punt om de tweestapsverificatie uit te schakelen. Dit kan de veiligheid van uw account verminderen."
+	"You are about to disable two-step verification. This may reduce the security of your account.": "U staat op het punt om de tweestapsverificatie uit te schakelen. Dit kan de veiligheid van uw account verminderen.",
+	"Multifactor disabled": "Multi-factor uitschakeld"
 }
