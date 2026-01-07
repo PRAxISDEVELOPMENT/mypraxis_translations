@@ -2858,5 +2858,6 @@
 	"Change position": "Positie wijzigen",
 	"Or copy this key using the icon next to the key": "Of kopieer deze sleutel via het icoon ernaast",
 	"Use installation address": "Gebruik installatieadres",
-	"User has been logged out": "Gebruiker is uitgelogd"
+	"User has been logged out": "Gebruiker is uitgelogd",
+	"You are about to log out {{value}}.": "U staat op het punt om {{value}} uit te loggen."
 }

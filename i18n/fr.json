@@ -2858,5 +2858,6 @@
 	"Change position": "Modifier la position",
 	"Or copy this key using the icon next to the key": "Ou copiez cette clé à l’aide de l’icône à côté de la clé",
 	"Use installation address": "Utiliser l'adresse d'installation",
-	"User has been logged out": "L'utilisateur a été déconnecté"
+	"User has been logged out": "L'utilisateur a été déconnecté",
+	"You are about to log out {{value}}.": "Vous vous appretez à vous deconnecter {{value}}."
 }
