@@ -2861,5 +2861,6 @@
 	"User has been logged out": "Gebruiker is uitgelogd",
 	"You are about to log out {{value}}.": "U staat op het punt om {{value}} uit te loggen.",
 	"No special characters allowed": "Geen speciale tekens toegestaan",
-	"Guard duty uses calendar": "Wachtdienst gebruikt kalender"
+	"Guard duty uses calendar": "Wachtdienst gebruikt kalender",
+	"Determines whether contacts are displayed based on the calendar.": "Bepaalt of contacten worden weergegeven op basis van de kalender."
 }
