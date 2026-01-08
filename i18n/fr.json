@@ -2867,5 +2867,6 @@
 	"Disabling this preference will remove all calendar and group data.": "La desactivation de cette préférence supprimera toutes les données de calendrier et de groupe.",
 	"Calendar preferences": "Préférences du calendrier",
 	"Guard duty calendar preference changed": "Préférence de calendrier du service de permanence modifiée",
-	"Comment category": "Catégorie de commentaire"
+	"Comment category": "Catégorie de commentaire",
+	"Commentcategories": "Catégories de commentaires"
 }
