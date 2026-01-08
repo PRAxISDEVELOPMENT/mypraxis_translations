@@ -2860,5 +2860,6 @@
 	"Use installation address": "Gebruik installatieadres",
 	"User has been logged out": "Gebruiker is uitgelogd",
 	"You are about to log out {{value}}.": "U staat op het punt om {{value}} uit te loggen.",
-	"No special characters allowed": "Geen speciale tekens toegestaan"
+	"No special characters allowed": "Geen speciale tekens toegestaan",
+	"Guard duty uses calendar": "Wachtdienst gebruikt kalender"
 }

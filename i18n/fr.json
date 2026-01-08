@@ -2860,5 +2860,6 @@
 	"Use installation address": "Utiliser l'adresse d'installation",
 	"User has been logged out": "L'utilisateur a été déconnecté",
 	"You are about to log out {{value}}.": "Vous vous appretez à vous deconnecter {{value}}.",
-	"No special characters allowed": "Aucun caractère spécial n'est autorisé"
+	"No special characters allowed": "Aucun caractère spécial n'est autorisé",
+	"Guard duty uses calendar": "Service de permanence utilise le calendrier"
 }
