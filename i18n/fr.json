@@ -2862,5 +2862,6 @@
 	"You are about to log out {{value}}.": "Vous vous appretez à vous deconnecter {{value}}.",
 	"No special characters allowed": "Aucun caractère spécial n'est autorisé",
 	"Guard duty uses calendar": "Service de permanence utilise le calendrier",
-	"Determines whether contacts are displayed based on the calendar.": "Détermine si les contacts sont affichés en fonction du calendrier."
+	"Determines whether contacts are displayed based on the calendar.": "Détermine si les contacts sont affichés en fonction du calendrier.",
+	"Change calendar preferences": "Modifier les préférences du calendrier"
 }
