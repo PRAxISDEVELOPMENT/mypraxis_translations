@@ -175,6 +175,7 @@
 	"Basic price": "Prix de base",
 	"Indexed prices": "Prix indexés",
 	"Assign for": "Attribuer à",
+	"Client number (primair | back-up)": "Numéro client (principal | de secours)",
 	"Add exception": "Ajouter une exception",
 	"Exceptions": "Exceptions",
 	"Manage exceptions": "Gérer les exceptions",
@@ -2870,5 +2871,10 @@
 	"Comment category": "Catégorie de commentaire",
 	"Commentcategories": "Catégories de commentaires",
 	"Excluded clients": "Clients exclu",
-	"Open/close report" : "Rapport x"
+	"Open/close report": "Rapport x",
+	"Complete the required steps to create a new client": "Veuillez compléter les étapes requises pour créer un nouveau client",
+	"Location permission is required to use your current address": "L’autorisation de localisation est requise pour utiliser votre adresse actuelle",
+	"Please enable Location Services to use your current address": "Veuillez activer les services de localisation pour utiliser votre adresse actuelle",
+	"Unable to retrieve your current location": "Impossible de récupérer votre position actuelle",
+	"Created client": "Client créé"
 }

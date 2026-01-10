@@ -2871,5 +2871,10 @@
 	"Comment category": "Commentaarcategorie",
 	"Commentcategories": "Commentaar Categorieën",
 	"Excluded clients": "Uitgesloten klanten",
-	"Open/close report" : "Rapport in- en uitschakelingen"
+	"Open/close report": "Rapport in- en uitschakelingen",
+	"Complete the required steps to create a new client": "Voltooi de vereiste stappen om een nieuwe klant aan te maken",
+	"Location permission is required to use your current address": "Locatietoestemming is vereist om uw huidige adres te gebruiken",
+	"Please enable Location Services to use your current address": "Schakel locatiediensten in om uw huidige adres te gebruiken",
+	"Unable to retrieve your current location": "Kan uw huidige locatie niet ophalen",
+	"Created client": "Aangemaakte klant"
 }
