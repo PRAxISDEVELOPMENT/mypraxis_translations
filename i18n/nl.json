@@ -2879,5 +2879,6 @@
 	"Created client": "Aangemaakte klant",
 	"Extra info(s) deleted": "Extra info(s) verwijderd",
 	"You are about to delete {{value}} extra info(s).": "U staat op het punt om {{value}} extra info(s) te verwijderen.",
-	"Excluded customers": "Uitgesloten klanten"
+	"Excluded customers": "Uitgesloten klanten",
+	"Change extra info": "Wijzig extra info"
 }

@@ -2879,5 +2879,6 @@
 	"Created client": "Client créé",
 	"Extra info(s) deleted": "Info(s) supplémentaire(s) supprimée(s)",
 	"You are about to delete {{value}} extra info(s).": "Vous êtes sur le point de supprimer {{value}} info(s) supplémentaire(s).",
-	"Excluded customers": "Clients exclu"
+	"Excluded customers": "Clients exclu",
+	"Change extra info": "Modifier info supplémentaire"
 }
