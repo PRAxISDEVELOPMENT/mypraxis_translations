@@ -2876,5 +2876,6 @@
 	"Location permission is required to use your current address": "Locatietoestemming is vereist om uw huidige adres te gebruiken",
 	"Please enable Location Services to use your current address": "Schakel locatiediensten in om uw huidige adres te gebruiken",
 	"Unable to retrieve your current location": "Kan uw huidige locatie niet ophalen",
-	"Created client": "Aangemaakte klant"
+	"Created client": "Aangemaakte klant",
+	"Extra info(s) deleted": "Extra info(s) verwijderd"
 }

@@ -2876,5 +2876,6 @@
 	"Location permission is required to use your current address": "L’autorisation de localisation est requise pour utiliser votre adresse actuelle",
 	"Please enable Location Services to use your current address": "Veuillez activer les services de localisation pour utiliser votre adresse actuelle",
 	"Unable to retrieve your current location": "Impossible de récupérer votre position actuelle",
-	"Created client": "Client créé"
+	"Created client": "Client créé",
+	"Extra info(s) deleted": "Info(s) supplémentaire(s) supprimée(s)"
 }
