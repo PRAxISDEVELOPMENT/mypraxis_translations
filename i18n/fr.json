@@ -2878,5 +2878,5 @@
 	"Unable to retrieve your current location": "Impossible de récupérer votre position actuelle",
 	"Created client": "Client créé",
 	"Extra info(s) deleted": "Info(s) supplémentaire(s) supprimée(s)",
-	"You are about to delete Extra info: {{value}}.": "Vous êtes sur le point de supprimer l'info supplémentaire : {{value}}."
+	"You are about to delete extra info: {{value}}.": "Vous êtes sur le point de supprimer l'info supplémentaire : {{value}}."
 }
