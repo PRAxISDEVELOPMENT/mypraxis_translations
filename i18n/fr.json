@@ -2877,5 +2877,6 @@
 	"Please enable Location Services to use your current address": "Veuillez activer les services de localisation pour utiliser votre adresse actuelle",
 	"Unable to retrieve your current location": "Impossible de récupérer votre position actuelle",
 	"Created client": "Client créé",
-	"Extra info(s) deleted": "Info(s) supplémentaire(s) supprimée(s)"
+	"Extra info(s) deleted": "Info(s) supplémentaire(s) supprimée(s)",
+	"You are about to delete Extera info: {{value}}.": "Vous êtes sur le point de supprimer l'info supplémentaire : {{value}}."
 }
