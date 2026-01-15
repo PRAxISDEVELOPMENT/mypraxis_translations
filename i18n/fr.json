@@ -2884,5 +2884,6 @@
 	"This service is not enabled for the selected guard duty.": "Ce service n'est pas activé pour le service de permanence sélectionné.",
 	"Enable this service in the guard duty configuration to make it available here.": "Activer ce service dans la configuration du service de permanence pour le rendre disponible ici.",
 	"This setting can be found under the guard duty -> organization --> preferences.": "Ce paramètre se trouve sous le service de permanence -> organisation --> préférences.",
-	"Changing this setting may affect the current operation of the guard duty.": "Le changement de ce paramètre pourrait avoir une incidence sur l'opération actuelle du service de permanence."
+	"Changing this setting may affect the current operation of the guard duty.": "Le changement de ce paramètre pourrait avoir une incidence sur l'opération actuelle du service de permanence.",
+	"Periodic reports": "Rapports périodiques"
 }
