@@ -2886,5 +2886,6 @@
 	"This setting can be found under the guard duty -> organization --> preferences.": "Ce paramètre se trouve sous le service de permanence -> organisation --> préférences.",
 	"Changing this setting may affect the current operation of the guard duty.": "Le changement de ce paramètre pourrait avoir une incidence sur l'opération actuelle du service de permanence.",
 	"Periodic reports": "Rapports périodiques",
-	"Periodic report added": "Rapport périodique ajouté"
+	"Periodic report added": "Rapport périodique ajouté",
+	"The Periodic Report has been deleted": "Le rapport périodique a été supprimé"
 }
