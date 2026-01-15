@@ -2885,5 +2885,6 @@
 	"Enable this service in the guard duty configuration to make it available here.": "Schakel deze dienst in via de configuratie van de wachtdienst om deze hier beschikbaar te maken.",
 	"This setting can be found under the guard duty -> organization --> preferences.": "Deze instelling is te vinden onder de wachtdienst --> organisatie --> voorkeuren.",
 	"Changing this setting may affect the current operation of the guard duty.": "Het wijzigen van deze instelling kan gevolgen hebben voor de huidige werking van de wachtdienst.",
-	"Periodic reports": "Periodieke rapporten"
+	"Periodic reports": "Periodieke rapporten",
+	"Periodic report added": "Periodiek rapport toegevoegd"
 }
