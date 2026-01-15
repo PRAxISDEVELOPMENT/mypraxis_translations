@@ -2887,5 +2887,6 @@
 	"Changing this setting may affect the current operation of the guard duty.": "Le changement de ce paramètre pourrait avoir une incidence sur l'opération actuelle du service de permanence.",
 	"Periodic reports": "Rapports périodiques",
 	"Periodic report added": "Rapport périodique ajouté",
-	"The Periodic Report has been deleted": "Le rapport périodique a été supprimé"
+	"The Periodic Report has been deleted": "Le rapport périodique a été supprimé",
+	"You are about to delete a periodic report.": "Vous vous appretez à supprimer un rapport périodique."
 }

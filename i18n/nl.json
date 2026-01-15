@@ -2887,5 +2887,6 @@
 	"Changing this setting may affect the current operation of the guard duty.": "Het wijzigen van deze instelling kan gevolgen hebben voor de huidige werking van de wachtdienst.",
 	"Periodic reports": "Periodieke rapporten",
 	"Periodic report added": "Periodiek rapport toegevoegd",
-	"The Periodic Report has been deleted": "Het periodiek rapport is verwijderd"
+	"The Periodic Report has been deleted": "Het periodiek rapport is verwijderd",
+	"You are about to delete a periodic report.": "U staat op het punt om een periodiek rapport te verwijderen."
 }
