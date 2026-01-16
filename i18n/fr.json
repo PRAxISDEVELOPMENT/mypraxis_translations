@@ -2889,5 +2889,6 @@
 	"Periodic report added": "Rapport périodique ajouté",
 	"The Periodic Report has been deleted": "Le rapport périodique a été supprimé",
 	"You are about to delete a periodic report.": "Vous vous appretez à supprimer un rapport périodique.",
-	"Periodic reports are provided as a paid service. Any addition of a periodic report may result in additional charges.": "Les rapports périodiques sont fournis comme un service payant. Toute ajout d'un rapport périodique pourrait engendrer des frais supplémentaires."
+	"Periodic reports are provided as a paid service. Any addition of a periodic report may result in additional charges.": "Les rapports périodiques sont fournis comme un service payant. Toute ajout d'un rapport périodique pourrait engendrer des frais supplémentaires.",
+	"The contract cannot be generated because both the contact details and the price details are missing": "Le contrat ne peut pas être généré car les détails de contact et de prix sont manquants tous les deux."
 }
