@@ -2899,5 +2899,6 @@
 	"I hereby confirm that I agree to disabling billing details and prices on PRAxIS contracts.": "Ik bevestig hierbij dat ik akkoord ga met het uitschakelen van facturatiegegevens en prijzen op PRAxIS contracten.",
 	"You are about to make the billing details an prices visible on PRAxIS contracts.": "U staat op het punt de facturatiegegevens en prijzen op PRAxIS contracten zichtbaar te maken.",
 	"Enable billing details and pricing on contracts": "Facturatiegegevens en prijzen inschakelen op contracten",
-	"Disable billing details and pricing on contracts": "Facturatiegegevens en prijzen uitschakelen op contracten"
+	"Disable billing details and pricing on contracts": "Facturatiegegevens en prijzen uitschakelen op contracten",
+	"The contract cannot be generated because both the address details and the price details are missing": "Het contract kan niet worden gegenereerd omdat zowel de adresgegevens als de prijsgegevens ontbreken"
 }
