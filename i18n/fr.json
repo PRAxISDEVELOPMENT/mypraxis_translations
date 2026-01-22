@@ -2900,5 +2900,8 @@
 	"You are about to make the billing details an prices visible on PRAxIS contracts.": "Vous vous appretez à rendre les informations de facturation et les prix visibles sur les contrats PRAxIS.",
 	"Enable billing details and pricing on contracts": "Activer les informations de facturation et les prix sur les contrats",
 	"Disable billing details and pricing on contracts": "Désactiver les informations de facturation et les prix sur les contrats",
-	"The contract cannot be generated because both the address details and the price details are missing": "Le contrat ne peut pas être généré car les informations d’adresse et les informations de prix sont manquantes"
+	"The contract cannot be generated because both the address details and the price details are missing": "Le contrat ne peut pas être généré car les informations d’adresse et les informations de prix sont manquantes",
+	"Daily email": "E-mail quotidien",
+	"Automated emails": "E-mails automatisés",
+	"Various": "Divers"
 }
