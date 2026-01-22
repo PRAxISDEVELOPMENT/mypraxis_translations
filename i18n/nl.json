@@ -2897,5 +2897,7 @@
 	"Enabling this slider allows you to enter billing details and pricing on the contract": "Het activeren van deze slider zorgt er voor dat u de facturatiegegevens en prijzen op het contract kan invullen",
 	"Disabling this option will prevent billing details and prices from being shown on PRAxIS contracts.": "Het uitschakelen van deze optie voorkomt dat facturatiegegevens en prijzen op PRAxIS contracten worden weergegeven.",
 	"I hereby confirm that I agree to disabling billing details and prices on PRAxIS contracts.": "Ik bevestig hierbij dat ik akkoord ga met het uitschakelen van facturatiegegevens en prijzen op PRAxIS contracten.",
-	"You are about to make the billing details an prices visible on PRAxIS contracts.": "U staat op het punt de facturatiegegevens en prijzen op PRAxIS contracten zichtbaar te maken."
+	"You are about to make the billing details an prices visible on PRAxIS contracts.": "U staat op het punt de facturatiegegevens en prijzen op PRAxIS contracten zichtbaar te maken.",
+	"Enable billing details and pricing on contracts": "Facturatiegegevens en prijzen inschakelen op contracten",
+	"Disable billing details and pricing on contracts": "Facturatiegegevens en prijzen uitschakelen op contracten"
 }
