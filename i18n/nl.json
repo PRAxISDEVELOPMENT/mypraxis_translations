@@ -2901,7 +2901,5 @@
 	"Enable billing details and pricing on contracts": "Facturatiegegevens en prijzen inschakelen op contracten",
 	"Disable billing details and pricing on contracts": "Facturatiegegevens en prijzen uitschakelen op contracten",
 	"The contract cannot be generated because both the address details and the price details are missing": "Het contract kan niet worden gegenereerd omdat zowel de adresgegevens als de prijsgegevens ontbreken",
-	"Daily email": "Dagelijkse e-mail",
-	"Automated emails": "Geautomatiseerde e-mails",
 	"Various": "Diverse"
 }
