@@ -2898,6 +2898,6 @@
 	"Disabling this option will prevent billing details and prices from being shown on PRAxIS contracts.": "La desactivation de cette option empeche l'affichage des informations de facturation et des prix sur les contrats PRAxIS.",
 	"I hereby confirm that I agree to disabling billing details and prices on PRAxIS contracts.": "Je confirme par la presente que j'accepte d'enlever les informations de facturation et les prix sur les contrats PRAxIS.",
 	"You are about to make the billing details an prices visible on PRAxIS contracts.": "Vous vous appretez à rendre les informations de facturation et les prix visibles sur les contrats PRAxIS.",
-	"Enable billing details and pricing on contracts": "Facturatiegegevens en prijzen inschakelen op contracten",
-	"Disable billing details and pricing on contracts": "Facturatiegegevens en prijzen uitschakelen op contracten"
+	"Enable billing details and pricing on contracts": "Activer les informations de facturation et les prix sur les contrats",
+	"Disable billing details and pricing on contracts": "Désactiver les informations de facturation et les prix sur les contrats"
 }
