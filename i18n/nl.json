@@ -2892,5 +2892,6 @@
 	"Periodic reports are provided as a paid service. Any addition of a periodic report may result in additional charges.": "Periodieke rapporten worden aangeboden als een betaalde dienst. Elke toevoeging van een periodiek rapport zal resulteren in extra kosten.",
 	"The contract cannot be generated because both the contact details and the price details are missing": "Het contract kan niet gegenereerd worden omdat zowel de contactgegevens als de prijsgegevens ontbreken",
 	"This version is no longer supported. Please update to the latest version to continue using the application.": "Deze versie wordt niet langer ondersteund. Werk de app bij naar de nieuwste versie om de applicatie te blijven gebruiken.",
-	"Update": "Bijwerken"
+	"Update": "Bijwerken",
+	"Make billing details and pricing visible on the monitoring contract": "Facturatiegegevens en prijzen zichtbaar maken op het telebewakingscontract"
 }
