@@ -2901,5 +2901,6 @@
 	"Enable billing details and pricing on contracts": "Activer les informations de facturation et les prix sur les contrats",
 	"Disable billing details and pricing on contracts": "Désactiver les informations de facturation et les prix sur les contrats",
 	"The contract cannot be generated because both the address details and the price details are missing": "Le contrat ne peut pas être généré car les informations d’adresse et les informations de prix sont manquantes",
-	"Various": "Divers"
+	"Various": "Divers",
+	"Date cannot be more than 1 years in the future": "La date ne peut pas être supérieure à un an dans le futur"
 }
