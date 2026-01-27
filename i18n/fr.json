@@ -2904,5 +2904,8 @@
 	"Various": "Divers",
 	"Date cannot be more than 1 years in the future": "La date ne peut pas être supérieure à un an dans le futur",
 	"Illnesses": "Maladie",
-	"Vacation": "Congé"
+	"Vacation": "Congé",
+	"Click on the “View site information” icon to the left of the URL in the address bar.": "Cliquez sur l’icône « Afficher les informations du site » à gauche de l’URL dans la barre d’adresse.",
+	"Turn on the notifications toggle to allow alerts and updates.": "Activez le bouton des notifications afin d’autoriser les alertes et les mises à jour.",
+	"This user does not yet have an account for the application. Account requests can only be made via the web portal.": "Cet utilisateur n’a pas encore de compte pour l’application. Les demandes de compte ne peuvent être effectuées que via le portail web."
 }
