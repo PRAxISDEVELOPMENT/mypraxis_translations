@@ -9,7 +9,6 @@
 	"Host": "Host",
 	"Innovaphone Call": "Innovaphone oproep",
 	"Postman": "Postman",
-	"Unit tester": "Unittester",
 	"PRAxIS Auto": "PRAxIS Auto",
 	"PRAxIS Mail": "PRAxIS Mail",
 	"PRAxIS V3": "PRAxIS V3",
@@ -2917,5 +2916,12 @@
 	"Network error": "Netwerkfout",
 	"Display preferences": "Weergavevoorkeuren",
 	"Live events": "Live events",
-	"Notifications active clients": "Meldingen door actieve klanten"
+	"Notifications active clients": "Meldingen door actieve klanten",
+	"Telephone exchange": "Telefooncentrale",
+	"Unit tester": "Unit tester",
+	"MyPRAxIS Automatic": "MyPRAxIS Automatisch",
+	"PRAxIS Facturation": "PRAxIS Facturatie",
+	"PRAxIS Receiver": "PRAxIS Ontvanger",
+	"PRAxIS Sollicitation": "PRAxIS Sollicitatie",
+	"PRAxIS Backgroundworker": "PRAxIS Achtergrondwerker"
 }
