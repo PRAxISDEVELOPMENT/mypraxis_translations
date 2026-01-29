@@ -2907,5 +2907,15 @@
 	"Vacation": "Vakantie",
 	"Click on the “View site information” icon to the left of the URL in the address bar.": "Klik op het icoon “Sitegegevens bekijken” links van de URL in de adresbalk.",
 	"Turn on the notifications toggle to allow alerts and updates.": "Zet de slider van de meldingen aan waardoor waarschuwingen en updates worden toegestaan.",
-	"This user does not yet have an account for the application. Account requests can only be made via the web portal.": "Deze gebruiker heeft nog geen account voor de applicatie. Accountaanvragen kunnen alleen via het webportaal worden gedaan."
+	"This user does not yet have an account for the application. Account requests can only be made via the web portal.": "Deze gebruiker heeft nog geen account voor de applicatie. Accountaanvragen kunnen alleen via het webportaal worden gedaan.",
+	"The address details": "De adresgegevens",
+	"The contact details": "De contactgegevens",
+	"The price details": "De prijsgegevens",
+	"The contract cannot be generated due to missing required information: {{values}}": "Het contract kan niet worden gegenereerd wegens ontbrekende vereiste informatie: {{values}}",
+	"Request timed out": "De aanvraag is verlopen",
+	"No internet connection": "Geen internetverbinding",
+	"Network error": "Netwerkfout",
+	"Display preferences": "Weergavevoorkeuren",
+	"Live events": "Live events",
+	"Notifications active clients": "Meldingen door actieve klanten"
 }
