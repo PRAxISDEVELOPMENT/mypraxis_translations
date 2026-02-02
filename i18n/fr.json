@@ -2942,5 +2942,6 @@
 	"Fill in and update billing details and pricing": "Saisir et modifier les données de facturation et les prix",
 	"Enabling this toggle allows you to fill in and edit the fields on the “Billing details” tab. All of this information will also automatically appear on generated telemonitoring contracts": "L’activation de ce curseur permet de saisir et de modifier les champs de l’onglet « Données de facturation ». Toutes ces informations apparaîtront également automatiquement sur les contrats de télésurveillance générés.",
 	"Monday": "Lundi",
-	"Indexed unit price": "Prix unitaire indexé"
+	"Indexed unit price": "Prix unitaire indexé",
+	"Indexed total price": "Prix total indexé"
 }
