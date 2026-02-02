@@ -2941,5 +2941,6 @@
 	"Comment types": "Commentaartypes",
 	"Fill in and update billing details and pricing": "Facturatiegegevens en prijzen invullen en wijzigen",
 	"Enabling this toggle allows you to fill in and edit the fields on the “Billing details” tab. All of this information will also automatically appear on generated telemonitoring contracts": "Het activeren van deze slider zorgt er voor dat u de velden op het tabblad “Facturatiegegevens” kan invullen en wijzigen. Al deze gegevens zullen ook automatisch verschijnen op gegenereerde telebewakingscontracten",
-	"Monday": "Maandag"
+	"Monday": "Maandag",
+	"Indexed unit price": "Geïndexeerde eenheidsprijs"
 }
