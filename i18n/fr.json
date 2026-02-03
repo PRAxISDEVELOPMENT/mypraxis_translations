@@ -530,7 +530,7 @@
 	"Max. {{value}} characters allowed": "Max. {{value}} caractères autorisés",
 	"Min. {{value}} characters": "Min. {{value}} caractères",
 	"Min. {{value}} value": "Valeur minimale {{value}}",
-	"Must have{{value}} lowercase letter": "Doit avoir {{value}} lettre(s) minuscule(s)",
+	"Must have {{value}} lowercase letter": "Doit avoir {{value}} lettre(s) minuscule(s)",
 	"Must have {{value}} uppercase letter": "Doit avoir {{value}} lettre(s) majuscule(s)",
 	"Must contain {{value}} number": "Doit contenir {{value}} chiffre(s)",
 	"Must contain at least {{value}} characters": "Doit contenir au moins {{value}} caractères",
@@ -2943,5 +2943,11 @@
 	"Enabling this toggle allows you to fill in and edit the fields on the “Billing details” tab. All of this information will also automatically appear on generated telemonitoring contracts": "L’activation de ce curseur permet de saisir et de modifier les champs de l’onglet « Données de facturation ». Toutes ces informations apparaîtront également automatiquement sur les contrats de télésurveillance générés.",
 	"Monday": "Lundi",
 	"Indexed unit price": "Prix unitaire indexé",
-	"Indexed total price": "Prix total indexé"
+	"Indexed total price": "Prix total indexé",
+	"Add vehicle": "Ajouter un véhicule",
+	"Change vehicle": "Modifier le véhicule",
+	"{{value}} vehicle(s) deleted": "{{value}} véhicule(s) supprimé(s)",
+	"Must be a number": "Doit être un nombre",
+	"You are about to delete {{value}} vehicle(s).": "Vous êtes sur le point de supprimer {{value}} véhicule(s).",
+	"Delete vehicle": "Supprimer le véhicule"
 }

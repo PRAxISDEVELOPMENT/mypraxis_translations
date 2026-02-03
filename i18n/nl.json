@@ -530,7 +530,7 @@
 	"Max. {{value}} characters allowed": "Maximaal {{value}} tekens toegestaan",
 	"Min. {{value}} characters": "Minimaal {{value}} tekens",
 	"Min. {{value}} value": "Minimale waarde {{value}}",
-	"Must have{{value}} lowercase letter": "Moet {{value}} kleine letter(s) bevatten",
+	"Must have {{value}} lowercase letter": "Moet {{value}} kleine letter(s) bevatten",
 	"Must have {{value}} uppercase letter": "Moet {{value}} hoofdletter(s) bevatten",
 	"Must contain {{value}} number": "Moet {{value}} cijfer(s) bevatten",
 	"Must contain at least {{value}} characters": "Moet ten minste {{value}} tekens bevatten",
@@ -2943,5 +2943,11 @@
 	"Enabling this toggle allows you to fill in and edit the fields on the “Billing details” tab. All of this information will also automatically appear on generated telemonitoring contracts": "Het activeren van deze slider zorgt er voor dat u de velden op het tabblad “Facturatiegegevens” kan invullen en wijzigen. Al deze gegevens zullen ook automatisch verschijnen op gegenereerde telebewakingscontracten",
 	"Monday": "Maandag",
 	"Indexed unit price": "Geïndexeerde eenheidsprijs",
-	"Indexed total price": "Geïndexeerde totaalprijs"
+	"Indexed total price": "Geïndexeerde totaalprijs",
+	"Add vehicle": "Voertuig toevoegen",
+	"Change vehicle": "Voertuig wijzigen",
+	"{{value}} vehicle(s) deleted": "{{value}} voertuig(en) verwijderd",
+	"Must be a number": "Moet een nummer zijn",
+	"You are about to delete {{value}} vehicle(s).": "Je staat op het punt {{value}} voertuig(en) te verwijderen.",
+	"Delete vehicle": "Voertuig verwijderen"
 }
