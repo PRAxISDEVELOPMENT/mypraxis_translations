@@ -2949,5 +2949,8 @@
 	"{{value}} vehicle(s) deleted": "{{value}} voertuig(en) verwijderd",
 	"Must be a number": "Moet een nummer zijn",
 	"You are about to delete {{value}} vehicle(s).": "Je staat op het punt {{value}} voertuig(en) te verwijderen.",
-	"Delete vehicle": "Voertuig verwijderen"
+	"Delete vehicle": "Voertuig verwijderen",
+	"You can update this custom data field or reset it to the default settings": "U kunt dit custom data veld bijwerken of terugzetten naar de standaardinstellingen",
+	"The invoice address details": "De facturatieadresgegevens",
+	"Phone role": "Rol telefonie"
 }

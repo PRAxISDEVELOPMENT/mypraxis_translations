@@ -2949,5 +2949,8 @@
 	"{{value}} vehicle(s) deleted": "{{value}} véhicule(s) supprimé(s)",
 	"Must be a number": "Doit être un nombre",
 	"You are about to delete {{value}} vehicle(s).": "Vous êtes sur le point de supprimer {{value}} véhicule(s).",
-	"Delete vehicle": "Supprimer le véhicule"
+	"Delete vehicle": "Supprimer le véhicule",
+	"You can update this custom data field or reset it to the default settings": "Vous pouvez mettre à jour ce champ de données personnalisé ou le réinitialiser aux paramètres par défaut",
+	"The invoice address details": "Les détails de l’adresse de facturation",
+	"Phone role": "Rôle de la téléphonie"
 }
