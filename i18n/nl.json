@@ -2935,7 +2935,7 @@
 	"For 98.5% of the alarms, the first action agreed upon with the client must be taken within 180 seconds.": "voor 98,5% van de alarmen moet de eerste handeling die overeengekomen is met de klant, binnen de 180 s gesteld worden.",
 	"For this customer, a customized call list has been activated at the request of the customer and/or installer. This means that a customized configuration (regarding order and/or notifications) is in effect. The configuration can be modified via": "Wij hebben voor deze klant een aangepaste bellijst geactiveerd op verzoek van de klant en/of installateur. Dit betekent dat er hier een aangepaste configuratie (betreffende volgorde en/of meldingen) van kracht is. De configuratie kan gewijzigd worden via ",
 	"Via a temporary call list, you can add up to 5 temporary contacts for a period of up to one month. During alarm handling, the active temporary call list is always followed. If you want to temporarily remove contacts from the list, you can deactivate contacts under the ‘Standard call list’ tab.": "Via een tijdelijke bellijst kan u maximaal 5 tijdelijke contactpersonen voor een periode van maximaal een maand toevoegen. Bij alarmafhandeling wordt de actieve tijdelijke bellijst altijd gevolgd. Als u contactpersonen tijdelijk uit de lijst wil halen, kan u altijd contactpersonen deactiveren onder het tabblad ‘Standaard bellijst‘.",
-	"Comment type": "Type commentaar",
+	"Comment type": "Commentaartype",
 	"Comment type added": "Type commentaar toegevoegd",
 	"Comment type changed": "Type commentaar gewijzigd",
 	"Comment types": "Commentaartypes",
