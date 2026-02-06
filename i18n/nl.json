@@ -2959,5 +2959,6 @@
 	"This identification must be used when communicating by phone with PRAxIS operators and is": "Deze identificatie dient u te gebruiken bij telefonische communicatie met de operatoren van PRAxIS en is",
 	"Not": "Niet",
 	"The password to log in to MyPRAxIS Web and App.": "Het wachtwoord om in te loggen op MyPRAxIS Web en App.",
-	"After registering your installer profile, you will receive an email containing a hyperlink to choose your password for MyPRAxIS Web and App.": "Na het registreren van uw installateursfiche zal u een e-mail ontvangen met daarin een hyperlink om uw wachtwoord voor MyPRAxIS Web en App te kiezen."
+	"After registering your installer profile, you will receive an email containing a hyperlink to choose your password for MyPRAxIS Web and App.": "Na het registreren van uw installateursfiche zal u een e-mail ontvangen met daarin een hyperlink om uw wachtwoord voor MyPRAxIS Web en App te kiezen.",
+	"Delete periodic report": "Periodiek rapport verwijderen"
 }
