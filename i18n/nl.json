@@ -2560,7 +2560,7 @@
 	"It remains possible, however, to manually add or modify zone descriptions.": "Het blijft daarentegen wel mogelijk om manueel zoneomschrijvingen toe te voegen of te wijzigen.",
 	"Please note that the zone description transmitted via SIA Level 3 always takes priority over the manually entered description and will be communicated as such during alarm handling.": "Let wel - de zoneomschrijving via SIA LEVEL 3 krijgt altijd prioriteit op de manueel ingegeven zoneomschrijving en zal ook zo gecommuniceerd worden bij alarmafhandelingen.",
 	"Start date & time cannot be older than 3 months": "Startdatum & -tijdstip mag niet ouder zijn dan 3 maanden",
-	"The billing method can only be modified by finance@praxis-group.eu": "De facturatiemethode kan alleen door finance@praxis-group.eu worden gewijzigd",
+	"The billing method can only be modified by finance@praxis-group.eu": "De facturatiemethode kan enkel gewijzigd worden door finance@praxis-group.eu",
 	"Start date/time": "Startdatum & -tijdstip",
 	"End date/time": "Einddatum & -tijdstip",
 	"Welcome to MyPRAxIS": "Welkom bij MyPRAxIS",
