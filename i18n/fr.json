@@ -1069,7 +1069,7 @@
 	"Navigate": "Naviguer",
 	"Linked customers": "Clients liés",
 	"Filter by alarm type": "Filtrer par type d'alarme",
-	"Tax number can only be changed upon request via PRAxIS GROUP N.V.": "Le numéro TVA ne peut être modifié que sur demande adressée par e-mail à finance@praxis-group.eu",
+	"Tax number can only be changed upon request via finance@praxis-group.eu": "Le numéro TVA ne peut être modifié que sur demande adressée par e-mail à finance@praxis-group.eu",
 	"Enable": "Activer",
 	"Disable": "Désactiver",
 	"Enabled": "Activé",
@@ -2954,5 +2954,6 @@
 	"You can update this custom data field or reset it to the default settings": "Vous pouvez mettre à jour ce champ de données personnalisé ou le réinitialiser aux paramètres par défaut",
 	"The invoice address details": "Les détails de l’adresse de facturation",
 	"Phone role": "Rôle de la téléphonie",
-	"The blueprint is by default automatically detected when all required fields (“Language”, “Installer”, “Contract type” and “Contract subtype”) are filled in, but must be manually selected for the contract type “SMS Monitoring” after selecting the contract subtype.": "Le plan est par défaut automatiquement détecté lors du remplissage de tous les champs obligatoires (“Langue”, “Installateur”, “Type de contrat” et “Sous-type de contrat”), mais doit être sélectionné manuellement pour le type de contrat “SMS Monitoring” après la sélection du sous-type de contrat."
+	"The blueprint is by default automatically detected when all required fields (“Language”, “Installer”, “Contract type” and “Contract subtype”) are filled in, but must be manually selected for the contract type “SMS Monitoring” after selecting the contract subtype.": "Le plan est par défaut automatiquement détecté lors du remplissage de tous les champs obligatoires (“Langue”, “Installateur”, “Type de contrat” et “Sous-type de contrat”), mais doit être sélectionné manuellement pour le type de contrat “SMS Monitoring” après la sélection du sous-type de contrat.",
+	"Copy to invoice address": "Copier vers l’adresse de facturation"
 }

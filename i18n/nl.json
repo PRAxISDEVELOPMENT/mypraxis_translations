@@ -1069,7 +1069,7 @@
 	"Navigate": "Navigeer",
 	"Linked customers": "Gelinkte klanten",
 	"Filter by alarm type": "Filter op alarmtype",
-	"Tax number can only be changed upon request via PRAxIS GROUP N.V.": "Het BTW-nummer kan enkel gewijzigd worden door PRAxIS GROUP N.V.",
+	"Tax number can only be changed upon request via finance@praxis-group.eu": "Het BTW-nummer kan enkel gewijzigd worden door finance@praxis-group.eu",
 	"Enable": "Inschakelen",
 	"Disable": "Uitschakelen",
 	"Enabled": "Ingeschakeld",
@@ -2954,5 +2954,6 @@
 	"You can update this custom data field or reset it to the default settings": "U kunt dit custom data veld bijwerken of terugzetten naar de standaardinstellingen",
 	"The invoice address details": "De facturatieadresgegevens",
 	"Phone role": "Rol telefonie",
-	"The blueprint is by default automatically detected when all required fields (“Language”, “Installer”, “Contract type” and “Contract subtype”) are filled in, but must be manually selected for the contract type “SMS Monitoring” after selecting the contract subtype.": "De blauwdruk wordt standaard automatisch gedetecteerd bij het invullen van alle verplichte velden (“Taal”, “Installateur”, “Contracttype” en “Contractsubtype”), maar dient manueel geselecteerd te worden bij het contracttype “SMS Monitoring” na selectie van het contractsubtype."
+	"The blueprint is by default automatically detected when all required fields (“Language”, “Installer”, “Contract type” and “Contract subtype”) are filled in, but must be manually selected for the contract type “SMS Monitoring” after selecting the contract subtype.": "De blauwdruk wordt standaard automatisch gedetecteerd bij het invullen van alle verplichte velden (“Taal”, “Installateur”, “Contracttype” en “Contractsubtype”), maar dient manueel geselecteerd te worden bij het contracttype “SMS Monitoring” na selectie van het contractsubtype.",
+	"Copy to invoice address": "Kopieer naar facturatieadres"
 }
