@@ -2955,5 +2955,9 @@
 	"The invoice address details": "De facturatieadresgegevens",
 	"Phone role": "Rol telefonie",
 	"The blueprint is by default automatically detected when all required fields (“Language”, “Installer”, “Contract type” and “Contract subtype”) are filled in, but must be manually selected for the contract type “SMS Monitoring” after selecting the contract subtype.": "De blauwdruk wordt standaard automatisch gedetecteerd bij het invullen van alle verplichte velden (“Taal”, “Installateur”, “Contracttype” en “Contractsubtype”), maar dient manueel geselecteerd te worden bij het contracttype “SMS Monitoring” na selectie van het contractsubtype.",
-	"Copy to invoice address": "Kopieer naar facturatieadres"
+	"Copy to invoice address": "Kopieer naar facturatieadres",
+	"This identification must be used when communicating by phone with PRAxIS operators and is": "Deze identificatie dient u te gebruiken bij telefonische communicatie met de operatoren van PRAxIS en is",
+	"Not": "Niet",
+	"The password to log in to MyPRAxIS Web and App.": "Het wachtwoord om in te loggen op MyPRAxIS Web en App.",
+	"After registering your installer profile, you will receive an email containing a hyperlink to choose your password for MyPRAxIS Web and App.": "Na het registreren van uw installateursfiche zal u een e-mail ontvangen met daarin een hyperlink om uw wachtwoord voor MyPRAxIS Web en App te kiezen."
 }
