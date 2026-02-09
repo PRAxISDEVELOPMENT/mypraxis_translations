@@ -2960,5 +2960,7 @@
 	"Not": "Niet",
 	"The password to log in to MyPRAxIS Web and App.": "Het wachtwoord om in te loggen op MyPRAxIS Web en App.",
 	"After registering your installer profile, you will receive an email containing a hyperlink to choose your password for MyPRAxIS Web and App.": "Na het registreren van uw installateursfiche zal u een e-mail ontvangen met daarin een hyperlink om uw wachtwoord voor MyPRAxIS Web en App te kiezen.",
-	"Delete periodic report": "Periodiek rapport verwijderen"
+	"Delete periodic report": "Periodiek rapport verwijderen",
+	"Are you sure you want to copy the installation address?": "Weet u zeker dat u het installatieadres wilt kopiëren?",
+	"Are you sure you want to copy the installation address to the invoice address?": "Weet u zeker dat u het installatieadres naar het facturatieadres wilt kopiëren?"
 }

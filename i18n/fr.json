@@ -2960,5 +2960,7 @@
 	"Not": "Pas",
 	"The password to log in to MyPRAxIS Web and App.": "Le mot de passe pour se connecter à MyPRAxIS Web et App.",
 	"After registering your installer profile, you will receive an email containing a hyperlink to choose your password for MyPRAxIS Web and App.": "Après l’enregistrement de votre fiche installateur, vous recevrez un e-mail contenant un lien hypertexte pour choisir votre mot de passe pour MyPRAxIS Web et App.",
-	"Delete periodic report": "Supprimer le rapport périodique"
+	"Delete periodic report": "Supprimer le rapport périodique",
+	"Are you sure you want to copy the installation address?": "Êtes-vous sûr de vouloir copier l’adresse d’installation?",
+	"Are you sure you want to copy the installation address to the invoice address?": "Êtes-vous sûr de vouloir copier l’adresse d’installation vers l’adresse de facturation?"
 }
