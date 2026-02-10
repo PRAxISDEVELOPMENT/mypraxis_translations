@@ -2962,5 +2962,12 @@
 	"After registering your installer profile, you will receive an email containing a hyperlink to choose your password for MyPRAxIS Web and App.": "Après l’enregistrement de votre fiche installateur, vous recevrez un e-mail contenant un lien hypertexte pour choisir votre mot de passe pour MyPRAxIS Web et App.",
 	"Delete periodic report": "Supprimer le rapport périodique",
 	"Are you sure you want to copy the installation address?": "Êtes-vous sûr de vouloir copier l’adresse d’installation?",
-	"Are you sure you want to copy the installation address to the invoice address?": "Êtes-vous sûr de vouloir copier l’adresse d’installation vers l’adresse de facturation?"
+	"Are you sure you want to copy the installation address to the invoice address?": "Êtes-vous sûr de vouloir copier l’adresse d’installation vers l’adresse de facturation?",
+	"Disable automatically activate clients": "Désactiver l’activation automatique des clients",
+	"Enable/disable automatic activation of inactive clients as soon as we receive external notifications and we have the full address and at least 1 call number in the call list": "Activer ou désactiver l’activation automatique des clients inactifs dès la réception de notifications externes et lorsque l’adresse complète ainsi qu’au moins un numéro d’appel sont disponibles dans la liste d’appels",
+	"Automatically activate clients": "Activer automatiquement les clients",
+	"Enable automatically activate clients": "Activer l’activation automatique des clients",
+	"You are about to enable automatically activate clients.": "Vous êtes sur le point d’activer l’activation automatique des clients.",
+	"Disabling this option will prevent inactive clients from being automatically activated, even if external notifications are received and all required data is available.": "La désactivation de cette option empêchera l’activation automatique des clients inactifs, même si des notifications externes sont reçues et que toutes les données requises sont disponibles.",
+	"I hereby confirm that I agree to disabling the automatic activation of inactive clients.": "Je confirme par la présente que j’accepte la désactivation de l’activation automatique des clients inactifs."
 }
