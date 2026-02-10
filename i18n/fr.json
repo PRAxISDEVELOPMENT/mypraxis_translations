@@ -2970,5 +2970,11 @@
 	"You are about to enable automatically activate clients.": "Vous êtes sur le point d’activer l’activation automatique des clients.",
 	"Disabling this option will prevent inactive clients from being automatically activated, even if external notifications are received and all required data is available.": "La désactivation de cette option empêchera l’activation automatique des clients inactifs, même si des notifications externes sont reçues et que toutes les données requises sont disponibles.",
 	"I hereby confirm that I agree to disabling the automatic activation of inactive clients.": "Je confirme par la présente que j’accepte la désactivation de l’activation automatique des clients inactifs.",
-	"The billing address can only be changed by finance@praxis-group.eu.": "L’adresse de facturation ne peut être modifiée que par finance@praxis-group.eu."
+	"The billing address can only be changed by finance@praxis-group.eu.": "L’adresse de facturation ne peut être modifiée que par finance@praxis-group.eu.",
+	"CSV has been downloaded": "CSV a été téléchargé",
+	"Error downloading CSV": "Erreur lors du téléchargement du CSV",
+	"Error copying to clipboard": "Erreur lors de la copie dans le presse-papiers",
+	"PRAxIS credentials": "Identifiants PRAxIS",
+	"Show credentials": "Afficher les identifiants",
+	"Bearer token": "Bearer token"
 }
