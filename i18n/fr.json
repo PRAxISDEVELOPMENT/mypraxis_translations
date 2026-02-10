@@ -2976,5 +2976,8 @@
 	"Error copying to clipboard": "Erreur lors de la copie dans le presse-papiers",
 	"PRAxIS credentials": "Identifiants PRAxIS",
 	"Show credentials": "Afficher les identifiants",
-	"Bearer token": "Bearer token"
+	"Bearer token": "Bearer token",
+	"Failed to decode token": "Impossible de décoder le token",
+	"Invalid Route": "Route invalide",
+	"URL parsing error": "Erreur d'analyse de l'URL"
 }

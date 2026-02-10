@@ -2976,5 +2976,8 @@
 	"Error copying to clipboard": "Fout bij het kopieren naar het klembord",
 	"PRAxIS credentials": "PRAxIS gegevens",
 	"Show credentials": "Toon referenties",
-	"Bearer token": "Bearer token"
+	"Bearer token": "Bearer token",
+	"Failed to decode token": "Token kan niet worden gedecodeerd",
+	"Invalid Route": "Ongeldig route",
+	"URL parsing error": "URL parsing fout"
 }
