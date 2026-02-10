@@ -2969,5 +2969,6 @@
 	"Enable automatically activate clients": "Automatisch klanten activeren inschakelen",
 	"You are about to enable automatically activate clients.": "U staat op het punt om Automatisch activeren klanten in te schakelen.",
 	"Disabling this option will prevent inactive clients from being automatically activated, even if external notifications are received and all required data is available.": "Door deze optie uit te schakelen, worden inactieve klanten niet automatisch geactiveerd, zelfs niet wanneer externe meldingen worden ontvangen en alle vereiste gegevens beschikbaar zijn.",
-	"I hereby confirm that I agree to disabling the automatic activation of inactive clients.": "Hierbij bevestig ik dat ik akkoord ga met het uitschakelen van de automatische activering van inactieve klanten."
+	"I hereby confirm that I agree to disabling the automatic activation of inactive clients.": "Hierbij bevestig ik dat ik akkoord ga met het uitschakelen van de automatische activering van inactieve klanten.",
+	"The billing address can only be changed by finance@praxis-group.eu.": "Het facturatieadres kan alleen worden gewijzigd door finance@praxis-group.eu."
 }
