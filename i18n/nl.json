@@ -2979,5 +2979,9 @@
 	"Bearer token": "Bearer token",
 	"Failed to decode token": "Token kan niet worden gedecodeerd",
 	"Invalid Route": "Ongeldig route",
-	"URL parsing error": "URL parsing fout"
+	"URL parsing error": "URL parsing fout",
+	"Enable/disable use of general email addresses for daily email": "Gebruik van de algemene e-mailadressen voor dagelijkse e-mail in-/uitschakelen",
+	"Enable/disable the automatic saving of the report in MyPRAxIS Documents": "Rapport automatisch opslaan in MyPRAxIS Documenten in-/uitschakelen",
+	"Enable/disable sending an e-mail if no results are found": "Versturen van e-mail indien geen resultaten in-/uitschakelen",
+	"Enable/disable Report": "Rapport in-/uitschakelen"
 }
