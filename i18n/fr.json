@@ -2983,5 +2983,6 @@
 	"Enable/disable use of general email addresses for daily email": "Activer/désactiver l'utilisation des adresses e-mail générales pour les e-mails quotidiens",
 	"Enable/disable the automatic saving of the report in MyPRAxIS Documents": "Activer/désactiver l'enregistrement automatique du rapport dans MyPRAxIS Documents",
 	"Enable/disable sending an e-mail if no results are found": "Activer/désactiver l'envoi d'un e-mail si aucun résultat n'est trouvé",
-	"Enable/disable Report": "Activer/désactiver le rapport"
+	"Enable/disable Report": "Activer/désactiver le rapport",
+	"Holiday Request": "Demande de congé"
 }
