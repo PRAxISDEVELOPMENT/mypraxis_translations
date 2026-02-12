@@ -2984,6 +2984,7 @@
 	"Enable/disable the automatic saving of the report in MyPRAxIS Documents": "Rapport automatisch opslaan in MyPRAxIS Documenten in-/uitschakelen",
 	"Enable/disable sending an e-mail if no results are found": "Versturen van e-mail indien geen resultaten in-/uitschakelen",
 	"Enable/disable Report": "Rapport in-/uitschakelen",
-	"Holiday Request": "Verlof aanvraag",
-	"Employee": "Werknemer"
+	"Holiday request": "Verlof aanvraag",
+	"Employee": "Werknemer",
+	"Report sick": "Ziektemelding"
 }
