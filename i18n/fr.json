@@ -1069,7 +1069,7 @@
 	"Navigate": "Naviguer",
 	"Linked customers": "Clients liés",
 	"Filter by alarm type": "Filtrer par type d'alarme",
-	"Tax number can only be changed upon request via finance@praxis-group.eu": "Le numéro TVA ne peut être modifié que sur demande adressée par e-mail à finance@praxis-group.eu",
+	"Tax number can only be changed upon request via finance@praxis-group.eu.": "Le numéro TVA ne peut être modifié que sur demande adressée par e-mail à finance@praxis-group.eu.",
 	"Enable": "Activer",
 	"Disable": "Désactiver",
 	"Enabled": "Activé",
@@ -2560,7 +2560,7 @@
 	"It remains possible, however, to manually add or modify zone descriptions.": "Il reste néanmoins possible d’ajouter ou de modifier manuellement les descriptions de zones.",
 	"Please note that the zone description transmitted via SIA Level 3 always takes priority over the manually entered description and will be communicated as such during alarm handling.": "À noter que la description de zone transmise via SIA Level 3 a toujours priorité sur la description ajoutée manuellement et qu'elle sera communique comme telle lors du traitement des alarmes.",
 	"Start date & time cannot be older than 3 months": "La date et l'heure de début ne peuvent pas remonter à plus de 3 mois",
-	"The billing method can only be modified by finance@praxis-group.eu": "La méthode de facturation ne peut être modifiée que par finance@praxis-group.eu",
+	"The billing method can only be modified by finance@praxis-group.eu.": "La méthode de facturation ne peut être modifiée que par finance@praxis-group.eu.",
 	"Start date/time": "Date/heure de début",
 	"End date/time": "Date/heure de fin",
 	"Welcome to MyPRAxIS": "Bienvenue chez MyPRAxIS",
@@ -2995,5 +2995,12 @@
 	"Family information changed": "Informations familiales modifiées",
 	"View and manage your personnel file.": "Consultez et gérez votre dossier du personnel.",
 	"Contract generator": "Générateur de contrats",
-	"Current value": "Valeur actuelle"
+	"Current value": "Valeur actuelle",
+	"Templates": "Modèles",
+	"Layouts": "Mise en page",
+	"Replace and set original client to inactive": "Remplacer et désactiver le client d’origine",
+	"You are about to deactivate this client. Are you sure you want to proceed? ": "Vous êtes sur le point de désactiver ce client. Êtes-vous sûr de vouloir continuer ?",
+	"If so, please remember to confirm this with the installer.": "Si oui, veuillez confirmer cela avec l’installateur.",
+	"Deactivate commercial action": "Désactiver l’action commerciale",
+	"Activate commercial action": "Activer l’action commerciale"
 }
