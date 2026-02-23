@@ -3003,5 +3003,8 @@
 	"You are about to deactivate this client. Are you sure you want to proceed? ": "U staat op het punt de klant stop te zetten. Weet u zeker dat u wil doorgaan?",
 	"If so, please remember to confirm this with the installer.": "Indien ja, vergeet niet te bevestigen aan de installateur.",
 	"Deactivate commercial action": "Commerciële actie deactiveren",
-	"Activate commercial action": "Commerciële actie activeren"
+	"Activate commercial action": "Commerciële actie activeren",
+	"Reset current values": "Huidige waarden resetten",
+	"Reset to original": "Resetten naar origineel",
+	"Disable auto translation": "Automatische vertaling uitschakelen"
 }

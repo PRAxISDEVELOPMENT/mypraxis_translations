@@ -304,7 +304,7 @@
 	"Paid invoices": "Factures payées",
 	"All invoices": "Toutes les factures",
 	"Invoice": "Facture",
-	"Invoice number": "Numéro de facture",	
+	"Invoice number": "Numéro de facture",
 	"Invoice period": "Période de facturation",
 	"Invoice date": "Date de la facture",
 	"Expiration date": "Date d'échéance",
@@ -3003,5 +3003,8 @@
 	"You are about to deactivate this client. Are you sure you want to proceed? ": "Vous êtes sur le point de désactiver ce client. Êtes-vous sûr de vouloir continuer ?",
 	"If so, please remember to confirm this with the installer.": "Si oui, veuillez confirmer cela avec l’installateur.",
 	"Deactivate commercial action": "Désactiver l’action commerciale",
-	"Activate commercial action": "Activer l’action commerciale"
+	"Activate commercial action": "Activer l’action commerciale",
+	"Reset current values": "Réinitialiser les valeurs actuelles",
+	"Reset to original": "Réinitialiser à l’original",
+	"Disable auto translation": "Désactiver la traduction automatique"
 }
