@@ -3006,5 +3006,8 @@
 	"Activate commercial action": "Activer l’action commerciale",
 	"Reset current values": "Réinitialiser les valeurs actuelles",
 	"Reset to original": "Réinitialiser à l’original",
-	"Disable auto translation": "Désactiver la traduction automatique"
+	"Disable auto translation": "Désactiver la traduction automatique",
+	"Change commercial action status (active/inactive)": "Modifier le statut de l’action commerciale (actif/inactif)",
+	"Commercial action is active. Click the slider to deactivate.": "L’action commerciale est active. Cliquez sur le curseur pour la désactiver.",
+	"Commercial action is inactive. Click the slider to activate.": "L’action commerciale est inactive. Cliquez sur le curseur pour l’activer."
 }

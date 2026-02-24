@@ -3006,5 +3006,8 @@
 	"Activate commercial action": "Commerciële actie activeren",
 	"Reset current values": "Huidige waarden resetten",
 	"Reset to original": "Resetten naar origineel",
-	"Disable auto translation": "Automatische vertaling uitschakelen"
+	"Disable auto translation": "Automatische vertaling uitschakelen",
+	"Change commercial action status (active/inactive)": "Wijzig status commerciële actie (actief/inactief)",
+	"Commercial action is active. Click the slider to deactivate.": "Commerciële actie staat actief. Klik op de slider om te deactiveren.",
+	"Commercial action is inactive. Click the slider to activate.": "Commerciële actie staat inactief. Klik op de slider om te activeren."
 }
