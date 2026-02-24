@@ -3009,5 +3009,7 @@
 	"Disable auto translation": "Désactiver la traduction automatique",
 	"Change commercial action status (active/inactive)": "Modifier le statut de l’action commerciale (actif/inactif)",
 	"Commercial action is active. Click the slider to deactivate.": "L’action commerciale est active. Cliquez sur le curseur pour la désactiver.",
-	"Commercial action is inactive. Click the slider to activate.": "L’action commerciale est inactive. Cliquez sur le curseur pour l’activer."
+	"Commercial action is inactive. Click the slider to activate.": "L’action commerciale est inactive. Cliquez sur le curseur pour l’activer.",
+	"No access": "Aucun accès",
+	"User (custom permissions)": "Utilisateur (permissions personnalisées)"
 }
