@@ -3011,5 +3011,11 @@
 	"Commercial action is active. Click the slider to deactivate.": "Commerciële actie staat actief. Klik op de slider om te deactiveren.",
 	"Commercial action is inactive. Click the slider to activate.": "Commerciële actie staat inactief. Klik op de slider om te activeren.",
 	"No access": "Geen toegang",
-	"User (custom permissions)": "Gebruiker (aangepaste rechten)"
+	"User (custom permissions)": "Gebruiker (aangepaste rechten)",
+	"Contract generator type added": "Contractgeneratortype toegevoegd",
+	"Delete contract generator type": "Contractgeneratortype verwijderen",
+	"Change contract generator type": "Contractgeneratortype wijzigen",
+	"Contract generator type changed": "Contractgeneratortype gewijzigd",
+	"Contract generator type deleted": "Contractgeneratortype verwijderd",
+	"You are about to delete a contract generator type": "U staat op het punt een contractgeneratortype te verwijderen"
 }

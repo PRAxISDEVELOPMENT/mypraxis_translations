@@ -3011,5 +3011,11 @@
 	"Commercial action is active. Click the slider to deactivate.": "L’action commerciale est active. Cliquez sur le curseur pour la désactiver.",
 	"Commercial action is inactive. Click the slider to activate.": "L’action commerciale est inactive. Cliquez sur le curseur pour l’activer.",
 	"No access": "Aucun accès",
-	"User (custom permissions)": "Utilisateur (permissions personnalisées)"
+	"User (custom permissions)": "Utilisateur (permissions personnalisées)",
+	"Contract generator type added": "Type de générateur de contrat ajouté",
+	"Delete contract generator type": "Supprimer le type de générateur de contrat",
+	"Change contract generator type": "Modifier le type de générateur de contrat",
+	"Contract generator type changed": "Type de générateur de contrat modifié",
+	"Contract generator type deleted": "Type de générateur de contrat supprimé",
+	"You are about to delete a contract generator type": "Vous êtes sur le point de supprimer un type de générateur de contrat"
 }
