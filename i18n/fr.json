@@ -945,7 +945,7 @@
 	"Payment reference": "Communication structurée",
 	"Total outstanding balance of previous invoices": "Total du solde des factures échues",
 	"Please arrange this payment as soon as possible": "Merci d'effectuer ce paiement d'urgence",
-	"Thank you for the accurate payment": "Merci pour le paiement correct",	
+	"Thank you for the accurate payment": "Merci pour le paiement correct",
 	"Fulfill registration": "Compléter l'inscription",
 	"Authentication succeed": "Authentification réussie",
 	"Application data loaded": "Données de l'application chargées",
@@ -3026,5 +3026,6 @@
 	"Change contract generator type": "Modifier le type de générateur de contrat",
 	"Contract generator type changed": "Type de générateur de contrat modifié",
 	"Contract generator type deleted": "Type de générateur de contrat supprimé",
-	"You are about to delete a contract generator type": "Vous êtes sur le point de supprimer un type de générateur de contrat"
+	"You are about to delete a contract generator type": "Vous êtes sur le point de supprimer un type de générateur de contrat",
+	"Enable/disable automatic activation of inactive clients between 20h00 and 06h00 as soon as we receive external notifications and we have the full address and at least 1 call number in the call list.": "Activer ou désactiver l’activation automatique des clients inactifs entre 20h00 et 06h00 dès la réception de notifications externes et lorsque l’adresse complète ainsi qu’au moins un numéro d’appel sont disponibles dans la liste d’appels."
 }
