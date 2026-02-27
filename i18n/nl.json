@@ -3027,5 +3027,6 @@
 	"Contract generator type changed": "Contractgeneratortype gewijzigd",
 	"Contract generator type deleted": "Contractgeneratortype verwijderd",
 	"You are about to delete a contract generator type": "U staat op het punt een contractgeneratortype te verwijderen",
-	"Enable/disable automatic activation of inactive clients between 20h00 and 06h00 as soon as we receive external notifications and we have the full address and at least 1 call number in the call list.": "Automatische activering van inactieve klanten tussen 20u00 en 06u00 zodra we externe meldingen ontvangen én we beschikken over het volledige adres én we beschikken over minimum 1 oproepnummer in de bellijst in-/uitschakelen."
+	"Enable/disable automatic activation of inactive clients between 20h00 and 06h00 as soon as we receive external notifications and we have the full address and at least 1 call number in the call list.": "Automatische activering van inactieve klanten tussen 20u00 en 06u00 zodra we externe meldingen ontvangen én we beschikken over het volledige adres én we beschikken over minimum 1 oproepnummer in de bellijst in-/uitschakelen.",
+	"Must be at least 00:00:01": "Moet minimaal 00:00:01 zijn"
 }
