@@ -3009,7 +3009,7 @@
 	"Templates": "Modèles",
 	"Layouts": "Mise en page",
 	"Replace and set original client to inactive": "Remplacer et désactiver le client d’origine",
-	"You are about to deactivate this client. Are you sure you want to proceed? ": "Vous êtes sur le point de désactiver ce client. Êtes-vous sûr de vouloir continuer ?",
+	"You are about to deactivate this client. Are you sure you want to proceed?": "Vous êtes sur le point de désactiver ce client. Êtes-vous sûr de vouloir continuer ?",
 	"If so, please remember to confirm this with the installer.": "Si oui, veuillez confirmer cela avec l’installateur.",
 	"Deactivate commercial action": "Désactiver l’action commerciale",
 	"Activate commercial action": "Activer l’action commerciale",
