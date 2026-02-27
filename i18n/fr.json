@@ -3030,5 +3030,7 @@
 	"Enable/disable automatic activation of inactive clients between 20h00 and 06h00 as soon as we receive external notifications and we have the full address and at least 1 call number in the call list.": "Activer ou désactiver l’activation automatique des clients inactifs entre 20h00 et 06h00 dès la réception de notifications externes et lorsque l’adresse complète ainsi qu’au moins un numéro d’appel sont disponibles dans la liste d’appels.",
 	"Must be at least 00:00:01": "Doit être au minimum 00:00:01",
 	"Google Translate NL - FR": "Google Translate NL - FR",
-	"Google Translate NL - EN": "Google Translate NL - EN"
+	"Google Translate NL - EN": "Google Translate NL - EN",
+	"Reset current value": "Restaurer la valeur actuelle",
+	"Value reset to the current value": "Valeur restaurée"
 }
