@@ -3032,5 +3032,13 @@
 	"Google Translate NL - FR": "Google Translate NL - FR",
 	"Google Translate NL - EN": "Google Translate NL - EN",
 	"Reset current value": "Huidige waarde herstellen",
-	"Value reset to the current value": "Waarde hersteld"
+	"Value reset to the current value": "Waarde hersteld",
+	"Configuration": "Configuratie",
+	"Reload primary channel": "Primair kanaal herladen",
+	"Reload back-up channel": "Back-upkanaal herladen",
+	"Reload primary channel parameters": "Parameters van het primaire kanaal herladen",
+	"Reload back-up channel parameters": "Parameters van het back-upkanaal herladen",
+	"Primary": "Primair",
+	"The {{channel}} channel parameters were reloaded for customer {{value}}": "De parameters van het {{channel}} kanaal werden herladen voor klant {{value}}",
+	"You are about to reload the {{channel}} channel parameters for client number {{value}}.": "U staat op het punt de parameters van het {{channel}} kanaal te herladen voor klantnummer {{value}}."
 }
