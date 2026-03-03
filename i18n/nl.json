@@ -3041,5 +3041,6 @@
 	"Reload back-up channel parameters": "Parameters van het back-upkanaal herladen",
 	"Primary": "Primair",
 	"The {{channel}} channel parameters were reloaded for customer {{value}}": "De parameters van het {{channel}} kanaal werden herladen voor klant {{value}}",
-	"You are about to reload the {{channel}} channel parameters for client number {{value}}.": "U staat op het punt de parameters van het {{channel}} kanaal te herladen voor klantnummer {{value}}."
+	"You are about to reload the {{channel}} channel parameters for client number {{value}}.": "U staat op het punt de parameters van het {{channel}} kanaal te herladen voor klantnummer {{value}}.",
+	"Reload parameters": "Parameters herladen"
 }

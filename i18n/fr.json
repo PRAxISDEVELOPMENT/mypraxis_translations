@@ -3041,5 +3041,6 @@
 	"Reload back-up channel parameters": "Recharger les paramètres du canal de secours",
 	"Primary": "Principal",
 	"The {{channel}} channel parameters were reloaded for customer {{value}}": "Les paramètres du canal {{channel}} ont été rechargés pour le client {{value}}",
-	"You are about to reload the {{channel}} channel parameters for client number {{value}}.": "Vous êtes sur le point de recharger les paramètres du canal {{channel}} pour le client numéro {{value}}."
+	"You are about to reload the {{channel}} channel parameters for client number {{value}}.": "Vous êtes sur le point de recharger les paramètres du canal {{channel}} pour le client numéro {{value}}.",
+	"Reload parameters": "Recharger les paramètres"
 }
