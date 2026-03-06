@@ -3043,5 +3043,9 @@
 	"The {{channel}} channel parameters were reloaded for customer {{value}}": "De parameters van het {{channel}} kanaal werden herladen voor klant {{value}}",
 	"You are about to reload the {{channel}} channel parameters for client number {{value}}.": "U staat op het punt de parameters van het {{channel}} kanaal te herladen voor klantnummer {{value}}.",
 	"Reload parameters": "Parameters herladen",
-	"AddSecure (Chiron) parameters": "AddSecure (Chiron) parameters"
+	"AddSecure (Chiron) parameters": "AddSecure (Chiron) parameters",
+	"PDF Preview": "PDF voorbeeld",
+	"Email": "E-mail",
+	"Website": "Website",
+	"Updating preview": "Voorbeeld wordt bijgewerkt"
 }
