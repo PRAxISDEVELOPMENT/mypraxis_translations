@@ -3065,5 +3065,19 @@
 	"Detected placeholders": "Gedetecteerde placeholders",
 	"No placeholders yet": "Nog geen placeholders",
 	"Create section": "Sectie aanmaken",
-	"Save changes": "Wijzigingen opslaan"
+	"Save changes": "Wijzigingen opslaan",
+	"Justify": "Uitvullen",
+	"Insert table": "Tabel invoegen",
+	"Horizontal line": "Horizontale lijn",
+	"Code block": "Codeblok",
+	"Blockquote": "Blokcitaat",
+	"Task list": "Takenlijst",
+	"Remove formatting": "Opmaak verwijderen",
+	"Inline code": "Inline code",
+	"Superscript": "Superscript",
+	"Subscript": "Subscript",
+	"Strikethrough": "Doorhalen",
+	"You are about to delete section: {{value}}.": "U staat op het punt de sectie {{value}} te verwijderen.",
+	"Contract generator section deleted": "Contractgeneratorsectie verwijderd",
+	"Delete contract generator section": "Contractgeneratorsectie verwijderen"
 }

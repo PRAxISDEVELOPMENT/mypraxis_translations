@@ -3065,5 +3065,19 @@
 	"Detected placeholders": "Placeholders détectés",
 	"No placeholders yet": "Aucun placeholder pour le moment",
 	"Create section": "Créer une section",
-	"Save changes": "Enregistrer les modifications"
+	"Save changes": "Enregistrer les modifications",
+	"Justify": "Justifier",
+	"Insert table": "Insérer un tableau",
+	"Horizontal line": "Ligne horizontale",
+	"Code block": "Bloc de code",
+	"Blockquote": "Citation",
+	"Task list": "Liste de tâches",
+	"Remove formatting": "Supprimer la mise en forme",
+	"Inline code": "Code en ligne",
+	"Superscript": "Exposant",
+	"Subscript": "Indice",
+	"Strikethrough": "Barré",
+	"You are about to delete section: {{value}}.": "Vous êtes sur le point de supprimer la section : {{value}}.",
+	"Contract generator section deleted": "Section du générateur de contrats supprimée",
+	"Delete contract generator section": "Supprimer la section du générateur de contrats"
 }
