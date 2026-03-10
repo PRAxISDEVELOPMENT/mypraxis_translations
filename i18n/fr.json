@@ -3079,5 +3079,10 @@
 	"Strikethrough": "Barré",
 	"You are about to delete section: {{value}}.": "Vous êtes sur le point de supprimer la section : {{value}}.",
 	"Contract generator section deleted": "Section du générateur de contrats supprimée",
-	"Delete contract generator section": "Supprimer la section du générateur de contrats"
+	"Delete contract generator section": "Supprimer la section du générateur de contrats",
+	"Zoom out": "Zoom arrière",
+	"Fit width": "Ajuster à la largeur",
+	"Zoom in": "Zoom avant",
+	"The PDF preview could not be rendered": "L’aperçu PDF n’a pas pu être affiché",
+	"Show installation address on invoice": "Afficher l’adresse d’installation sur la facture"
 }

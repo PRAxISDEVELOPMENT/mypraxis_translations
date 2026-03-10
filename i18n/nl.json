@@ -3079,5 +3079,10 @@
 	"Strikethrough": "Doorhalen",
 	"You are about to delete section: {{value}}.": "U staat op het punt de sectie {{value}} te verwijderen.",
 	"Contract generator section deleted": "Contractgeneratorsectie verwijderd",
-	"Delete contract generator section": "Contractgeneratorsectie verwijderen"
+	"Delete contract generator section": "Contractgeneratorsectie verwijderen",
+	"Zoom out": "Uitzoomen",
+	"Fit width": "Passend in breedte",
+	"Zoom in": "Inzoomen",
+	"The PDF preview could not be rendered": "De PDF-voorbeeldweergave kon niet worden geladen",
+	"Show installation address on invoice": "Installatieadres op factuur weergeven"
 }
