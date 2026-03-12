@@ -923,6 +923,8 @@
 	"Due before": "Te betalen voor",
 	"Bank details": "Bankgegevens",
 	"Payment reference": "Gestructureerde mededeling",
+	"Total overdue balance": "Totaal saldo vervallen facturen",
+	"Total outstanding balance (incl. this invoice)": "Totaal openstaand saldo (incl. deze factuur)",
 	"Total outstanding balance of previous invoices": "Totaal openstaand saldo vorige facturen",
 	"Please arrange this payment as soon as possible": "Gelieve deze betaling dringend uit te voeren",
 	"Thank you for the accurate payment": "Bedankt voor de correcte betaling",
