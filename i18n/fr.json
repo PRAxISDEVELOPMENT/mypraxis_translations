@@ -3086,5 +3086,16 @@
 	"Fit width": "Ajuster à la largeur",
 	"Zoom in": "Zoom avant",
 	"The PDF preview could not be rendered": "L’aperçu PDF n’a pas pu être affiché",
-	"Show installation address on invoice": "Afficher l’adresse d’installation sur la facture"
+	"Show installation address on invoice": "Afficher l’adresse d’installation sur la facture",
+	"Reload for primary client number.": "Recharger pour le numéro client principal.",
+	"Reload for backup client number.": "Recharger pour le numéro client de secours.",
+	"Manage zones or consult zone configuration.": "Gérer les zones ou consulter la configuration de zone.",
+	"Zone configuration": "Configuration de zone",
+	"View the zone configuration.": "Consulter la configuration de zone.",
+	"Include zone configuration": "Inclure la configuration de zone",
+	"Disable installation address on invoice": "Désactiver l’adresse d’installation sur la facture",
+	"Enable installation address on invoice": "Activer l’adresse d’installation sur la facture",
+	"To disable the installation address on the invoice, please check the box below to confirm your consent.": "Veuillez cocher la case ci-dessous pour confirmer votre accord quant à la désactivation de l’adresse d’installation sur la facture.",
+	"You are about to enable the installation address on the invoice.": "Vous êtes sur le point d’activer l’adresse d’installation sur la facture.",
+	"I hereby confirm that, until further notice, I agree that the installation address will no longer be shown on the invoice.": "Je confirme par la présente que, jusqu’à nouvel ordre, j’accepte que l’adresse d’installation ne soit plus affichée sur la facture."
 }

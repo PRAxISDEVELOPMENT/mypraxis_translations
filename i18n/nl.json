@@ -3086,5 +3086,16 @@
 	"Fit width": "Passend in breedte",
 	"Zoom in": "Inzoomen",
 	"The PDF preview could not be rendered": "De PDF-voorbeeldweergave kon niet worden geladen",
-	"Show installation address on invoice": "Installatieadres op factuur weergeven"
+	"Show installation address on invoice": "Installatieadres op factuur weergeven",
+	"Reload for primary client number.": "Herladen voor primair klantnummer.",
+	"Reload for backup client number.": "Herladen voor back-up klantnummer.",
+	"Manage zones or consult zone configuration.": "Zones beheren of de zone-configuratie raadplegen.",
+	"Zone configuration": "Zone-configuratie",
+	"View the zone configuration.": "De zone-configuratie bekijken.",
+	"Include zone configuration": "Zone-configuratie opnemen",
+	"Disable installation address on invoice": "Installatieadres op factuur uitschakelen",
+	"Enable installation address on invoice": "Installatieadres op factuur inschakelen",
+	"To disable the installation address on the invoice, please check the box below to confirm your consent.": "Gelieve het onderstaande vakje aan te vinken om uw toestemming te bevestigen voor het uitschakelen van het installatieadres op de factuur.",
+	"You are about to enable the installation address on the invoice.": "U staat op het punt het installatieadres op de factuur in te schakelen.",
+	"I hereby confirm that, until further notice, I agree that the installation address will no longer be shown on the invoice.": "Hierbij bevestig ik dat ik er tot nader bericht mee akkoord ga dat het installatieadres niet langer op de factuur wordt weergegeven."
 }
