@@ -3104,7 +3104,7 @@
 	"Visible name": "Zichtbare naam",
 	"Clear label for this variable in MyPRAxIS. This name is only used here in the configuration and is not inserted into the contract": "Duidelijk label voor deze variabele in MyPRAxIS. Deze naam wordt enkel hier in de configuratie gebruikt en wordt niet in het contract ingevoegd",
 	"Technical token": "Technische token",
-	"Used in the layout editor as [company_name]. Prefer lowercase letters and underscores": "Wordt in de layout-editor gebruikt als [company_name]. Gebruik bij voorkeur kleine letters en underscores",
+	"Used in the layout editor as [company_name]. Brackets are added in the layout. Spaces become underscores and the token is saved in lowercase": "Wordt in de layout-editor gebruikt als [company_name]. Haakjes worden in de lay-out toegevoegd. Spaties worden underscores en de token wordt in kleine letters opgeslagen",
 	"Data source": "Gegevensbron",
 	"Choose where the value comes from: an API endpoint or a manual input": "Kies waar de waarde vandaan komt: een API-endpoint of een manuele invoer",
 	"Value format": "Waardeformaat",

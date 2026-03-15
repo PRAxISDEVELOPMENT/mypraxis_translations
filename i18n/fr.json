@@ -3104,7 +3104,7 @@
 	"Visible name": "Nom visible",
 	"Clear label for this variable in MyPRAxIS. This name is only used here in the configuration and is not inserted into the contract": "Libellé clair pour cette variable dans MyPRAxIS. Ce nom est uniquement utilisé ici dans la configuration et n’est pas inséré dans le contrat",
 	"Technical token": "Jeton technique",
-	"Used in the layout editor as [company_name]. Prefer lowercase letters and underscores": "Utilisé dans l’éditeur de mise en page sous la forme [company_name]. Privilégiez les lettres minuscules et les underscores",
+	"Used in the layout editor as [company_name]. Brackets are added in the layout. Spaces become underscores and the token is saved in lowercase": "Utilisé dans l’éditeur de mise en page comme [company_name]. Les crochets sont ajoutés dans la mise en page. Les espaces deviennent des underscores et le jeton est enregistré en minuscules",
 	"Data source": "Source de données",
 	"Choose where the value comes from: an API endpoint or a manual input": "Choisissez d’où provient la valeur : d’un endpoint API ou d’une saisie manuelle",
 	"Value format": "Format de valeur",
