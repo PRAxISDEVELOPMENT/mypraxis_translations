@@ -3120,5 +3120,6 @@
 	"Search by name or path": "Rechercher par nom ou par chemin",
 	"Search API endpoints": "Rechercher des endpoints API",
 	"Click an endpoint to fill the field. You can still adjust the full CRM path afterwards": "Cliquez sur un endpoint pour remplir le champ. Vous pourrez encore ajuster le chemin CRM complet par la suite",
-	"API endpoints": "Endpoints API"
+	"API endpoints": "Endpoints API",
+	"Clear name for this variable in MyPRAxIS. This value is only used in the configuration and is not inserted into the contract": "Nom clair pour cette variable dans MyPRAxIS. Cette valeur est uniquement utilisée dans la configuration et n’est pas insérée dans le contrat"
 }

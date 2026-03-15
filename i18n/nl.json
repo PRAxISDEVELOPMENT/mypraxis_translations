@@ -3120,5 +3120,6 @@
 	"Search by name or path": "Zoek op naam of pad",
 	"Search API endpoints": "API-endpoints zoeken",
 	"Click an endpoint to fill the field. You can still adjust the full CRM path afterwards": "Klik op een endpoint om het veld in te vullen. Daarna kun je het volledige CRM-pad nog aanpassen",
-	"API endpoints": "API-endpoints"
+	"API endpoints": "API-endpoints",
+	"Clear name for this variable in MyPRAxIS. This value is only used in the configuration and is not inserted into the contract": "Duidelijke naam voor deze variabele in MyPRAxIS. Deze waarde wordt enkel in de configuratie gebruikt en wordt niet in het contract ingevoegd"
 }
