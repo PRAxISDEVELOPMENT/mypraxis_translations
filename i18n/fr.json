@@ -3121,5 +3121,10 @@
 	"Search API endpoints": "Rechercher des endpoints API",
 	"Click an endpoint to fill the field. You can still adjust the full CRM path afterwards": "Cliquez sur un endpoint pour remplir le champ. Vous pourrez encore ajuster le chemin CRM complet par la suite",
 	"API endpoints": "Endpoints API",
-	"Clear name for this variable in MyPRAxIS. This value is only used in the configuration and is not inserted into the contract": "Nom clair pour cette variable dans MyPRAxIS. Cette valeur est uniquement utilisée dans la configuration et n’est pas insérée dans le contrat"
+	"Clear name for this variable in MyPRAxIS. This value is only used in the configuration and is not inserted into the contract": "Nom clair pour cette variable dans MyPRAxIS. Cette valeur est uniquement utilisée dans la configuration et n’est pas insérée dans le contrat",
+	"Manual input": "Saisie manuelle",
+	"Single text": "Texte simple",
+	"Selection list": "Liste de sélection",
+	"Add option": "Ajouter une option",
+	"Technical value used to store this option. Spaces become underscores and the value is saved in lowercase": "Valeur technique utilisée pour enregistrer cette option. Les espaces deviennent des underscores et la valeur est enregistrée en minuscules"
 }
