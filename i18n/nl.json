@@ -3126,5 +3126,6 @@
 	"Single text": "Enkele tekst",
 	"Selection list": "Keuzelijst",
 	"Add option": "Optie toevoegen",
-	"Technical value used to store this option. Spaces become underscores and the value is saved in lowercase": "Technische waarde die gebruikt wordt om deze optie op te slaan. Spaties worden underscores en de waarde wordt in kleine letters opgeslagen"
+	"Technical value used to store this option. Spaces become underscores and the value is saved in lowercase": "Technische waarde die gebruikt wordt om deze optie op te slaan. Spaties worden underscores en de waarde wordt in kleine letters opgeslagen",
+	"Option value": "Optiewaarde"
 }
