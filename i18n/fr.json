@@ -3134,5 +3134,6 @@
 	"Copy from type": "Copier depuis le type",
 	"Already exists": "Existe déjà",
 	"PDF title behaviour": "Comportement du titre PDF",
-	"If the title ends with text between parentheses, that last part is shown on the next line as subtitle in the PDF.": "Si le titre se termine par un texte entre parenthèses, cette dernière partie est affichée sur la ligne suivante comme sous-titre dans le PDF."
+	"If the title ends with text between parentheses, that last part is shown on the next line as subtitle in the PDF.": "Si le titre se termine par un texte entre parenthèses, cette dernière partie est affichée sur la ligne suivante comme sous-titre dans le PDF.",
+	"Copy placeholders": "Copier les placeholders"
 }

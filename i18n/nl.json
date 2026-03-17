@@ -3133,6 +3133,7 @@
 	"{{count}} placeholders copied.": "{{count}} placeholders gekopieerd.",
 	"Copy from type": "Kopiëren van type",
 	"Already exists": "Bestaat al",
-	 "PDF title behaviour": "Gedrag van de PDF-titel",
-  "If the title ends with text between parentheses, that last part is shown on the next line as subtitle in the PDF.": "Als de titel eindigt met tekst tussen haakjes, wordt dat laatste deel op de volgende regel als ondertitel in de PDF weergegeven."
+	"PDF title behaviour": "Gedrag van de PDF-titel",
+	"If the title ends with text between parentheses, that last part is shown on the next line as subtitle in the PDF.": "Als de titel eindigt met tekst tussen haakjes, wordt dat laatste deel op de volgende regel als ondertitel in de PDF weergegeven.",
+	"Copy placeholders": "Placeholders kopiëren"
 }
