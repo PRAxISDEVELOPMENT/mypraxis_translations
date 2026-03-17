@@ -3098,7 +3098,7 @@
 	"To disable the installation address on the invoice, please check the box below to confirm your consent.": "Gelieve het onderstaande vakje aan te vinken om uw toestemming te bevestigen voor het uitschakelen van het installatieadres op de factuur.",
 	"You are about to enable the installation address on the invoice.": "U staat op het punt het installatieadres op de factuur in te schakelen.",
 	"I hereby confirm that, until further notice, I agree that the installation address will no longer be shown on the invoice.": "Hierbij bevestig ik dat ik er tot nader bericht mee akkoord ga dat het installatieadres niet langer op de factuur wordt weergegeven.",
-	"Delete contract generator placholder": "Placeholder van contractgenerator verwijderen",
+	"Delete contract generator placeholder": "Placeholder van contractgenerator verwijderen",
 	"Change contract generator placeholder": "Placeholder van contractgenerator wijzigen",
 	"Contract generator placeholder added": "Placeholder van contractgenerator toegevoegd",
 	"Visible name": "Zichtbare naam",
@@ -3127,5 +3127,7 @@
 	"Selection list": "Keuzelijst",
 	"Add option": "Optie toevoegen",
 	"Technical value used to store this option. Spaces become underscores and the value is saved in lowercase": "Technische waarde die gebruikt wordt om deze optie op te slaan. Spaties worden underscores en de waarde wordt in kleine letters opgeslagen",
-	"Option value": "Optiewaarde"
+	"Option value": "Optiewaarde",
+	"Contract generator placeholder deleted": "Placeholder van contractgenerator verwijderd",
+	"You are about to delete placeholder: {{value}}.": "U staat op het punt placeholder te verwijderen: {{value}}."
 }
