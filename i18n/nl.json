@@ -3135,5 +3135,6 @@
 	"Already exists": "Bestaat al",
 	"PDF title behaviour": "Gedrag van de PDF-titel",
 	"If the title ends with text between parentheses, that last part is shown on the next line as subtitle in the PDF.": "Als de titel eindigt met tekst tussen haakjes, wordt dat laatste deel op de volgende regel als ondertitel in de PDF weergegeven.",
-	"Copy placeholders": "Placeholders kopiëren"
+	"Copy placeholders": "Placeholders kopiëren",
+	"When generating the contract, the API data determines whether the indexed or non-indexed section is used.": "Bij het genereren van het contract bepaalt de API-data of de geïndexeerde of niet-geïndexeerde sectie wordt gebruikt."
 }
