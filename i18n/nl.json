@@ -3129,5 +3129,8 @@
 	"Technical value used to store this option. Spaces become underscores and the value is saved in lowercase": "Technische waarde die gebruikt wordt om deze optie op te slaan. Spaties worden underscores en de waarde wordt in kleine letters opgeslagen",
 	"Option value": "Optiewaarde",
 	"Contract generator placeholder deleted": "Placeholder van contractgenerator verwijderd",
-	"You are about to delete placeholder: {{value}}.": "U staat op het punt placeholder te verwijderen: {{value}}."
+	"You are about to delete placeholder: {{value}}.": "U staat op het punt placeholder te verwijderen: {{value}}.",
+	"{{count}} placeholders copied.": "{{count}} placeholders gekopieerd.",
+	"Copy from type": "Kopiëren van type",
+	"Already exists": "Bestaat al"
 }

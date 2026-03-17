@@ -3129,5 +3129,8 @@
 	"Technical value used to store this option. Spaces become underscores and the value is saved in lowercase": "Valeur technique utilisée pour enregistrer cette option. Les espaces deviennent des underscores et la valeur est enregistrée en minuscules",
 	"Option value": "Valeur de l’option",
 	"Contract generator placeholder deleted": "Placeholder du générateur de contrat supprimé",
-	"You are about to delete placeholder: {{value}}.": "Vous êtes sur le point de supprimer le placeholder : {{value}}."
+	"You are about to delete placeholder: {{value}}.": "Vous êtes sur le point de supprimer le placeholder: {{value}}.",
+	"{{count}} placeholders copied.": "{{count}} placeholders copiés.",
+	"Copy from type": "Copier depuis le type",
+	"Already exists": "Existe déjà"
 }
