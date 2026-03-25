@@ -3156,5 +3156,6 @@
 	"Signer name": "Nom du signataire",
 	"Signer language": "Langue du signataire",
 	"Signer email": "Adresse e-mail du signataire",
-	"Docusign envelope ID": "ID d’enveloppe Docusign"
+	"Docusign envelope ID": "ID d’enveloppe Docusign",
+	"Create contract": "Créer un contrat"
 }

@@ -3156,5 +3156,6 @@
 	"Signer name": "Naam ondertekenaar",
 	"Signer language": "Taal ondertekenaar",
 	"Signer email": "E-mailadres ondertekenaar",
-	"Docusign envelope ID": "Docusign envelope ID"
+	"Docusign envelope ID": "Docusign envelope ID",
+	"Create contract": "Contract opmaken"
 }
