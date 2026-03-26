@@ -3157,5 +3157,8 @@
 	"Signer language": "Taal ondertekenaar",
 	"Signer email": "E-mailadres ondertekenaar",
 	"Docusign envelope ID": "Docusign envelope ID",
-	"Create contract": "Contract opmaken"
+	"Create contract": "Contract opmaken",
+	"Rebuild contract": "Contract opnieuw opmaken",
+	"Translations": "Vertalingen",
+	"Manage contracts": "Contracten beheren"
 }

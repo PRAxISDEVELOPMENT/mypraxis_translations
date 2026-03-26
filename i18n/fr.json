@@ -3157,5 +3157,8 @@
 	"Signer language": "Langue du signataire",
 	"Signer email": "Adresse e-mail du signataire",
 	"Docusign envelope ID": "ID d’enveloppe Docusign",
-	"Create contract": "Créer un contrat"
+	"Create contract": "Créer un contrat",
+	"Rebuild contract": "Reconstruire le contrat",
+	"Translations": "Traductions",
+	"Manage contracts": "Gérer les contrats"
 }
