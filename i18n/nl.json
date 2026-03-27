@@ -3160,5 +3160,22 @@
 	"Create contract": "Contract opmaken",
 	"Rebuild contract": "Contract opnieuw opmaken",
 	"Translations": "Vertalingen",
-	"Manage contracts": "Contracten beheren"
+	"Manage contracts": "Contracten beheren",
+	"Editor": "Editor",
+	"Variables": "Variabelen",
+	"Variable copied": "Variabele gekopieerd",
+	"Failed to copy variable": "Kopiëren van variabele mislukt",
+	"Copy variables": "Variabelen kopiëren",
+	"Detected variables": "Gedetecteerde variabelen",
+	"Dynamic variables": "Dynamische variabelen",
+	"No variables configured for this type": "Er zijn geen variabelen geconfigureerd voor dit type",
+	"No variables yet": "Nog geen variabelen",
+	"{{count}} variables copied.": "{{count}} variabelen gekopieerd.",
+	"No dynamic variables found": "Geen dynamische variabelen gevonden",
+	"Split row structure": "Gesplitste rijstructuur",
+	"Copy split row example": "Voorbeeld van gesplitste rij kopiëren",
+	"Copy sign anchor": "Ondertekeningvariabele kopiëren",
+	"DocuSign anchor": "DocuSign variabele",
+	"Preview": "Voorbeeld",
+	"variable(s)": "variabele(n)"
 }

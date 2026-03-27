@@ -3160,5 +3160,22 @@
 	"Create contract": "Créer un contrat",
 	"Rebuild contract": "Reconstruire le contrat",
 	"Translations": "Traductions",
-	"Manage contracts": "Gérer les contrats"
+	"Manage contracts": "Gérer les contrats",
+	"Editor": "Éditeur",
+	"Variables": "Variables",
+	"Variable copied": "Variable copiée",
+	"Failed to copy variable": "Échec de la copie de la variable",
+	"Copy variables": "Copier les variables",
+	"Detected variables": "Variables détectées",
+	"Dynamic variables": "Variables dynamiques",
+	"No variables configured for this type": "Aucune variable n'est configurée pour ce type",
+	"No variables yet": "Aucune variable pour le moment",
+	"{{count}} variables copied.": "{{count}} variables copiées.",
+	"No dynamic variables found": "Aucune variable dynamique trouvée",
+	"Split row structure": "Structure de ligne scindée",
+	"Copy split row example": "Copier l'exemple de ligne scindée",
+	"Copy sign anchor": "Copier la variable de signature",
+	"DocuSign anchor": "Variable DocuSign",
+	"Preview": "Aperçu",
+	"variable(s)": "variable(s)"
 }
