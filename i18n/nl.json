@@ -3200,5 +3200,6 @@
 	"Sections": "Secties",
 	"Overview of the fixed and optional sections within this contract layout.": "Overzicht van de vaste en optionele secties binnen deze contractopmaak.",
 	"Overview of the attachments included in this contract layout, including their requirement and source.": "Overzicht van de bijlagen binnen deze contractopmaak, inclusief hun verplichting en herkomst.",
-	"After receipt of the signed contract": "Na ontvangst van het getekende contract"
+	"After receipt of the signed contract": "Na ontvangst van het getekende contract",
+	"Required": "Verplicht"
 }
