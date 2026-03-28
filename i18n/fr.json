@@ -3192,5 +3192,13 @@
 	"Addendum 4: Commercial action(s)": "Avenant 4 : Action(s) commerciale(s)",
 	"This addendum can only be added when commercial action data is linked in MyPRAxIS. If selected during contract setup, it is automatically added to the generated contract via API.": "Cet avenant ne peut être ajouté que si des données d’action commerciale sont liées dans MyPRAxIS. S’il est sélectionné lors de la mise en forme du contrat, il est ajouté automatiquement au contrat généré via l’API.",
 	"Model ALARM CENTER CERTIFICATE": "Modèle ATTESTATION CENTRALE D’ALARME",
-	"After receipt of the signed contract, this certificate is generated via API and sent by email.": "Après réception du contrat signé, cette attestation est générée via l’API et envoyée par e-mail."
+	"After receipt of the signed contract, this certificate is generated via API and sent by email.": "Après réception du contrat signé, cette attestation est générée via l’API et envoyée par e-mail.",
+	"Selectable during setup": "Sélectionnable lors de la mise en forme",
+	"Include during setup": "À inclure lors de la mise en forme",
+	"Optional": "Optionnel",
+	"After signing": "Après signature",
+	"Sections": "Sections",
+	"Overview of the fixed and optional sections within this contract layout.": "Aperçu des sections fixes et optionnelles dans cette mise en forme de contrat.",
+	"Overview of the attachments included in this contract layout, including their requirement and source.": "Aperçu des annexes incluses dans cette mise en forme de contrat, y compris leur caractère obligatoire et leur source.",
+	"After receipt of the signed contract": "Après réception du contrat signé",
 }
