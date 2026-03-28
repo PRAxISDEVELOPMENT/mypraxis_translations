@@ -3192,5 +3192,13 @@
 	"Addendum 4: Commercial action(s)": "Avenant 4: Commerciële actie(s)",
 	"This addendum can only be added when commercial action data is linked in MyPRAxIS. If selected during contract setup, it is automatically added to the generated contract via API.": "Alleen toevoegbaar wanneer in MyPRAxIS data voor commerciële actie(s) gekoppeld werd. Indien geselecteerd bij de opmaak van het contract, wordt deze via de API automatisch toegevoegd aan het opgemaakte contract.",
 	"Model ALARM CENTER CERTIFICATE": "Model ATTEST ALARMCENTRALE",
-	"After receipt of the signed contract, this certificate is generated via API and sent by email.": "Na ontvangst van het getekende contract wordt dit attest via API opgemaakt en verstuurd per e-mail."
+	"After receipt of the signed contract, this certificate is generated via API and sent by email.": "Na ontvangst van het getekende contract wordt dit attest via API opgemaakt en verstuurd per e-mail.",
+	"Selectable during setup": "Selecteerbaar bij opmaak",
+	"Include during setup": "Op te nemen bij opmaak",
+	"Optional": "Optioneel",
+	"After signing": "Na ondertekening",
+	"Sections": "Secties",
+	"Overview of the fixed and optional sections within this contract layout.": "Overzicht van de vaste en optionele secties binnen deze contractopmaak.",
+	"Overview of the attachments included in this contract layout, including their requirement and source.": "Overzicht van de bijlagen binnen deze contractopmaak, inclusief hun verplichting en herkomst.",
+	"After receipt of the signed contract": "Na ontvangst van het getekende contract"
 }
