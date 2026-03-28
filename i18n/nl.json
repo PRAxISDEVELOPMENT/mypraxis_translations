@@ -3178,5 +3178,19 @@
 	"DocuSign anchor": "DocuSign variabele",
 	"Preview": "Voorbeeld",
 	"Variable(s)": "Variabele(n)",
-    "Section position changed": "Sectiepositie gewijzigd"
+	"Section position changed": "Sectiepositie gewijzigd",
+	"Additional agreement(s)": "Bijkomende overeenkomst(en)",
+	"This additional section can optionally be added before the attachments during contract setup.": "Deze extra sectie kan bij de opmaak van het contract wel of niet toegevoegd worden vóór de bijlagen.",
+	"Indexation": "Indexering",
+	"Include this section in the layout. The section used during contract setup is determined based on the data in MyPRAxIS.": "Voorzie deze sectie in de opmaak. Welke sectie gebruikt wordt bij de opmaak van het contract, wordt bepaald aan de hand van de data in MyPRAxIS.",
+	"No indexation": "Geen indexering",
+	"Annex 1: Telemonitoring and video surveillance contract": "Bijlage 1: Contract van telebewaking en videobewaking",
+	"Automatically added to the generated contract via API.": "Wordt via de API automatisch toegevoegd aan het opgemaakte contract.",
+	"Annex 2: Installer price list": "Bijlage 2: Prijslijst installateur",
+	"Addendum 3: Guard service": "Avenant 3: Wachtdienst",
+	"This addendum can only be added when guard service data is linked in MyPRAxIS. If selected during contract setup, it is automatically added to the generated contract via API.": "Alleen toevoegbaar wanneer in MyPRAxIS data voor wachtdienst gekoppeld werd. Indien geselecteerd bij de opmaak van het contract, wordt deze via de API automatisch toegevoegd aan het opgemaakte contract.",
+	"Addendum 4: Commercial action(s)": "Avenant 4: Commerciële actie(s)",
+	"This addendum can only be added when commercial action data is linked in MyPRAxIS. If selected during contract setup, it is automatically added to the generated contract via API.": "Alleen toevoegbaar wanneer in MyPRAxIS data voor commerciële actie(s) gekoppeld werd. Indien geselecteerd bij de opmaak van het contract, wordt deze via de API automatisch toegevoegd aan het opgemaakte contract.",
+	"Model ALARM CENTER CERTIFICATE": "Model ATTEST ALARMCENTRALE",
+	"After receipt of the signed contract, this certificate is generated via API and sent by email.": "Na ontvangst van het getekende contract wordt dit attest via API opgemaakt en verstuurd per e-mail."
 }
