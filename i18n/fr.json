@@ -3206,5 +3206,7 @@
 	"Values": "Valeurs",
 	"Changed": "Modifié",
 	"Pending changes": "Modifications en attente",
-	"Current": "Actuel"
+	"Current": "Actuel",
+	"Send on": "Envoyé le",
+	"E-mail": "E-mail"
 }

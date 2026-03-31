@@ -3206,5 +3206,7 @@
 	"Values": "Waarden",
 	"Changed": "Gewijzigd",
 	"Pending changes": "Openstaande wijzigingen",
-	"Current": "Huidig"
+	"Current": "Huidig",
+	"Send on": "Sent on",
+	"E-mail": "E-mail"
 }
