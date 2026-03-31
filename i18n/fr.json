@@ -3208,5 +3208,9 @@
 	"Pending changes": "Modifications en attente",
 	"Current": "Actuel",
 	"Send on": "Envoyé le",
-	"E-mail": "E-mail"
+	"E-mail": "E-mail",
+	"This concerns a linked customer. This customer cannot be deactivated as long as it is linked. Please contact finance@praxis-group.eu to have it unlinked and deactivated.": "Il s'agit d'un client lié. Ce client ne peut pas être désactivé tant qu'il est lié. Veuillez le signaler à finance@praxis-group.eu afin qu'il soit dissocié et désactivé.",
+	"Originally incomplete in the source data": "Initialement incomplet dans les données source",
+	"{{count}} local change(s) not yet saved.": "{{count}} modification(s) locale(s) pas encore enregistrée(s).",
+	"Busyness indicator": "Baromètre d’activité"
 }

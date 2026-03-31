@@ -3208,5 +3208,9 @@
 	"Pending changes": "Openstaande wijzigingen",
 	"Current": "Huidig",
 	"Send on": "Sent on",
-	"E-mail": "E-mail"
+	"E-mail": "E-mail",
+	"This concerns a linked customer. This customer cannot be deactivated as long as it is linked. Please contact finance@praxis-group.eu to have it unlinked and deactivated.": "Dit betreft een gelinkte klant. Deze klant kan niet stopgezet worden zolang deze gelinkt is. Gelieve dit door te geven aan finance@praxis-group.eu om deze los te koppelen en stop te zetten.",
+	"Originally incomplete in the source data": "Oorspronkelijk onvolledig in de brongegevens",
+	"{{count}} local change(s) not yet saved.": "{{count}} lokale wijziging(en) nog niet opgeslagen.",
+	"Busyness indicator": "Druktebarometer"
 }
