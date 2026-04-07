@@ -3281,5 +3281,16 @@
 	"Select this addendum when guard service data must be included. If selected, it is automatically added to the generated contract.": "Sélectionnez cet avenant lorsque les données du service de garde doivent être incluses. S'il est sélectionné, il est automatiquement ajouté au contrat généré.",
 	"Select this addendum when commercial action data must be included. If selected, it is automatically added to the generated contract.": "Sélectionnez cet avenant lorsque les données de l'action commerciale doivent être incluses. S'il est sélectionné, il est automatiquement ajouté au contrat généré.",
 	"During contract creation, MyPRAxIS automatically determines, based on the data in the pricelist of the selected installer, whether the indexed or non-indexed section must be used.": "Lors de la création du contrat, MyPRAxIS détermine automatiquement, sur la base des données figurant dans la liste de prix de l'installateur sélectionné, si la section indexée ou non indexée doit être utilisée.",
-	"No variables specified": "Aucune variable spécifiée"
+	"No variables specified": "Aucune variable spécifiée",
+	"Sales journal": "Journal des ventes",
+	"Bills": "Factures",
+	"Invoice name": "Nom de la facture",
+	"Payed": "Payé",
+	"Pending": "En attente",
+	"Finalized": "Finalisé",
+	"Pending commissions": "Commissions en attente",
+	"Finalized commissions": "Commissions finalisées",
+	"Client unpaid": "Client non payé",
+	"Awaiting approval": "En attente d’approbation",
+	"Ready for self billing": "Prêt pour l’auto-facturation"
 }

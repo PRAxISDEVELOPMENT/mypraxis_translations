@@ -3281,5 +3281,16 @@
 	"Select this addendum when guard service data must be included. If selected, it is automatically added to the generated contract.": "Selecteer dit addendum wanneer de wachtdienst moeten worden opgenomen. Indien geselecteerd, wordt het automatisch toegevoegd aan het gegenereerde contract.",
 	"Select this addendum when commercial action data must be included. If selected, it is automatically added to the generated contract.": "Selecteer dit addendum wanneer de commerciële actie(s) moeten worden opgenomen. Indien geselecteerd, wordt het automatisch toegevoegd aan het gegenereerde contract.",
 	"During contract creation, MyPRAxIS automatically determines, based on the data in the pricelist of the selected installer, whether the indexed or non-indexed section must be used.": "Tijdens het aanmaken van het contract bepaalt MyPRAxIS automatisch, op basis van de gegevens in de prijslijst van de geselecteerde installateur, of de geïndexeerde of niet-geïndexeerde sectie moet worden gebruikt.",
-	"No variables specified": "Geen variabelen opgegeven"
+	"No variables specified": "Geen variabelen opgegeven",
+	"Sales journal": "Verkoopdagboek",
+	"Bills": "Facturen",
+	"Invoice name": "Factuurnaam",
+	"Payed": "Betaald",
+	"Pending": "In afwachting",
+	"Finalized": "Voltooid",
+	"Pending commissions": "Commissies in afwachting",
+	"Finalized commissions": "Voltooide commissies",
+	"Client unpaid": "Klant niet betaald",
+	"Awaiting approval": "In afwachting van goedkeuring",
+	"Ready for self billing": "Klaar voor zelffacturatie"
 }
