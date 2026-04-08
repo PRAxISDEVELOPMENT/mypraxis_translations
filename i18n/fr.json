@@ -3293,5 +3293,14 @@
 	"Client unpaid": "Client non payé",
 	"Awaiting approval": "En attente d’approbation",
 	"Ready for self billing": "Prêt pour l’auto-facturation",
-	"Commissions": "Commissions"
+	"Commissions": "Commissions",
+	"Generate preview": "Générer l’aperçu",
+	"Preview ready": "Aperçu prêt",
+	"Document sent to DocuSign": "Document envoyé à DocuSign",
+	"DocuSign details": "Détails DocuSign",
+	"Contract preview": "Aperçu du contrat",
+	"Document name": "Nom du document",
+	"Signer e-mail": "Adresse e-mail du signataire",
+	"Signature on page": "Signature sur la page",
+	"Send to DocuSign": "Envoyer à DocuSign"
 }

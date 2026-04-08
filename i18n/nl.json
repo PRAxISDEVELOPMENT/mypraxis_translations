@@ -3293,5 +3293,14 @@
 	"Client unpaid": "Klant niet betaald",
 	"Awaiting approval": "In afwachting van goedkeuring",
 	"Ready for self billing": "Klaar voor zelffacturatie",
-	"Commissions": "Commissies"
+	"Commissions": "Commissies",
+	"Generate preview": "Voorbeeld genereren",
+	"Preview ready": "Voorbeeld klaar",
+	"Document sent to DocuSign": "Document verzonden naar DocuSign",
+	"DocuSign details": "DocuSign gegevens",
+	"Contract preview": "Contractvoorbeeld",
+	"Document name": "Documentnaam",
+	"Signer e-mail": "E-mailadres van ondertekenaar",
+	"Signature on page": "Handtekening op pagina",
+	"Send to DocuSign": "Verzenden naar DocuSign"
 }
