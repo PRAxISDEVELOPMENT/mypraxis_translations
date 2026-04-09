@@ -3302,5 +3302,15 @@
 	"Document name": "Documentnaam",
 	"Signer e-mail": "E-mailadres van ondertekenaar",
 	"Signature on page": "Handtekening op pagina",
-	"Send to DocuSign": "Verzenden naar DocuSign"
+	"Send to DocuSign": "Verzenden naar DocuSign",
+	"Select callcenter": "Selecteer wachdienst",
+	"Back to editing": "Terug naar bewerken",
+	"{{count}} change(s)": "{{count}} wijziging(en)",
+	"Original value": "Originele waarde",
+	"Delete document type(s)": "Documenttype(s) verwijderen",
+	"Change document type": "Documenttype wijzigen",
+	"Document type added": "Documenttype toegevoegd",
+	"Document type changed": "Documenttype gewijzigd",
+	"You are about to delete {{value}} document type(s).": "U staat op het punt {{value}} documenttype(s) te verwijderen.",
+	"{{value}} document type(s) deleted": "{{value}} documenttype(s) verwijderd"
 }
