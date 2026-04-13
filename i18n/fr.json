@@ -3312,5 +3312,12 @@
 	"Document type added": "Type de document ajouté",
 	"Document type changed": "Type de document modifié",
 	"You are about to delete {{value}} document type(s).": "Vous êtes sur le point de supprimer {{value}} type(s) de document.",
-	"{{value}} document type(s) deleted": "{{value}} type(s) de document supprimé(s)"
+	"{{value}} document type(s) deleted": "{{value}} type(s) de document supprimé(s)",
+	"Use the field name from the API response that should be inserted into the contract, for example name, email or company_name. The contract wizard will resolve this automatically from the configured endpoint": "Utilisez le nom du champ de la réponse API qui doit être inséré dans le contrat, par exemple name, email ou company_name. L’assistant de contrat le résoudra automatiquement à partir du point de terminaison configuré.",
+	"1x per month": "1x par mois",
+	"Every 14 days": "Tous les 14 jours",
+	"Company number": "Numéro d’entreprise",
+	"First name of the director": "Prénom du gérant",
+	"Surname of the director": "Nom du gérant",
+	"Commission note period": "Période de la note de commission"
 }

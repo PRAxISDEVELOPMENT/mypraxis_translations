@@ -3312,5 +3312,12 @@
 	"Document type added": "Documenttype toegevoegd",
 	"Document type changed": "Documenttype gewijzigd",
 	"You are about to delete {{value}} document type(s).": "U staat op het punt {{value}} documenttype(s) te verwijderen.",
-	"{{value}} document type(s) deleted": "{{value}} documenttype(s) verwijderd"
+	"{{value}} document type(s) deleted": "{{value}} documenttype(s) verwijderd",
+	"Use the field name from the API response that should be inserted into the contract, for example name, email or company_name. The contract wizard will resolve this automatically from the configured endpoint": "Gebruik de veldnaam uit de API-respons die in het contract moet worden ingevoegd, bijvoorbeeld name, email of company_name. De contractwizard zal dit automatisch ophalen via het geconfigureerde endpoint.",
+	"1x per month": "1x per maand",
+	"Every 14 days": "Om de 14 dagen",
+	"Company number": "Ondernemingsnummer",
+	"First name of the director": "Voornaam zaakvoerder",
+	"Surname of the director": "Achternaam zaakvoerder",
+	"Commission note period": "Periode van de commissienota"
 }
