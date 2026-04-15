@@ -3320,5 +3320,22 @@
 	"First name of the director": "Voornaam zaakvoerder",
 	"Surname of the director": "Achternaam zaakvoerder",
 	"Commission note period": "Periode van de commissienota",
-	"Contract duration": "Duur contract"
+	"Contract duration": "Duur contract",
+	"Open proposal": "Voorstel openen",
+	"{{count}} item(s)": "{{count}} item(s)",
+	"Open PR": "PR openen",
+	"Local changes": "Lokale wijzigingen",
+	"Open proposals": "Voorstellen openen",
+	"At least one translation update is required.": "Er is minstens één vertaalupdate vereist.",
+	"At least one translation proposal is required.": "Er is minstens één vertaalvoorstel vereist.",
+	"No matching workflow run was found for the translation upload.": "Er is geen overeenkomende workflow-uitvoering gevonden voor de vertaalupload.",
+	"Workflow: {{workflow}}. Branch: {{branch}}. Commit: {{commit}}. Upload: {{upload}}.": "Workflow: {{workflow}}. Branch: {{branch}}. Commit: {{commit}}. Upload: {{upload}}.",
+	"The translation bot only triggers for files committed directly under i18n/uploads/incoming/*.json and for proposal branches under translation_proposals/**.": "De vertaalbot wordt alleen geactiveerd voor bestanden die rechtstreeks onder i18n/uploads/incoming/*.json zijn gecommit en voor voorstelbranches onder translation_proposals/**.",
+	"A branch name is required.": "Een branchnaam is vereist.",
+	"Failed to submit all translation changes.": "Het is niet gelukt om alle vertaalwijzigingen in te dienen.",
+	"Proposal": "Voorstel",
+	"Add at least one translation proposal.": "Voeg minstens één vertaalvoorstel toe.",
+	"Company registration number can only be changed upon request via finance@praxis-group.eu.": "Het ondernemingsnummer kan alleen op verzoek worden gewijzigd via finance@praxis-group.eu.",
+	"Order reference number": "Orderreferentienummer",
+	"Company registration number": "Ondernemingsnummer"
 }

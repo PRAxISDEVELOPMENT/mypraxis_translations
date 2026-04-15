@@ -3320,5 +3320,22 @@
 	"First name of the director": "Prénom du gérant",
 	"Surname of the director": "Nom du gérant",
 	"Commission note period": "Période de la note de commission",
-	"Contract duration": "Durée du contrat"
+	"Contract duration": "Durée du contrat",
+	"Open proposal": "Ouvrir la proposition",
+	"{{count}} item(s)": "{{count}} élément(s)",
+	"Open PR": "Ouvrir la PR",
+	"Local changes": "Modifications locales",
+	"Open proposals": "Ouvrir les propositions",
+	"At least one translation update is required.": "Au moins une mise à jour de traduction est requise.",
+	"At least one translation proposal is required.": "Au moins une proposition de traduction est requise.",
+	"No matching workflow run was found for the translation upload.": "Aucune exécution de workflow correspondante n’a été trouvée pour le téléversement de traduction.",
+	"Workflow: {{workflow}}. Branch: {{branch}}. Commit: {{commit}}. Upload: {{upload}}.": "Workflow : {{workflow}}. Branche : {{branch}}. Commit : {{commit}}. Téléversement : {{upload}}.",
+	"The translation bot only triggers for files committed directly under i18n/uploads/incoming/*.json and for proposal branches under translation_proposals/**.": "Le bot de traduction se déclenche uniquement pour les fichiers commités directement sous i18n/uploads/incoming/*.json et pour les branches de proposition sous translation_proposals/**.",
+	"A branch name is required.": "Un nom de branche est requis.",
+	"Failed to submit all translation changes.": "Échec de l’envoi de toutes les modifications de traduction.",
+	"Proposal": "Proposition",
+	"Add at least one translation proposal.": "Ajoutez au moins une proposition de traduction.",
+	"Company registration number can only be changed upon request via finance@praxis-group.eu.": "Le numéro d’entreprise ne peut être modifié que sur demande via finance@praxis-group.eu.",
+	"Order reference number": "Numéro de référence de commande",
+	"Company registration number": "Numéro d’entreprise"
 }
