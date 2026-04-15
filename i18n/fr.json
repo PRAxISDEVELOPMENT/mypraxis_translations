@@ -3338,5 +3338,7 @@
 	"Company registration number can only be changed upon request via finance@praxis-group.eu.": "Le numéro d’entreprise ne peut être modifié que sur demande via finance@praxis-group.eu.",
 	"Order reference number": "Numéro de référence de commande",
 	"Company registration number": "Numéro d’entreprise",
-	"{{count}} translation proposal(s) submitted": "{{count}} proposition(s) de traduction soumise(s)"
+	"{{count}} translation proposal(s) submitted": "{{count}} proposition(s) de traduction soumise(s)",
+	"Updated {{value}}": "Mis a jour {{value}}",
+	"Translation proposal": "Proposition de traduction"
 }
