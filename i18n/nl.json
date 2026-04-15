@@ -3325,7 +3325,7 @@
 	"{{count}} item(s)": "{{count}} item(s)",
 	"Open PR": "PR openen",
 	"Local changes": "Lokale wijzigingen",
-	"Open proposals": "Voorstellen openen",
+	"Open proposals": "Openstaande voorstellen",
 	"At least one translation update is required.": "Er is minstens één vertaalupdate vereist.",
 	"At least one translation proposal is required.": "Er is minstens één vertaalvoorstel vereist.",
 	"No matching workflow run was found for the translation upload.": "Er is geen overeenkomende workflow-uitvoering gevonden voor de vertaalupload.",
@@ -3337,5 +3337,6 @@
 	"Add at least one translation proposal.": "Voeg minstens één vertaalvoorstel toe.",
 	"Company registration number can only be changed upon request via finance@praxis-group.eu.": "Het ondernemingsnummer kan alleen op verzoek worden gewijzigd via finance@praxis-group.eu.",
 	"Order reference number": "Orderreferentienummer",
-	"Company registration number": "Ondernemingsnummer"
+	"Company registration number": "Ondernemingsnummer",
+	"{{count}} translation proposal(s) submitted": "{{count}} vertaalvoorstel(len) ingediend"
 }

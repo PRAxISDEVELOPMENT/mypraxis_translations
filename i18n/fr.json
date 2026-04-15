@@ -3321,7 +3321,7 @@
 	"Surname of the director": "Nom du gérant",
 	"Commission note period": "Période de la note de commission",
 	"Contract duration": "Durée du contrat",
-	"Open proposal": "Ouvrir la proposition",
+	"Open proposal": "Propositions en cours",
 	"{{count}} item(s)": "{{count}} élément(s)",
 	"Open PR": "Ouvrir la PR",
 	"Local changes": "Modifications locales",
@@ -3337,5 +3337,6 @@
 	"Add at least one translation proposal.": "Ajoutez au moins une proposition de traduction.",
 	"Company registration number can only be changed upon request via finance@praxis-group.eu.": "Le numéro d’entreprise ne peut être modifié que sur demande via finance@praxis-group.eu.",
 	"Order reference number": "Numéro de référence de commande",
-	"Company registration number": "Numéro d’entreprise"
+	"Company registration number": "Numéro d’entreprise",
+	"{{count}} translation proposal(s) submitted": "{{count}} proposition(s) de traduction soumise(s)"
 }
