@@ -3351,5 +3351,7 @@
 	"Per second": "Par seconde",
 	"Calls billed per": "Appels facturés par",
 	"Office hours": "Heures de bureau",
-	"Linked installers": "Installateurs liés"
+	"Linked installers": "Installateurs liés",
+	"Office hours until": "Heures d’ouverture jusqu’à",
+	"Office hours from": "Heures d’ouverture de"
 }
