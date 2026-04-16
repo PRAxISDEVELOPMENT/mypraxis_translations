@@ -3340,5 +3340,15 @@
 	"Company registration number": "Numéro d’entreprise",
 	"{{count}} translation proposal(s) submitted": "{{count}} proposition(s) de traduction soumise(s)",
 	"Updated {{value}}": "Mis a jour {{value}}",
-	"Translation proposal": "Proposition de traduction"
+	"Translation proposal": "Proposition de traduction",
+	"Financial preferences": "Préférences financières",
+	"Linked installer numbers": "Numéros d’installateur liés",
+	"Include outgoing client calls": "Inclure les appels sortants des clients",
+	"Free after hours for active clients": "Gratuit en dehors des heures de bureau pour les clients actifs",
+	"At least 1 linked installer is required": "Au moins 1 numéro d’installateur lié est requis",
+	"Per call": "Par appel",
+	"Per minute": "Par minute",
+	"Per second": "Par seconde",
+	"Calls billed per": "Appels facturés par",
+	"Office hours": "Heures de bureau"
 }

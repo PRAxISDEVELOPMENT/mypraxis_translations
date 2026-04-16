@@ -3340,5 +3340,15 @@
 	"Company registration number": "Ondernemingsnummer",
 	"{{count}} translation proposal(s) submitted": "{{count}} vertaalvoorstel(len) ingediend",
 	"Updated {{value}}": "Bijgewerkt {{value}}",
-	"Translation proposal": "Vertaalvoorstel"
+	"Translation proposal": "Vertaalvoorstel",
+	"Financial preferences": "Financiële voorkeuren",
+	"Linked installer numbers": "Gekoppelde installateursnummers",
+	"Include outgoing client calls": "Uitgaande klantoproepen inbegrepen",
+	"Free after hours for active clients": "Gratis buiten kantooruren voor actieve klanten",
+	"At least 1 linked installer is required": "Minstens 1 gekoppeld installateursnummer is vereist",
+	"Per call": "Per oproep",
+	"Per minute": "Per minuut",
+	"Per second": "Per seconde",
+	"Calls billed per": "Oproepen aangerekend per",
+	"Office hours": "Kantooruren"
 }
