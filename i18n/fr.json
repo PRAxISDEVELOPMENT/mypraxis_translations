@@ -3365,5 +3365,13 @@
 	"PRAxIS commercial action": "Action commerciale PRAxIS",
 	"If a commercial action is active at installer level (for that invoice), this is the 'discount' the installer receives from PRAxIS": "Si une action commerciale est active au niveau de l’installateur (concernant cette facture), il s’agit de la 'remise' que l’installateur reçoit de PRAxIS",
 	"Installer commission": "Commission installateur",
-	"Final amount to be paid out to the installer as commission": "Le montant final qui sera versé à l’installateur comme commission"
+	"Final amount to be paid out to the installer as commission": "Le montant final qui sera versé à l’installateur comme commission",
+	"Odoo factuur ID": "ID de facture Odoo",
+	"Commissie-/ naar profit nummer": "Numéro de commission / vers le profit",
+	"Installateur basis ID": "ID de base de l’installateur",
+	"Commissie annuleren": "Annuler la commission",
+	"Commissie geannuleerd": "Commission annulée",
+	"Facturatiegegevens opnieuw laden": "Recharger les données de facturation",
+	"Artikel verwijderen": "Supprimer l’article",
+	"Basisprijs installateur": "Prix de base installateur"
 }
