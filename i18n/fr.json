@@ -3354,5 +3354,16 @@
 	"Linked installers": "Installateurs liés",
 	"Office hours until": "Heures d’ouverture jusqu’à",
 	"Office hours from": "Heures d’ouverture de",
-	"Canceled": "Annulé"
+	"Canceled": "Annulé",
+	"Commission detail": "Détail de la commission",
+	"Total untaxed": "Total hors TVA",
+	"Total amount paid by end customer (EXCL. VAT)": "Montant total payé par le client final (HORS TVA)",
+	"Amount charged to the installer for delivered services": "Le montant que nous facturons à l’installateur pour les services fournis",
+	"PRAxIS cost": "Coût PRAxIS",
+	"PRAxIS commission cost": "Coût de commission PRAxIS",
+	"Extra amount charged to the installer because we handle invoicing with the customer": "Le montant supplémentaire que nous facturons à l’installateur parce que nous gérons la facturation avec le client",
+	"PRAxIS commercial action": "Action commerciale PRAxIS",
+	"If a commercial action is active at installer level (for that invoice), this is the 'discount' the installer receives from PRAxIS": "Si une action commerciale est active au niveau de l’installateur (concernant cette facture), il s’agit de la 'remise' que l’installateur reçoit de PRAxIS",
+	"Installer commission": "Commission installateur",
+	"Final amount to be paid out to the installer as commission": "Le montant final qui sera versé à l’installateur comme commission"
 }
