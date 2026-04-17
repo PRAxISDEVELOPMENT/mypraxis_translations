@@ -3349,9 +3349,10 @@
 	"Per call": "Per oproep",
 	"Per minute": "Per minuut",
 	"Per second": "Per seconde",
-	"Calls billed per": "Oproepen aangerekend per",
+	"Calls billed": "Oproepen aangerekend",
 	"Office hours": "Kantooruren",
 	"Linked installers": "Gekoppelde installateurs",
 	"Office hours until": "Openingsuren tot",
-	"Office hours from": "Openingsuren van"
+	"Office hours from": "Openingsuren van",
+	"Canceled": "Geannuleerd"
 }
