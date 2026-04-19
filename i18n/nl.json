@@ -3373,5 +3373,7 @@
 	"Commission canceled": "Commissie geannuleerd",
 	"Reload facturation data": "Facturatiegegevens opnieuw laden",
 	"Delete article": "Artikel verwijderen",
-	"Basic price installer": "Basisprijs installateur"
+	"Basic price installer": "Basisprijs installateur",
+	"Discounted item": "Kortingsartikel",
+	"External system ID": "Extern systeem-ID"
 }
