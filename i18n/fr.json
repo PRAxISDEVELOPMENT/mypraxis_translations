@@ -3379,5 +3379,8 @@
 	"Company data via KBO Public Search": "Données d’entreprise via KBO Public Search",
 	"Use the enterprise number to look up official public company data in KBO Public Search.": "Utilisez le numéro d’entreprise pour rechercher les données publiques officielles d’une entreprise dans KBO Public Search.",
 	"You can find the enterprise number, company name, address, legal form, status and, where available, the first and last name of persons with a legal function such as directors or managers.": "Vous pouvez y trouver le numéro d’entreprise, la dénomination de l’entreprise, l’adresse, la forme juridique, le statut et, lorsque disponibles, le prénom et le nom des personnes exerçant une fonction juridique, telles que les administrateurs ou les gérants.",
-	"Open KBO Public Search": "Ouvrir KBO Public Search"
+	"Open KBO Public Search": "Ouvrir KBO Public Search",
+	"Existing translations": "Traductions existantes",
+	"New translations": "Nouvelles traductions",
+	"Validated": "Validé"
 }
