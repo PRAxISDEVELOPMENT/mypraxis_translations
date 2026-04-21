@@ -3386,5 +3386,6 @@
 	"Price × (invoice index / base index installer)": "Prix de base × (indice de facture / indice de base installateur)",
 	"Commission request accepted": "Demande de commission approuvée",
 	"Accept commission request": "Approuver la demande de commission",
-	"Reload invoice lines": "Recharger les lignes de facture"
+	"Reload invoice lines": "Recharger les lignes de facture",
+	"Additional arrangements": "Accords complémentaires"
 }
