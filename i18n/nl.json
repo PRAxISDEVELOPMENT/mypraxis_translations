@@ -3385,5 +3385,6 @@
 	"Validated": "Gevalideerd",
 	"Price × (invoice index / base index installer)": "Basisprijs × (factuurindex / basisindex installateur)",
 	"Commission request accepted": "Commissieverzoek goedgekeurd",
-	"Accept commission request": "Commissieverzoek goedkeuren"
+	"Accept commission request": "Commissieverzoek goedkeuren",
+	"Reload invoice lines": "Factuurregels opnieuw laden"
 }
