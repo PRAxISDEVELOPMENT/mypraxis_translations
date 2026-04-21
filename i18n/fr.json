@@ -3382,5 +3382,8 @@
 	"Open KBO Public Search": "Ouvrir KBO Public Search",
 	"Existing translations": "Traductions existantes",
 	"New translations": "Nouvelles traductions",
-	"Validated": "Validé"
+	"Validated": "Validé",
+	"Price × (invoice index / base index installer)": "Prix de base × (indice de facture / indice de base installateur)",
+	"Commission request accepted": "Demande de commission approuvée",
+	"Accept commission request": "Approuver la demande de commission"
 }

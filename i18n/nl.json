@@ -3382,5 +3382,8 @@
 	"Open KBO Public Search": "Open KBO Public Search",
 	"Existing translations": "Bestaande vertalingen",
 	"New translations": "Nieuwe vertalingen",
-	"Validated": "Gevalideerd"
+	"Validated": "Gevalideerd",
+	"Price × (invoice index / base index installer)": "Basisprijs × (factuurindex / basisindex installateur)",
+	"Commission request accepted": "Commissieverzoek goedgekeurd",
+	"Accept commission request": "Commissieverzoek goedkeuren"
 }
