@@ -3390,5 +3390,13 @@
 	"Additional arrangements": "Bijkomende afspraken",
 	"Additional arrangements can only be configured through the section “Obligations of the contractors”.": "Bijkomende afspraken kunnen alleen worden geconfigureerd via de sectie “Verplichtingen van de contractanten”.",
 	"Configure": "Configureren",
-	"No additional arrangements configured yet": "Nog geen bijkomende afspraken geconfigureerd"
+	"No additional arrangements configured yet": "Nog geen bijkomende afspraken geconfigureerd",
+	"Sent to PRAxIS": "Verzonden naar PRAxIS",
+	"Sent to customer": "Verzonden naar klant",
+	"Delivered to PRAxIS": "Afgeleverd aan PRAxIS",
+	"Delivered to customer": "Afgeleverd aan klant",
+	"Signed by PRAxIS": "Ondertekend door PRAxIS",
+	"Signed by customer": "Ondertekend door klant",
+	"Refused by PRAxIS": "Geweigerd door PRAxIS",
+	"Refused by customer": "Geweigerd door klant"
 }

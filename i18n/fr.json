@@ -3390,5 +3390,13 @@
 	"Additional arrangements": "Accords complémentaires",
 	"Additional arrangements can only be configured through the section “Obligations of the contractors”.": "Les arrangements supplémentaires ne peuvent être configurés que via la section « Obligations des contractants ».",
 	"Configure": "Configurer",
-	"No additional arrangements configured yet": "Aucun arrangement supplémentaire n’est encore configuré"
+	"No additional arrangements configured yet": "Aucun arrangement supplémentaire n’est encore configuré",
+	"Sent to PRAxIS": "Envoyé à PRAxIS",
+	"Sent to customer": "Envoyé au client",
+	"Delivered to PRAxIS": "Remis à PRAxIS",
+	"Delivered to customer": "Remis au client",
+	"Signed by PRAxIS": "Signé par PRAxIS",
+	"Signed by customer": "Signé par le client",
+	"Refused by PRAxIS": "Refusé par PRAxIS",
+	"Refused by customer": "Refusé par le client"
 }
