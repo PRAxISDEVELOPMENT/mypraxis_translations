@@ -3389,5 +3389,6 @@
 	"Reload invoice lines": "Factuurregels opnieuw laden",
 	"Additional arrangements": "Bijkomende afspraken",
 	"Additional arrangements can only be configured through the section “Obligations of the contractors”.": "Bijkomende afspraken kunnen alleen worden geconfigureerd via de sectie “Verplichtingen van de contractanten”.",
-	"Configure": "Configureren"
+	"Configure": "Configureren",
+	"No additional arrangements configured yet": "Nog geen bijkomende afspraken geconfigureerd"
 }
