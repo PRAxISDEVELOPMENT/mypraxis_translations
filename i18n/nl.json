@@ -3387,5 +3387,6 @@
 	"Commission request accepted": "Commissieverzoek goedgekeurd",
 	"Accept commission request": "Commissieverzoek goedkeuren",
 	"Reload invoice lines": "Factuurregels opnieuw laden",
-	"Additional arrangements": "Bijkomende afspraken"
+	"Additional arrangements": "Bijkomende afspraken",
+	"Additional arrangements can only be configured through the section “Obligations of the contractors”.": "Bijkomende afspraken kunnen alleen worden geconfigureerd via de sectie “Verplichtingen van de contractanten”."
 }

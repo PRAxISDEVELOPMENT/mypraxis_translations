@@ -3387,5 +3387,6 @@
 	"Commission request accepted": "Demande de commission approuvée",
 	"Accept commission request": "Approuver la demande de commission",
 	"Reload invoice lines": "Recharger les lignes de facture",
-	"Additional arrangements": "Accords complémentaires"
+	"Additional arrangements": "Accords complémentaires",
+	"Additional arrangements can only be configured through the section “Obligations of the contractors”.": "Les arrangements supplémentaires ne peuvent être configurés que via la section « Obligations des contractants »."
 }
