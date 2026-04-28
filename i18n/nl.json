@@ -3398,5 +3398,22 @@
 	"Signed by PRAxIS": "Ondertekend door PRAxIS",
 	"Signed by customer": "Ondertekend door klant",
 	"Refused by PRAxIS": "Geweigerd door PRAxIS",
-	"Refused by customer": "Geweigerd door klant"
+	"Refused by customer": "Geweigerd door klant",
+	"Change": "Wijzigen",
+	"Change title": "Titel wijzigen",
+	"Add title": "Titel toevoegen",
+	"Title without items": "Titel zonder items",
+	"Title with items": "Titel met items",
+	"This reference is shown as the selectable item label": "Deze referentie wordt getoond als het selecteerbare itemlabel",
+	"Additional arrangement title changed": "Titel van bijkomende afspraak gewijzigd",
+	"Additional arrangement title added": "Titel van bijkomende afspraak toegevoegd",
+	"Additional arrangement title deleted": "Titel van bijkomende afspraak verwijderd",
+	"Additional arrangement item changed": "Item van bijkomende afspraak gewijzigd",
+	"Additional arrangement item added": "Item van bijkomende afspraak toegevoegd",
+	"Additional arrangement item deleted": "Item van bijkomende afspraak verwijderd",
+	"Save this section first before managing additional arrangements and items.": "Sla deze sectie eerst op voordat je bijkomende afspraken en items beheert.",
+	"Failed to load additional arrangements for this section.": "Bijkomende afspraken voor deze sectie konden niet worden geladen.",
+	"Delete additional arrangements": "Bijkomende afspraken verwijderen",
+	"You are about to delete this additional arrangement item.": "U staat op het punt dit item van de bijkomende afspraak te verwijderen.",
+	"You are about to delete this additional arrangement title and all linked items.": "U staat op het punt deze titel van de bijkomende afspraak en alle gekoppelde items te verwijderen."
 }

@@ -3398,5 +3398,22 @@
 	"Signed by PRAxIS": "Signé par PRAxIS",
 	"Signed by customer": "Signé par le client",
 	"Refused by PRAxIS": "Refusé par PRAxIS",
-	"Refused by customer": "Refusé par le client"
+	"Refused by customer": "Refusé par le client",
+	"Change": "Modifier",
+	"Change title": "Modifier le titre",
+	"Add title": "Ajouter un titre",
+	"Title without items": "Titre sans éléments",
+	"Title with items": "Titre avec éléments",
+	"This reference is shown as the selectable item label": "Cette référence est affichée comme libellé de l’élément sélectionnable",
+	"Additional arrangement title changed": "Titre de l’accord supplémentaire modifié",
+	"Additional arrangement title added": "Titre de l’accord supplémentaire ajouté",
+	"Additional arrangement title deleted": "Titre de l’accord supplémentaire supprimé",
+	"Additional arrangement item changed": "Élément de l’accord supplémentaire modifié",
+	"Additional arrangement item added": "Élément de l’accord supplémentaire ajouté",
+	"Additional arrangement item deleted": "Élément de l’accord supplémentaire supprimé",
+	"Save this section first before managing additional arrangements and items.": "Enregistrez d’abord cette section avant de gérer les accords supplémentaires et les éléments.",
+	"Failed to load additional arrangements for this section.": "Impossible de charger les accords supplémentaires pour cette section.",
+	"Delete additional arrangements": "Supprimer les accords supplémentaires",
+	"You are about to delete this additional arrangement item.": "Vous êtes sur le point de supprimer cet élément de l’accord supplémentaire.",
+	"You are about to delete this additional arrangement title and all linked items.": "Vous êtes sur le point de supprimer ce titre de l’accord supplémentaire ainsi que tous les éléments liés."
 }
