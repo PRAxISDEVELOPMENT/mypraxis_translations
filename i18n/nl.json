@@ -3415,5 +3415,6 @@
 	"Failed to load additional arrangements for this section.": "Bijkomende afspraken voor deze sectie konden niet worden geladen.",
 	"Delete additional arrangements": "Bijkomende afspraken verwijderen",
 	"You are about to delete this additional arrangement item.": "U staat op het punt dit item van de bijkomende afspraak te verwijderen.",
-	"You are about to delete this additional arrangement title and all linked items.": "U staat op het punt deze titel van de bijkomende afspraak en alle gekoppelde items te verwijderen."
+	"You are about to delete this additional arrangement title and all linked items.": "U staat op het punt deze titel van de bijkomende afspraak en alle gekoppelde items te verwijderen.",
+	"On call": "Op aanvraag"
 }
