@@ -3422,5 +3422,10 @@
 	"Compensation": "Indemnisation",
 	"Fixed fee": "Frais fixes",
 	"Variable fee": "Indemnisation variable",
-	"Total compensation": "Indemnisation totale"	
+	"Total compensation": "Indemnisation totale",
+	"Interest on outstanding amounts": "Intérêts de retard",
+	"Interest rate": "Taux d'intérêt",
+	"Number of days overdue since the invoice date": "Nombre de jours de retard depuis la date de facturation",
+	"Total interest due": "Total des intérêts dus",
+	"Total additional costs": "Total des frais supplémentaires"
 }
