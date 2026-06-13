@@ -3416,5 +3416,11 @@
 	"Delete additional arrangements": "Supprimer les accords supplémentaires",
 	"You are about to delete this additional arrangement item.": "Vous êtes sur le point de supprimer cet élément de l’accord supplémentaire.",
 	"You are about to delete this additional arrangement title and all linked items.": "Vous êtes sur le point de supprimer ce titre de l’accord supplémentaire ainsi que tous les éléments liés.",
-	"On call": "Sur demande"
+	"On call": "Sur demande",
+	"Calculation of damages and interest": "Calcul des indemnités et des intérêts",
+	"Invoice details": "Données de facturation",
+	"Compensation": "Indemnisation",
+	"Fixed fee": "Frais fixes",
+	"Variable fee": "Indemnisation variable",
+	"Total compensation": "Indemnisation totale"	
 }
