@@ -3416,5 +3416,11 @@
 	"Delete additional arrangements": "Bijkomende afspraken verwijderen",
 	"You are about to delete this additional arrangement item.": "U staat op het punt dit item van de bijkomende afspraak te verwijderen.",
 	"You are about to delete this additional arrangement title and all linked items.": "U staat op het punt deze titel van de bijkomende afspraak en alle gekoppelde items te verwijderen.",
-	"On call": "Op aanvraag"
+	"On call": "Op aanvraag",
+	"Calculation of damages and interest": "Berekening schadevergoeding en intresten",
+	"Invoice details": "Factuurgegevens",
+	"Compensation": "Schadevergoeding",
+	"Fixed fee": "Vast recht",
+	"Variable fee": "Variabele vergoeding",
+	"Total compensation": "Totaal schadevergoeding"	
 }
