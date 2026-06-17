@@ -3427,5 +3427,6 @@
 	"Interest rate": "Taux d'intérêt",
 	"Number of days overdue since the invoice date": "Nombre de jours de retard depuis la date de facturation",
 	"Total interest due": "Total des intérêts dus",
-	"Total additional costs": "Total des frais supplémentaires"
+	"Total additional costs": "Total des frais supplémentaires",
+	"Payment reminder": "Rappel de paiement"
 }
