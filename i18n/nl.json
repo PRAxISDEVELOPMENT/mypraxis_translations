@@ -3427,5 +3427,6 @@
 	"Interest rate": "Intrestvoet",
 	"Number of days overdue since the invoice date": "Aantal dagen achterstal op factuurdatum",
 	"Total interest due": "Totaal verschuldigde intresten",
-	"Total additional costs": "Totaal aan bijkomende kosten"
+	"Total additional costs": "Totaal aan bijkomende kosten",
+	"Payment reminder": "Betalingsherinnering"
 }
