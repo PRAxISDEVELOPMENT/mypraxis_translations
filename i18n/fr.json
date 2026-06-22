@@ -1126,6 +1126,7 @@
 	"Operator": "Opérateur",
 	"Handling": "Traitement",
 	"Credit notes": "Notes de crédit",
+	"Credit note": "Note de crédit",
 	"Automatic refresh": "Actualisation automatique",
 	"Facturation data changes are managed by your installer. Please contact them for further assistance.": "La modification de données de facturation sont gérées par votre installateur. Veuillez le contacter pour assistance supplémentaire.",
 	"Facturation data can only be changed upon request via PRAxIS GROUP N.V.": "Les données de facturation ne peuvent être modifiées que sur demande adressée à finance@praxis-group.eu",
